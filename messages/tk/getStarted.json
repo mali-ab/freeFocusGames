@@ -1,0 +1,279 @@
+{
+  "getStarted": {
+    "meta": {
+      "title": "Başla - Siziň üçin ideal beyin öwretme oýunyňyzy tapyň",
+      "description": "Maksatlaryňyza laýyk şahsyýetleşdirilen beyin öwretme oýunlaryny açmak üçin 2 minutlyk kognitiw synagymyzy geçiň. Gowy üns we ýat ugrundaky syýahatňyzy şu gün başladyň.",
+      "keywords": "beyin öwretme synagy, kognitiw synag, şahsyýetleşdirilen beyin oýunlary, üns öwretme, ýady gowulandyrmak, onlaýn kognitiw synag, mugt kognitiw synag, kognitiw synag mysaly, üns öwretme programmasy, üns öwretme maşklary, cogmed işjeň ýat öwretme, işjeň ýat synagy, mugt işjeň ýat synagy",
+      "ogTitle": "Beyin öwretme syýahatyňyzy başladyň - şahsyýetleşdirilen synag",
+      "ogDescription": "Çalt 2 minutlyk synagymyz bilen siziň üçin ideal beyin öwretme oýunlaryny açyň. Ünsi, ýady we kognitiw ukyplary gowulandyryň."
+    },
+    "title": "Siziň üçin ideal beyin oýunyňyzy tapalyň!",
+    "stepTitle": "{step} ädim / 3-den",
+    "steps": {
+      "goalSetting": "Siz üçin näme möhüm?",
+      "quickAssessment": "Çalt synag",
+      "recommendation": "Siziň maslahatyňyz"
+    },
+    "goalSetting": {
+      "title": "Nireden başlamak islärdiňiz?",
+      "subtitle": "Alada etmäň, ýalňyş jogap ýok! Özüňize dogry duýulan zady saýlaň:",
+      "goals": {
+        "focus": {
+          "title": "Iş/okuw üçin ünsümi gowulandyrmak",
+          "subtitle": "Wezipäň üstünde boluň we distraksiýalary azaldyň"
+        },
+        "memory": {
+          "title": "Gündelik durmuş üçin ýadymy ýitişdirmek",
+          "subtitle": "Atlary, wezipeleri we jikme-jiklikleri gowy ýat tutuň"
+        },
+        "speed": {
+          "title": "Reaksiýa wagtymy artdyrmak",
+          "subtitle": "Has çalt pikirleniň we jogap beriň"
+        },
+        "general": {
+          "title": "Diňe gyzykly akyl çäklendirmesi gözleýärin",
+          "subtitle": "Diňe şatlyk üçin beyin oýunlary!"
+        }
+      },
+      "selected": "✓ Saýlandy: {goal}"
+    },
+    "assessment": {
+      "title": "Çalt synag",
+      "description": "Şu ýerde 3 kiçi oýun görkeziler (ýer tutujy mazmun):",
+      "tests": {
+        "focus": "• Üns synagy (mysal: ýaşyl tegelek görende basyň)",
+        "memory": "• Ýat synagy (mysal: kwadratlary yzygiderlilikde basyň)",
+        "reaction": "• Reaksiýa tizligi synagy (mysal: ýaşyla öwrülende basyň)"
+      },
+      "placeholder": "(Soňra hakyky kiçi oýunlar bilen doldurylar)"
+    },
+    "recommendation": {
+      "title": "Siziň maslahatyňyz",
+      "description": "Şu ýerde saýlamalaryňyza we synag netijeleriňize esaslanan şahsyýetleşdirilen maslahatlar görkeziler.",
+      "example": "Mysal: Siziň öwretme syýahatyňyzy {gameName} bilen başlamagyňyzy maslahat berýäris!",
+      "startButton": "Öwretmäni başla",
+      "placeholder": "(Hakyky synag netijelerine esaslanan geljekdäki dinamiki maslahatlar)",
+      "yourChoice": "Siziň saýlanyňyz",
+      "weRecommend": "Biz maslahat berýäris",
+      "whyThisGame": "Näme üçin bu oýun?",
+      "reasons": {
+        "focus": "Üns öwretme üçin ideal başlangyç derejesindäki oýun",
+        "memory": "Klassiki ýat öwretme oýuny",
+        "speed": "Hünär reaksiýa tizligini synag enjamy",
+        "general": "Iň çylşyrymly kognitiw öwretme oýuny"
+      },
+      "descriptions": {
+        "focus": "Wizual gözleg öwretmesi arkaly üns jemlenmesini we päsgelçilige garşy ukybyny çalt gowulandyryň. Bu üns öwretme üçin altyn başlangyç saýlawdyr.",
+        "memory": "Yzygiderlilik nusgalaryny ýat tutmak we gaýtalamak arkaly işjeň ýady netijeli maşk ediň, kognitiw gowulandyrma öwretmesinde giňden ulanylýar.",
+        "speed": "Reaksiýa wagtyňyzy takyk ölçäň, yzygiderli tejribe arkaly beýniniň gaýtadan işleme tizligini we reaksiýa çaltlygyny düýpgöter gowulandyryň.",
+        "general": "Wizual we eşidiş iki öýdükli çäklendirmeleri birleşdirip, beýniniň köptasks ukyplaryny topleýin maşk ediň, iň netijeli kognitiw öwretme usullaryndan biri hasaplanýar."
+      },
+      "benefits": {
+        "focus": {
+          "1": "Wizual üns we gözleg ukyplaryny çalt gowulandyryň",
+          "2": "Okamak tizligini we düşünişini düýpgöter gowulandyryň",
+          "3": "Iş we okaýyş wagtynda dowamly üns wagtyny artdyryň"
+        },
+        "memory": {
+          "1": "Gysga möhletli we işjeň ýat kuwwatyny netijeli gowulandyryň",
+          "2": "Gündelik durmuşda ýat öndürijiligini gowulandyryň",
+          "3": "Ösen kognitiw öwretme üçin berk binýat gurň"
+        },
+        "speed": {
+          "1": "Häzirki reaksiýa tizligi derejesini takyk düşüniň",
+          "2": "Tejribe arkaly gaýtadan işleme tizligini düýpgöter gowulandyryň",
+          "3": "Sport öndürijiligini we gündelik reaksiýa ukyplaryny gowulandyryň"
+        },
+        "general": {
+          "1": "Birnäçe kognitiw ukyplary topleýin maşk ediň",
+          "2": "Beyniň köptasks netijeliligini gowulandyryň",
+          "3": "Çylşyrymly we gyzykly beyin öwretmeden lezzet alyň"
+        }
+      }
+    },
+    "buttons": {
+      "startAssessment": "Synagy başlat"
+    },
+    "processingSpeedTest": {
+      "title": "San deňeşdirme synagy",
+      "subtitle": "Gaýtadan işleme tizligiňizi synaň",
+      "challengeGoals": "Çäklendirme maksatlary:",
+      "timeLimit": "Wagt çägi: 10 sekunt",
+      "minComparisons": "Iň az 12 deňeşdirmäni tamamlaň",
+      "accuracyTarget": "90%+ takyklyk gazanyň",
+      "instructions": "Has uly san çalt saýlaň we wagt çägi içinde köp mukdarda deňeşdirmäni tamamlaň.",
+      "clickLarger": "Has uly sana basyň",
+      "completed": "Tamamlandy",
+      "questionsLabel": "soralar",
+      "challengeCompleted": "Çäklendirme maksady gazanyldy!",
+      "stillNeeded": "Heniz gerek",
+      "targetAccuracy": "Maksat takyklyk",
+      "testCompleted": "San deňeşdirme synagy tamamlandy!",
+      "questionsCompleted": "Tamamlanan soralar",
+      "processingSpeedScore": "Gaýtadan işleme tizliginiň baly",
+      "viewRecommendation": "Maslahaty gör",
+      "points": "bal"
+    },
+    "reactionTimeTest": {
+      "title": "Reaksiýa tizligi synagy",
+      "subtitle": "Reaksiýa tizligiňizi synaň",
+      "instructions": "Ekran ýaşyla öwrülende, derrew basyň! 3 raund synag tamamlaň.",
+      "startButton": "Synagy başlat",
+      "wait": "Garaşyň...",
+      "clickNow": "Basyň!",
+      "complete": "Tamamla",
+      "round": "Raund",
+      "clickWhenGreen": "Tegelek ýaşyla öwrülende derrew basyň",
+      "clickNow2": "Häzir basyň!",
+      "reactionTime": "Reaksiýa wagty",
+      "averageReactionTime": "Ortaça reaksiýa wagty",
+      "testComplete": "Reaksiýa tizligi synagy tamamlandy!",
+      "milliseconds": "millisekunt",
+      "nextTest": "Indiki synag"
+    },
+    "memoryTest": {
+      "title": "Yzygiderlilik ýady synagy",
+      "subtitle": "Işjeň ýadyňyzy synaň",
+      "instructions": "Bellik edilen bloklaryň yzygiderliligine tomaşa ediň, soň olary şol tertipde basyň",
+      "startButton": "Synagy başlat",
+      "testFlow": "Synag prosesi",
+      "step1": "6 blok yzygiderli ýanyna tomaşa ediň",
+      "step2": "3×3 gözenekde bloklaryň ýerini ýat tutuň",
+      "step3": "Bloklary şol tertipde basyň",
+      "observationPhase": "Gözegçilik fazasy",
+      "recallPhase": "Ýatdan gaýtalamak fazasy",
+      "rememberSequence": "Bloklaryň yzygiderliligini ýat tutuň...",
+      "clickInOrder": "Bloklary tertipde basyň",
+      "progress": "Öňegidişlik",
+      "testComplete": "Yzygiderlilik ýady synagy tamamlandy!",
+      "memoryAccuracy": "Ýat takyklygy",
+      "correctRecall": "Dogry ýatdan gaýtalamak",
+      "positions": "ýerler",
+      "excellentMemory": "🎉 Ajaýyp! Siziň güýçli işjeň ýadyňyz bar",
+      "goodMemory": "👍 Gowy! Has köp gowulandyrmak üçin tejribe ediň",
+      "keepPracticing": "💪 Synanyşyň! Işjeň ýat öwredilip bilner",
+      "continueNext": "Indikä dowam et"
+    },
+    "wordMemoryTest": {
+      "title": "Sözleri ýatda saklamak synagy",
+      "subtitle": "Gysga möhletli ýadyňyzy synaň",
+      "instructions": "Peýda boljak sözleri ýat tutuň",
+      "startButton": "Synagy başlat",
+      "testFlow": "Synag prosesi",
+      "step1": "Geljekdäki 6 sözi ýat tutuň",
+      "step2": "8 sekunt ýat wagty",
+      "step3": "Ähli sözleri ýatdan gaýtalaň we giriziň",
+      "memoryTime": "Ýat wagty: 8 sekunt",
+      "rememberWords": "Bu sözleri ýat tutuň",
+      "rememberCarefully": "Bu sözleri üns bilen ýat tutuň...",
+      "recallTest": "Ýatdan gaýtalamak synagy",
+      "enterWords": "Häzir görän sözleriňizi giriziň",
+      "hint": "💡 Maslahat: Asyl tertipde girizmeli däl, islendik tertip bolýar",
+      "wordPlaceholder": "Söz",
+      "submitAnswer": "Jogaby ibermek",
+      "testComplete": "Sözleri ýatda saklamak synagy tamamlandy!",
+      "accuracy": "Takyklyk",
+      "wordsRecalled": "Ýatdan gaýtalanan sözler",
+      "correctWords": "Dogry ýatdan gaýtalanan sözler",
+      "word": "söz",
+      "words": "sözler",
+      "missedWords": "Gaçyrylan sözler",
+      "continueNext": "Indikä dowam et",
+      "wordBank": [
+        "kamera",
+        "kitap",
+        "telefon",
+        "noutbuk",
+        "şişe",
+        "oturgyç",
+        "çyra",
+        "gapjallap",
+        "aýna",
+        "sagat",
+        "pyçak",
+        "çemçe",
+        "tabak",
+        "käse",
+        "ýastyk",
+        "söwüt",
+        "aýakgap",
+        "açarlar",
+        "äýnek",
+        "sagat",
+        "tigir",
+        "gül",
+        "saz",
+        "mekdep"
+      ]
+    },
+    "stroopTest": {
+      "title": "Kognitiw çeýelik synagy",
+      "subtitle": "Üns gözegçiligiňizi synaň",
+      "instructions": "Reňkli teksti görende, sözüniň manysyny däl-de, tekstiň reňkini basyň",
+      "example": "Mysal: Gök reňkli 'gök' sözüni görende, 'gök' düwmesini basyň",
+      "startButton": "Synagy başlat",
+      "whatColor": "Bu tekst haýsy reňk?",
+      "useKeys": "1-4 san düwmelerini ulanyň ýa-da düwmeleri basyň",
+      "testComplete": "Kognitiw çeýelik synagy tamamlandy!",
+      "accuracy": "Takyklyk",
+      "averageReactionTime": "Ortaça reaksiýa wagty",
+      "nextTest": "Indiki synag",
+      "colors": {
+        "red": "Gyrmyzy",
+        "blue": "Gök",
+        "green": "Ýaşyl",
+        "yellow": "Sary"
+      }
+    },
+    "gameRecommendations": {
+      "testComplete": "Synag tamamlandy!",
+      "personalizedRecommendation": "Siz üçin şahsyýetleşdirilen oýun maslahaty",
+      "startTraining": "Öwretmäni başlat",
+      "basedOnResults": "Synag netijeleriňize esaslanýar",
+      "recommendStart": "Şu bilen başlamagyňyzy maslahat berýäris",
+      "analysisIntro": "Häzirki synaglar arkaly,",
+      "gameNames": {
+        "dualNBack": "Dual N-Back öwretme",
+        "stroopEffect": "Stroop effekti synagy",
+        "largerNumber": "San deňeşdirmesi",
+        "frogMemoryLeap": "Gurbağa ýat böküşi",
+        "reactionTime": "Reaksiýa wagty öwretme",
+        "schulteTable": "Schulte gözenegi"
+      },
+      "recommendations": {
+        "dualNBack": "Işjeň ýadyň çäklerini barlamak üçin ideal",
+        "stroopEffect": "Kognitiw tizligi we çaknyşyk çözgüdini gowulandyrmak üçin gowy",
+        "largerNumber": "Esasy gaýtadan işleme tizligi öwretme üçin ideal",
+        "frogMemoryLeap": "Başlamak üçin gyzykly ýat öwretme oýuny",
+        "reactionTime": "Esasy reaksiýa öwretme binýady",
+        "schulteTable": "Wizual üns öwretme üçin ajaýyp"
+      }
+    },
+    "testAnalysis": {
+      "testNames": {
+        "reactionSpeed": "reaksiýa tizligi synagy",
+        "numberComparison": "san deňeşdirme synagy",
+        "sequenceMemory": "yzygiderlilik ýady synagy",
+        "attentionControl": "üns gözegçilik synagy",
+        "wordMemory": "sözleri ýatda saklamak synagy"
+      },
+      "performances": {
+        "reactionFast": "reaksiýaňyz örän çalt",
+        "reactionSlow": "reaksiýa wagty gowulandyrmaga mätäç",
+        "reactionNormal": "reaksiýa wagty kadaly",
+        "processingGood": "gaýtadan işleme tizligi gowy",
+        "processingPoor": "gaýtadan işleme tizligini pugtlandyrmak gerek",
+        "processingAverage": "gaýtadan işleme tizligi ortaça",
+        "memoryStrong": "ýat örän güýçli",
+        "memoryWeak": "ýat gowulandyrmaga mätäç",
+        "memoryAverage": "ýat öndürijiligi ortaça",
+        "attentionExcellent": "üns gözegçilik ukyby ajaýyp",
+        "attentionPoor": "üns gözegçiligi maşk etmeli",
+        "attentionAverage": "üns gözegçiligi ortaça",
+        "wordMemoryStrong": "sözleri ýatda saklamak ukyby örän güýçli",
+        "wordMemoryWeak": "sözleri ýatda saklamak öwredilmeli",
+        "wordMemoryAverage": "sözleri ýatda saklamak ortaça"
+      }
+    }
+  }
+}

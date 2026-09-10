@@ -2,7 +2,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const LOCALES = ["en", "zh"];
+const LOCALES = ["en", "zh", "tk"];
 
 function isPlainObject(value) {
   return typeof value === "object" && value !== null && !Array.isArray(value);

@@ -1,0 +1,19 @@
+{
+  "blog": {
+    "title": "Blog",
+    "description": "Üns, jemlenme usullary we toparymyzyň täzelikleri barada iň soňky ylma eýeriň.",
+    "readMore": "Has Köp Oka",
+    "currentArticle": "Häzirki Makala",
+    "meta": {
+      "title": "Blog",
+      "description": "Iň oňyn öndürijilik üçin üns, jemlenme, kognitiw gowulandyrma usullary we beyin öwretme strategiýalary barada çuňňur makalalar we ylmy beýanyny açyň."
+    },
+    "previousPost": "Öňki Ýazgy",
+    "nextPost": "Indiki Ýazgy",
+    "interactiveDemo": {
+      "title": "Interaktiw Dual N-Back Gollanmasy",
+      "description": "Ädimme-ädim interaktiw gollanmamyz bilen oýun mehanikasyny ilkiden tejribe ediň. Bu el bilen işlemek usuly dual n-back-iň nähili işleýändigini düşünmegiň iň çalt usulydyr.",
+      "buttonText": "Interaktiw Gollanmany Başla"
+    }
+  }
+}

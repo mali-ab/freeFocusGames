@@ -37,6 +37,7 @@ function LanguageSwitcher() {
   const getLanguageDisplay = () => {
     switch(locale) {
       case 'zh': return '中文';
+      case 'tk': return 'Türkmen';
       default: return 'English';
     }
   };
@@ -56,6 +57,9 @@ function LanguageSwitcher() {
         </DropdownMenuItem>
         <DropdownMenuItem onSelect={() => handleLocaleChange('zh')}>
           中文
+        </DropdownMenuItem>
+        <DropdownMenuItem onSelect={() => handleLocaleChange('tk')}>
+          Türkmen
         </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>

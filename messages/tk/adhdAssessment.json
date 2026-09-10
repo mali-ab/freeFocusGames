@@ -1,0 +1,116 @@
+{
+  "adhdAssessment": {
+    "metadata": {
+      "title": "Çagalar üçin ADHD Baha bermek | Mugt Vanderbilt Şkalasy Synagy | FreeFocusGames",
+      "description": "6-12 ýaşly çagalar üçin tassyklanan Vanderbilt Şkalasyndan peýdalanyp, professional çagalar üçin ADHD baha bermek. Çaganyňyzyň netijelerine esaslanýan şahsy beýni tälimi boýunça maslahatlary alyň.",
+      "keywords": "çagalar ADHD baha bermek, çaga ADHD synagy, Vanderbilt ADHD şkalasy çagalar, pediatrik ADHD gözegçiligi, ADHD alamatlary çagalar, mekdep ýaşly ünsi jemlemek problemi",
+      "ogTitle": "Çagalar üçin ADHD Baha bermek - Vanderbilt Şkalasy Synagy",
+      "ogDescription": "6-12 ýaşly çagalar üçin şahsy beýni tälimi boýunça maslahatlar bilen professional çagalar üçin ADHD baha bermek. Tassyklanan Vanderbilt ADHD Rating Şkalasyna esaslanýar."
+    },
+    "title": "Çagalar üçin ADHD Baha bermek",
+    "subtitle": "Vanderbilt ADHD Rating Şkalasyna esaslanýan 6-12 ýaşly çagalar üçin doly gözegçilik",
+    "disclaimer": {
+      "simple": "Bu gurgy ünsi jemlemek ýollaryňyzy düşünmäge kömek edýär - derman diagnozy däl"
+    },
+    "aboutScale": {
+      "title": "Vanderbilt Şkalasy barada",
+      "content": "Vanderbilt ADHD Rating Şkalasy, köp ugurlarda ünsi jemlemek, hereketjeňlik we impulslylyk alamatlaryny bahalandyrýan giňden ulanylýan, subutnamalara esaslanýan baha bermek gurgydyr."
+    },
+    "features": {
+      "professional": "Kliniki taýdan tassyklanan baha bermek gurallaryna esaslanýar",
+      "comprehensive": "Ünsi jemlemegiň we hereketjeňligiň alamatlaryny bahalandyrýar",
+      "evidence": "Obýektiw, gurluşykly gözegçilik berýär"
+    },
+    "buttons": {
+      "startAssessment": "Baha bermeklige başlaň",
+      "continue": "Dowam et"
+    },
+    "infoStep": {
+      "title": "Baha bermek maglumatlary",
+      "subtitle": "Bu baha bermek üçin esasy maglumatlary beriň",
+      "subject": "Bu baha bermek kim üçin?",
+      "subjectPlaceholder": "Mysal üçin: özüm, çagam, aýalym/erim",
+      "age": "Onuň ýaşy näçe?",
+      "agePlaceholder": "Mysal üçin: 25, 8 ýaşly"
+    },
+    "questionnaire": {
+      "title": "ADHD alamatlaryny baha bermek"
+    },
+    "scale": {
+      "never": "0 - Hiç haçan",
+      "occasionally": "1 - Kä wagt",
+      "often": "2 - Köplenç",
+      "veryOften": "3 - Gaty köplenç"
+    },
+    "questions": {
+      "question1": "Işde, mekdepde ýa-da beýleki işlerde jikme-jiklere üns bermezlik ýa-da ýalňyşlyklar goýbermek",
+      "question2": "Işlerde ýa-da oýunlarda ünsi dowam etdirmekde kynçylyk çekmek",
+      "question3": "Göni gepleşilende diňlemeýän ýaly görünmek",
+      "question4": "Görkezmelere eýermezlik we işi, hojalyk işlerini ýa-da borçlaryny tamamlamazlyk",
+      "question5": "Işleri we işjeňlikleri guramakda kynçylyk çekmek",
+      "question6": "Uzak dowamly aňly tagallalary talap edýän işlerden gaça durmak, halamaýan ýa-da islemeýän",
+      "question7": "Işler üçin zerur zatlary ýitirmek (meselem, gurallar, kagyzlar, açarlar, portmanat)",
+      "question8": "Daşky täsirler ýa-da näsag pikirler bilen aňsatlyk bilen ünsi sowulmak",
+      "question9": "Günlük işlerde unudujy bolmak",
+      "question10": "Eliňi ýa-da aýagyňy herekete getirmek ýa-da oturan ýeriňde gyşarmak",
+      "question11": "Oturmaklygyň talap edilýän ýagdaýlarynda orny terk etmek",
+      "question12": "Näçe-de bolsa nädogry ýagdaýlarda köp gezmek ýa-da basgançak çykmak",
+      "question13": "Oýunlarda ýa-da dynç alyş işlerinde sessiz meşgullanmakda kynçylyk çekmek",
+      "question14": "Işjeň ýagdaýda bolmak ýa-da köplenç 'motor bilen süýrenýän' ýaly hereket etmek",
+      "question15": "Köp geplemek",
+      "question16": "Soraglar tamamlanmazyndan öň jogap bermek",
+      "question17": "Öz nobatynyň gelmegini garaşmakda kynçylyk çekmek",
+      "question18": "Beýleki adamlaryň işine goşulmak ýa-da olaryň işine böwet bolmak (meselem, söhbetdeşliklere ýa-da oýunlara goşulmak)"
+    },
+    "results": {
+      "title": "Baha bermek netijeleri",
+      "subtitle": "Vanderbilt ADHD Rating Şkalasyna beren jogaplaryňyza esaslanýar",
+      "assessmentSummary": "Baha bermek jemlemesi",
+      "subject": "Ýeňilme",
+      "age": "Ýaş",
+      "totalQuestions": "Jemi jogap berlen soraglar",
+      "inattentionResults": "Ünsi jemlemegiň alamatlary",
+      "hyperactivityResults": "Hereketjeňlik/Impulslylyk alamatlary",
+      "symptomsCount": "Agdaýly alamatlar",
+      "totalScore": "Jemi bal",
+      "recommendation": "Has giňişleýin gözegçilik üçin saglyk işgäri bilen maslahatlaşmagy göz öňünde tutuň.",
+      "riskLevels": {
+        "low": {
+          "title": "ADHD üçin pes töwekgelçilik",
+          "description": "Siziň jogaplaryňyz ADHD alamatlarynyň pes mümkinçiligini görkezýär. Bu, köp ýagdaýlarda gowy ünsi jemlemek we impulslylygy dolandyrmaklygy aňladýar."
+        },
+        "moderate": {
+          "title": "ADHD üçin ortaça töwekgelçilik",
+          "description": "Siziň jogaplaryňyz has giňişleýin gözegçilikden ýa-da ugurly strategiýalardan peýdalanyp biljek käbir ünsi jemlemek ýa-da hereketjeňlik aladalaryny görkezýär."
+        },
+        "high": {
+          "title": "ADHD üçin ýokary töwekgelçilik",
+          "description": "Siziň jogaplaryňyz has giňişleýin gözegçiligi talap edýän agdaýly ünsi jemlemek we/ýa-da hereketjeňlik alamatlaryny görkezýär. Bu alamatlaryň köpüsi köplenç ýüze çykýan ýaly görünýär."
+        }
+      },
+      "gameRecommendations": "Maslahat berilýän beýni tälim oýunlary",
+      "gameRecommendationsSubtitle": "Baha bermek netijeleriňize esaslanýar, bu oýunlar ünsi we jemlemegi güýçlendirmäge kömek edip biler:",
+      "gameNames": {
+        "dual-n-back": "Iki esse N-yza tälimi",
+        "stroop-effect-test": "Stroop täsiriniň synagy",
+        "schulte-table": "Schulte stol",
+        "larger-number": "Sanlary deňeşdirmek",
+        "reaction-time": "Reaksiýa wagty synagy"
+      },
+      "gameDescriptions": {
+        "dual-n-back": "Işjeň ýady we ýerine ýetiriji ünsi dolandyrmagy güýçlendirmek",
+        "stroop-effect-test": "Aňly täsiriniň we päsgelçilik kontrolyny gowulandyrmak",
+        "schulte-table": "Görkezme ünsi we jemlemegi güýçlendirmek",
+        "larger-number": "Ýerine ýetiriş tizligini we jikme-jiklere ünsi ýitileşdirmek",
+        "reaction-time": "Jogap bermek we ünsi jemlemek üçin päsgelçilikleri ösdürmek"
+      },
+      "retakeAssessment": "Baha bermeklige gaýtadan başlaň",
+      "exploreAllGames": "Täze oýunlaryň ählisini öwreniň"
+    },
+    "learnMore": {
+      "text": "ADHD baha bermek we Vanderbilt Şkalasynyň ylmy barada has köp öwrenmek isleýärsiňizmi?",
+      "scoringLinkText": "Bal toplamak boýunça basgançakly görkezijini okaň",
+      "linkText": "Doly görkezijimizi okaň"
+    }
+  }
+}

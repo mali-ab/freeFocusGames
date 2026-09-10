@@ -1,0 +1,22 @@
+{
+  "typesOfGames": {
+    "title": "Maşk Etmegiň Dürli Usullary",
+    "subtitle": "Her oýun görnüşiniň nähili tejribe etmäge kömek edýändigini görüň.",
+    "nback": {
+      "title": "N-Back Oýunlary",
+      "description": "Işjeň ýat öwretmesiniň altyn standarty. Oýandyrma nusgalaryny ýat tutmagyňyzy çäklendirýär."
+    },
+    "schulte": {
+      "title": "Schulte Tablisalary",
+      "description": "Gözenek esasyly wizual gözleg wezipesi. Periferiki görme, okamak tizligini we saýlawly ünsi güýçlendirýär."
+    },
+    "stroop": {
+      "title": "Stroop Synaglary",
+      "description": "Kognitiw çeýeligi we togtadyş gözegçiligini ölçeýän klassik psihologik synag."
+    },
+    "memory": {
+      "title": "Gysga Möhletli Ýat",
+      "description": "Derrew ýatdan gaýtalmak kuwwatyňyzy we aralygyňyzy giňeltmek üçin niýetlenen maşklar."
+    }
+  }
+}

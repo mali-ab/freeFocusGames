@@ -1,0 +1,55 @@
+{
+  "games": {
+    "bambooCicada": {
+      "title": "Bambuk çekirge",
+      "heading": "Bambuk çekirge onlaýn oýuny",
+      "subtitle": "Hytaýyň adaty ses oýunjagyny onlaýn oýnaň we her aýlawyň jaň bolup üýtgeýändigini eşidiň",
+      "description": "Wirtual bambuk çekirgesini syçan, barmak ýa-da telefon bilen sallanyň. Has çalt aýlanýar we ýip has gysylýar, jaň has güýçli bolýar.",
+      "iframeTitle": "Interaktiw bambuk çekirge oýunjagy",
+      "metadata": {
+        "title": "Bambuk çekirge onlaýn oýuny – Sallanyň & aýdalyň",
+        "description": "Bambuk çekirgesini mugt onlaýn oýnaň. Bu adaty Hytaý ses oýunjagyny syçan, barmak ýa-da telefon bilen sallanyň we onuň jaňynyň her aýlaw üçin jogap berýändigini eşidiň.",
+        "keywords": "bambuk çekirge, adaty hytaý oýunjagy, bambuk oýunjak onlaýn, interaktiw halk oýunjagy, telefon hereket oýuny",
+        "ogTitle": "Bambuk çekirge onlaýn oýuny – Sallanyň & aýdalyň",
+        "ogDescription": "Adaty Hytaý ses oýunjagyny mugt onlaýn oýnaň. Ony syçan, barmak ýa-da telefon bilen sallanyň we jaňynyň tizlige görä üýtgeýändigini eşidiň."
+      },
+      "about": {
+        "title": "Bambuk çekirge onlaýn oýuny hakda",
+        "description": "Bu brauzer oýuny siziň adaty bambuk çekirgesini mugt, ýükläp almazdan we hasaba almazdan onlaýn oýnamaga mümkinçilik berýär. Syçan ýa-da barmak bilen tegelek çyzyň ýa-da laýyk telefony sallanyň. Bambuk tutawajy, ýip we rezonator bile hereket edýär we oýunjagyň jaňy tizlige we ýipiň dartgynlygyna tebigy jogap berýär."
+      },
+      "howToPlay": {
+        "intro": "Has çalt, has gysylýan aýlawlar bambuk çekirgesiniň jaňyny has güýçli we has ýagty edýär. Goýbereniňizde, hereket momenti bilen dowam edýär we haýallyk bilen haýallaýar.",
+        "pointer": "Oýunyň içinde syçan ýa-da barmak bilen tutuň we tegelek çyzyň. Telefonlarda kiçi, yzygiderli tegelekler aýratyn hem gowy işleýär.",
+        "auto": "Awtomatik sallamany saýlaň ýa-da klawiatura bilen Space basyň we özüňiz tegelek çyzmän doly hereketi tomaşa ediň.",
+        "motion": "Telefonda, Telefony salla saýlaň we haýyş edilende hereket rugsadyny beriň. Howpsuz tutuwy saklaň we telefony kiçi, gözegçilikli tegeleklerde hereketlendiriň.",
+        "model": "Çekirge görnüş gözegçiligini ulanyp, isleýän wizual stiliňizi saýlaň."
+      },
+      "credit": {
+        "prefix": "Bu oýun açyk çeşmeli taslamadan uýgunlaşdyryldy",
+        "suffix": ". Taslamany döreden we paýlaşan imsai-sh-a sag bol."
+      },
+      "leaderboard": {
+        "title": "Bambuk çekirge Wah-Aýlaw Liderler tablisasy",
+        "description": "Bu enjamda ýygnanan el bilen wah aýlawlary boýunça dereelenýär. Syçan, degmek we telefon sallamasy hasaba alynýar; Awto sallama hasaba alynmaýar. Iň soňky jemiňiz sallamany bes etjek wagtyňyza golaý ibermek berýär."
+      },
+      "faq": {
+        "what": {
+          "question": "Bambuk çekirge näme?",
+          "answer": "Bu bambuk rezonator, perde, rosinli ýip we kiçi tutawaçdan ýasalan adaty halk oýunjagydyr. Sallamak perde we bambuk kamera arkaly rezonans edýän gaýtalanýan sürtülme pulsýalaryny döredýär."
+        },
+        "sound": {
+          "question": "Näme üçin ses çalt sallanylanda üýtgeýär?",
+          "answer": "Çalt aýlawlar we has gysylýan ýip bambuk çekirgesiniň jaňyny has güýçli we has ýagty edýär. Haýallaýan ýa-da ýip boşaşan wagtynda, ses tebigy peselýär."
+        },
+        "motion": {
+          "question": "Näme üçin telefon hereket gözegçiligini görýä ýa-da işjeňleşdirip bilemok?",
+          "answer": "Telefonlaryň hemmesi hereket giriş goldamaýar. Telefony salla saýlaň we haýyş edilende rugsat beriň. Düwme elýeterli bolmasa, barmak bilen tegelek çyzyp ýa-da Awto sallamany ulanyp bilersiňiz."
+        },
+        "model": {
+          "question": "Bambuk çekirgesiniň jaň etmegini nähili aňsat edip bilerin?",
+          "answer": "Kiçi, yzygiderli tegeleklerden başlap ýipi gysyň, soň tizligiňizi tekiz artdyryň. Örän uly tegelekler, birden öwrümler we ýygy-ýygydan durmalar ýipi boşadyp biler."
+        }
+      }
+    }
+  }
+}

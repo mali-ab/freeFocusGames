@@ -4,7 +4,7 @@ import { categories } from '../data/categories'
 import { blogData } from '@/data/generated'
 import { CONTENT_LAST_UPDATED_DATE, SITE_BASE_URL } from '@/lib/site-constants'
 
-const LOCALES = ['en', 'zh'] // 支持的语言列表
+const LOCALES = ['en', 'zh', 'tk'] // 支持的语言列表
 const CAREER_TEST_LAST_UPDATED_DATE = new Date('2026-08-17T00:00:00.000Z')
 export const revalidate = 86400
 

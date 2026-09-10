@@ -1,0 +1,71 @@
+{
+    "games": {
+        "478Breathing": {
+            "title": "4-7-8 demgysma maşky",
+            "subtitle": "Dr. Weil-iň tebigy uky we rahatlama usuly",
+            "description": "Lotos animasiýa gollanmamyz bilen 4-7-8 demgysma usulyny maşk ediň. 4 sekunt dem alyň, 7 sekunt saklaň, 8 sekunt dem çykaryň. Has çalt uklamaga, aladany azaltmaga we nerw ulgamyňyzy asuda etmäge kömek edýän güýçli tebigy usul.",
+            "metadata": {
+                "title": "4-7-8 demgysmak: Tebigy uky kömegi we aladany ýeňilleşdirmek",
+                "description": "Insomnia bilen göreşýärsiňizmi? Dr. Weil-iň 4-7-8 demgysma usulyny onlaýn maşk ediň. Bu gollanma maşky parasimpatik nerw ulgamyňyzy işjeňleşdirip, çalt uklamaga we ylgaýan pikirleri duruzmaga kömek edýär.",
+                "keywords": "4-7-8 demgysma usuly onlaýn, dr weil demgysma usuly, tebigy uky kömegi demgysmak, parasimpatik nerw ulgamyny işjeňleşdirmek, çalt uklamak üçin demgysmak, gijeki ylgaýan pikirleri duruzmak, insomnia demgysma maşky",
+                "ogTitle": "4-7-8 demgysmak: Tebigy uky kömegi we aladany ýeňilleşdirmek",
+                "ogDescription": "Insomnia bilen göreşýärsiňizmi? Dr. Weil-iň 4-7-8 demgysma usulyny onlaýn maşk ediň. Bu gollanma maşky parasimpatik nerw ulgamyňyzy işjeňleşdirip, çalt uklamaga we ylgaýan pikirleri duruzmaga kömek edýär."
+            },
+            "howToPlay": {
+                "intro": "4-7-8 demgysma nusgaňyzy gollanmak üçin lotos gül animasiýasyna eýeriň:",
+                "step1": "4-7-8 nusgasy: 4 sekunt dem alyň, 7 sekunt saklaň, 8 sekunt dem çykaryň.",
+                "step2": "Lotos açylka 4 sekunt burnuňyz arkaly dem alyň.",
+                "step3": "Lotos doly açyk duran ýagdaýynda 7 sekunt demiňizi saklaň.",
+                "step4": "Lotos ýapylanda 8 sekunt haýal dem çykaryň. 4-8 sikl gaýtalaň.",
+                "tipTitle": "Pro maslahat",
+                "tip": "Ukudan öň ýatakda 4-7-8 demgysmasyny maşk ediň. Uzyn dem çykarmak parasimpatik nerw ulgamyňyzy işjeňleşdirýär we ony iň netijeli tebigy uky kömekleriniň birine öwürýär."
+            },
+            "benefits": {
+                "anxiety": {
+                    "title": "Has çalt uklamak",
+                    "description": "Uzalýan dem çykarmak we uzyn saklamak nerw ulgamyňyzy 'dynç al we siňdir' režimine geçirýär, tebigy usulda uklamagy düýpgöter aňsatlaşdyrýar."
+                },
+                "focus": {
+                    "title": "Çuň aladany ýeňilleşdirmek",
+                    "description": "7 sekuntlyk saklamak alada aýlawlaryny we ylgaýan pikirleni duruzmaga kömek edýän, çuň asudalyk duýgusyny goldaýan duralga döredýär."
+                },
+                "cardiovascular": {
+                    "title": "Gan basyşyny peseltmek",
+                    "description": "Barlaglar 4-7-8 nusgasynyň minutlaryň içinde gan basyşyny we ýürek urşyny peseldip biljekdigini, kardio-waskulýar saglygy goldaýandygyny görkezýär."
+                },
+                "recovery": {
+                    "title": "Islendik ýerde, islendik wagt",
+                    "description": "Enjam gerek däl. Ýatakda, iş stoluňyzda, jemgyýetçilik ulagynda ýa-da asuda pursada gerek bolan islendik ýerde maşk ediň."
+                }
+            },
+            "science": {
+                "title": "4-7-8 demgysmasynyň ylmy",
+                "description": "Dr. Andrew Weil tarapyndan işlenip düzülen 4-7-8 usuly, parasimpatik nerw ulgamyny işjeňleşdirmek üçin uzalýan dem çykarmagyň güýjünden peýdalanýar. Uzyn dem çykarmak (8 sekunt) wagus nerwini dem almadan has güýçli oýarýar, netijede asudalyk täsiri döredýär. 7 sekuntlyk saklamak kislorodyň gan akymyna has doly siňmegine mümkinçilik berýär we CO2 çydamlylygyny artdyrýar. Kliniki barlaglar uklamak wagtyny 50% çenli azaldyp biljekdigini görkezýär.",
+                "blogArticleTitle": "Oka: 4-7-8 demgysmasynyň ylmy",
+                "authorityLinks": {
+                    "nih": "Uzalýan dem çykarmak we parasimpatik işjeňleşme barada barlag.",
+                    "frontiers": "4-7-8 demgysma protokoly we uky başlangyç wagty barada barlag.",
+                    "wikipedia": "Dr. Andrew Weil-iň integratiw lukmançylyk tejribelerine syn."
+                }
+            },
+            "faq": {
+                "whatIs": {
+                    "question": "4-7-8 demgysmak näme?",
+                    "answer": "4-7-8 demgysmak Dr. Andrew Weil tarapyndan işlenip düzülen usuldyr. 4 sekunt burnuňyz arkaly dem alyň, 7 sekunt demiňizi saklaň we 8 sekunt agzyňyz arkaly dem çykaryň. Uzalýan dem çykarmak çuň rahatlamak jogabyny döredýär."
+                },
+                "howLong": {
+                    "question": "4-7-8 demgysmasynyň näçe siklini etmelim?",
+                    "answer": "Dr. Weil 4 siklden başlamagy we 8 sikle çenli işlemegi maslahat berýär. Bir sikl takmynan 19 sekunt alýar, şonuň üçin 4 sikl takmynan 76 sekunt alýar. Şeýle gysga tejribe hem düýpgöter asudalyk täsirlerini döredip biler."
+                },
+                "optimal": {
+                    "question": "4-7-8 demgysmak uka kömek edip bilermi?",
+                    "answer": "Hawa! 4-7-8 demgysmak iň netijeli tebigy uky kömekleriniň biridir. Uzyn dem çykarmak parasimpatik nerw ulgamyny işjeňleşdirip, ýürek urşyňyzy haýalladýar we bedeniňizi uky üçin taýýarlaýar. Köp adamlar tejribäniň 2-3 raundynda uklaýar."
+                },
+                "benefits": {
+                    "question": "4-7-8 demgysmak Guty demgysmasyndan nähili tapawutlanýar?",
+                    "answer": "Guty demgysmak deň 4-4-4-4 wagtlaýynlygy ulanýar we stres astynda oýanlyga we üns üçin iň gowudyr. 4-7-8 demgysmak uzynrak saklamak we dem çykarmak bilen asimetrik wagtlaýynlygy ulanýar, bu ony rahatlama we uky üçin has gowy edýär. Ikisem bu saýtda — haýsysyňyz üçin işleýär görmek üçin ikisini hem synaň."
+                }
+            }
+        }
+    }
+}

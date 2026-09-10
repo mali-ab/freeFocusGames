@@ -1,0 +1,114 @@
+{
+  "adultAdhdAssessment": {
+    "metadata": {
+      "title": "Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegi (ASRS v1.1) synagy | Mugt barlag",
+      "description": "Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegi (ASRS v1.1) barlagyny onlaýn mugt geçiriň. A böleginiň barlag netijesini, umumy netijäňizi we ulylar üçin ADHD ASRS netijeleriniň nämäni aňladyp biljekdigi barada görkezmeleri gözden geçiriň.",
+      "keywords": "ulylar üçin adhd öz-özüňi seljeriş ölçegi, adhd öz-özüňi seljeriş ölçegi, ulylar üçin adhd öz-özüňi seljeriş ölçegi asrs, asrs v1 1, ulylar üçin adhd seljerişi, asrs bahalandyrmasy, asrs netijesini düşündirmek, ulylar üçin adhd barlag synagy",
+      "ogTitle": "Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegi (ASRS v1.1) synagy",
+      "ogDescription": "Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegi (ASRS v1.1) barlagyny onlaýn mugt geçiriň we A böleginiň barlag netijesini, umumy netijäňizi we indiki ädimler barada görkezmeleri gözden geçiriň."
+    },
+    "title": "Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegi (ASRS) synagy",
+    "subtitle": "Mugt ulylar üçin ADHD ASRS barlagyny geçiriň, A böleginiň we umumy netijeleriňizi gözden geçiriň we netijeleriň nämäni aňladyp biljekdigini öwreniň",
+    "disclaimer": {
+      "simple": "Bu ASRS barlagy alamatlaryň patternlerini düşünmäge kömek edip biler, ýöne bu lukmançylyk diagnozy däldir"
+    },
+    "aboutScale": {
+      "title": "Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegi (ASRS) barada",
+      "content": "Bütindünýä Saglygy Goraýyş Guramasynyň (BSGG) Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegi (ASRS-v1.1) ulylar üçin ADHD alamatlaryny barlamak üçin giňden ulanylýan sorag-jogapdyr. Bu sahypa ASRS soraglaryny ýerine ýetirmäge, A böleginiň barlag netijäňizi we umumy netijäňizi gözden geçirmäge we jogaplaryňyz alada döredýän bolsa, indiki akylly ädimleri düşünmäge kömek edýär."
+    },
+    "features": {
+      "professional": "Ulylar üçin BSGG Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegini (ASRS-v1.1) ulanýar",
+      "comprehensive": "Ulylar üçin ünsiň kemelmegi we giperaktiwlik alamatlaryny öz içine alýar",
+      "evidence": "A böleginiň barlag netijäňizi, umumy netijäňizi we indiki ädimler barada görkezmeleri görkezýär"
+    },
+    "buttons": {
+      "startAssessment": "ASRS Barlagyny Başlaň",
+      "continue": "Dowam et"
+    },
+    "infoStep": {
+      "title": "Ulylar üçin ADHD ASRS Barlagy",
+      "subtitle": "Birnäçe maglumaty giriziň, soňra Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegi soraglaryna jogap beriň.",
+      "subject": "Bu seljeriş kim üçin?",
+      "subjectPlaceholder": "Mysal üçin, özüm, jübüdeşim, maşgala agzasy",
+      "age": "Onuň ýaşy näçe?",
+      "agePlaceholder": "Mysal üçin, 25, 30, 45"
+    },
+    "questionnaire": {
+      "title": "Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegi soraglary"
+    },
+    "scale": {
+      "never": "0 - Hiç haçan",
+      "rarely": "1 - Az wagtyň",
+      "sometimes": "2 - Kä wagt",
+      "often": "3 - Köplenç",
+      "veryOften": "4 - Örän köplenç"
+    },
+    "questions": {
+      "question1": "Işleriň çylşyrymly bölekleri tamamlanandan soň, işiň soňky jikme-jiklerini gutarmakda näçe gezek kynçylyk çekýärsiňiz?",
+      "question2": "Guramaçylyk talap edýän işi ýerine ýetirmeli bolanyňyzda, zatlary düzmekde näçe gezek kynçylyk çekýärsiňiz?",
+      "question3": "Duşuşyklary ýa-da borçnamalary ýatda saklamakda näçe gezek kynçylyk çekýärsiňiz?",
+      "question4": "Köp pikir etmegi talap edýän işiňiz bolanda, başlamaýan ýa-da giç başlaýan wagtyňyz näçe gezek bolýar?",
+      "question5": "Uzaga çenli oturyp bolmaýan wagtyňyzda elleriňiz ýa-da aýaklaryňyz bilen näçe gezek hereket edýärsiňiz ýa-da oýnaýarsyňyz?",
+      "question6": "Näçe gezek özüňizi örän işjeň duýýarsyňyz we ýörite hereket etmäge mejbur bolýarsyňyz, ýaly, motor bilen sürülen ýaly?",
+      "question7": "Boring ýa-da kyn iş bilen meşgullanmaly bolanyňyzda näçe gezek seresaplyksyz ýalňyşlyklar edýärsiňiz?",
+      "question8": "Boring ýa-da gaýtalanýan işi edeniňizde ünsi saklamakda näçe gezek kynçylyk çekýärsiňiz?",
+      "question9": "Adamlar size göni gepleşýän bolsa-da, olaryň aýdýan zatlaryna üns bermekde näçe gezek kynçylyk çekýärsiňiz?",
+      "question10": "Öýde ýa-da işde zatlary ýitirmekde ýa-da tapmakda näçe gezek kynçylyk çekýärsiňiz?",
+      "question11": "Daş-daşdaky hereketler ýa-da sesler bilen näçe gezek ünsüňiz sowulýar?",
+      "question12": "Duşuşyklarda ýa-da oturmak talap edilýän beýleki ýagdaýlarda näçe gezek ornuňyzdan galýarsyňyz?",
+      "question13": "Näçe gezek özüňizi rahatsyz ýa-da oýnaýan ýaly duýýarsyňyz?",
+      "question14": "Özüňiz üçin boş wagtyňyzda dynç almakda we rahatlanmakda näçe gezek kynçylyk çekýärsiňiz?",
+      "question15": "Sosial ýagdaýlarda näçe gezek köp gepleýändigiňizi bilýärsiňiz?",
+      "question16": "Gepleşigiň dowamynda, siz bilen gepleşýän adamlaryň sözlerini olar gutarmanka, siz gutarýan wagtyňyz näçe gezek bolýar?",
+      "question17": "Nobat tutmak zerur bolan ýagdaýlarda nobatyňyzyň gelmegini näçe gezek garaşmakda kynçylyk çekýärsiňiz?",
+      "question18": "Adamlar biynjalyk bolanda, olary näçe gezek bölýärsiňiz?"
+    },
+    "results": {
+      "title": "ASRS Netijeleri",
+      "subtitle": "Bu netijeler Ulylar üçin ADHD-niň öz-özüňi seljeriş ölçegi (ASRS-v1.1) boýunça A böleginiň barlag netijäňizi we umumy netijäňizi jemleýär.",
+      "assessmentSummary": "Seljeriş Jemlemesi",
+      "subject": "Ýeňil",
+      "age": "Ýaş",
+      "totalQuestions": "Jemi Jogaplanan Soraglar",
+      "partAScore": "A Bölegi Netijesi (Barlag)",
+      "totalScore": "Jemi Netije",
+      "recommendation": "Eger barlag netijäňiz ýokary bolsa ýa-da alamatlar gündelik durmuşa täsir etse, netijeleri hünärli saglygy goraýyş işgäri bilen ara alyp maslahatlaşmagyňyzy maslahat berýäris.",
+      "riskLevels": {
+        "low": {
+          "title": "Ulylar üçin ADHD-niň pes mümkinçiligi",
+          "description": "Jogaplaryňyz ulylar üçin ADHD alamatlarynyň pes mümkinçiligini görkezýär. Bu, köp sanly ulylar ýagdaýlarynda gowy üns sazlaşmasyny we impuls kontrolyny görkezýär."
+        },
+        "moderate": {
+          "title": "Ulylar üçin ADHD-niň ortaça mümkinçiligi",
+          "description": "Jogaplaryňyz ulylar üçin ADHD dolandyryşy üçin goşmaça seljeriş ýa-da ugry görkezilen strategiýalardan peýdalanyp biljek käbir üns ýa-da giperaktiwlik aladalaryny görkezýär."
+        },
+        "high": {
+          "title": "Ulylar üçin ADHD-niň ýokary mümkinçiligi",
+          "description": "Jogaplaryňyz hünärli seljerişi talap edýän möhüm üns we/ýa-da giperaktiwlik alamatlaryny görkezýär. Bu alamatlaryň köpüsi siziň ulylar durmuşyňyzda köplenç ýüze çykýan ýaly görünýär."
+        }
+      },
+      "gameRecommendations": "Maslahat berilýän beýni tälim oýunlary",
+      "gameRecommendationsSubtitle": "Seljeriş netijeleriňize esaslanyp, bu oýunlar ulylar üçin ünsi we fokusy güýçlendirmäge kömek edip biler:",
+      "gameNames": {
+        "dual-n-back": "Iki esse N-yza tälimi",
+        "stroop-effect-test": "Stroop täsiri synagy",
+        "schulte-table": "Schulte tablisasy",
+        "larger-number": "Sanlary deňeşdirmek",
+        "reaction-time": "Reaksiýa wagty synagy"
+      },
+      "gameDescriptions": {
+        "dual-n-back": "Işjeň ýady we ýerine ýetiriji ünsiň gözegçiligini güýçlendirýär",
+        "stroop-effect-test": "Kognitiwlylygyň we päsgelçilik kontrolynyň täsirini ýokarlandyrýar",
+        "schulte-table": "Görkezme ünsi we konsentrasiýany güýçlendirýär",
+        "larger-number": "Prosesleşdirme tizligini we jikme-jiklere ünsi berkidýär",
+        "reaction-time": "Jogap bermekden saklanmagy we fokusy ösdürýär"
+      },
+      "retakeAssessment": "Seljerişi täzeden geçiriň",
+      "exploreAllGames": "Täze oýunlaryň hemmesini öwreniň"
+    },
+    "learnMore": {
+      "text": "ASRS bahalandyrmasyny, düşündirişini we barlagyny düşünmek üçin kömek gerekmi?",
+      "linkText": "ASRS bahalandyrma gollanmasyny okaň"
+    }
+  }
+}

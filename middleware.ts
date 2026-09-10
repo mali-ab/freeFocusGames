@@ -14,8 +14,8 @@ export default async function middleware(request: NextRequest) {
 
     // Career Tests are intentionally English-only. Keep their public URLs
     // unprefixed and ignore any previously selected site-language cookie.
-    if (/^\/(?:en|zh)\/career-tests(?:\/|$)/.test(pathname)) {
-        const englishOnlyPath = pathname.replace(/^\/(?:en|zh)/, '') || '/career-tests';
+    if (/^\/(?:en|zh|tk)\/career-tests(?:\/|$)/.test(pathname)) {
+        const englishOnlyPath = pathname.replace(/^\/(?:en|zh|tk)/, '') || '/career-tests';
         return NextResponse.redirect(
             new URL(englishOnlyPath + request.nextUrl.search, request.url),
             301

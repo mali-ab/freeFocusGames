@@ -1,0 +1,108 @@
+{
+  "games": {
+    "spacebarClicker": {
+      "title": "Spacebar basyjy synagy",
+      "subtitle": "Gysga klawiatura basyş raundlary, çalt bal barlaglary we az sürtülmeli gaýtadan oýnamak üçin gurlan arassa onlaýn spacebar tizlik synagy",
+      "description": "5, 10 ýa-da 30 sekuntda space bar-a näçe gezek basyp biljekdigiňizi synaň. Bu mugt onlaýn spacebar basyjy arassa wizual görnüşler, ýerli iň gowy ballar we mobil degmek goldawy bilen çalt klawiatura tizlik synagy hökmünde işleýär.",
+      "metadata": {
+        "title": "Spacebar basyjy synagy: Onlaýn mugt spacebar tizlik synagy",
+        "description": "Gysga wagtly raundlarda space bar-a nädip çalt basyp biljekdigiňizi ölçemek üçin bu mugt onlaýn spacebar basyjy synagyny synaň. 5, 10 we 30 sekuntda basyş tizligiňizi deňeşdiriň.",
+        "keywords": "spacebar basyjy, space bar basyjy, spacebar basyş synagy, space bar basyş synagy, spacebar tizlik synagy, spacebar cps synagy, space bar hasgarlagyjy, klawiatura tizlik synagy",
+        "ogTitle": "Spacebar basyjy synagy: Onlaýn mugt spacebar tizlik synagy",
+        "ogDescription": "Bu arassa onlaýn klawiatura basyş synagy bilen 5, 10 ýa-da 30 sekuntda spacebar tizligiňizi ölçäň."
+      },
+      "preview": {
+        "eyebrow": "Klawiatura tizligi",
+        "title": "Space bar-a basyň",
+        "statusIdle": "Taýýar",
+        "statusActive": "Hasaplanýar",
+        "statusDone": "Tamamlandy",
+        "counterLabel": "Hasgarlagyjy",
+        "keyLabel": "Düwme"
+      },
+      "howToPlay": {
+        "description": "Bu sahypa ýeňil klawiatura tizlik synagydyr. Gysga rauntda näçe dogry spacebar basyşyny edip biljekdigiňizi hasaplaýar we ony aňsat sekuntda basyş sany ölçegine öwürýär.",
+        "step1": "Raunt uzynlygyny saýlaň: 5, 10 ýa-da 30 sekunt",
+        "step2": "Klawiaturaňyzdaky space bar-a basyň ýa-da degiji enjamlarda ekrandaky düwmäni basyň",
+        "step3": "Wagt saýlaw ilkinji dogry basyşyňyzda başlaýar",
+        "step4": "Raundy tamamlaň we basyşlaryňyzy, ortaça tizligiňizi we ýerli iň gowy netijäňizi deňeşdiriň",
+        "modes": {
+          "5s": "5s",
+          "10s": "10s",
+          "30s": "30s"
+        }
+      },
+      "benefits": {
+        "rhythm": {
+          "title": "Klawiatura ritmi",
+          "description": "Gysga rauntlar tempini ýitirmän ýönekeý girizme nusgasyny nähili yzygiderli gaýtalap biljekdigiňizi deňeşdirmegi aňsatlaşdyrýar."
+        },
+        "burst": {
+          "title": "Partlama tizligi",
+          "description": "5 sekuntlyk raunt çalt basyş güýjüni synamak üçin peýdalydyr, uzynrak rauntlar bolsa tizligiňiziň dowamlylygyny görkezýär."
+        },
+        "reset": {
+          "title": "Çalt täzelenme",
+          "description": "Her raundyň gysgalygy sebäpli, uzyn üns sessiýasyndan ýa-da beýleki tizlik synagyndan öň motor ýyladyş maşky hökmünde gowy işleýär."
+        }
+      },
+      "science": {
+        "title": "Bu spacebar synagy aslynda näme ölçeýär",
+        "description": "Spacebar basyjy esaslandyrylan gysga klawiatura basyş ölçegidir. Ol barmagyň partlama tizligini, gaýtalanýan motor gözegçiligini, tempini we bellenen pencerede yzygiderli bolup biljekdigiňizi görkezýär. Çuň kognitiw bahalandyrma derekinde däl-de, ýönekeý şahsy binýat hökmünde ulanylmaga mynasypdyr.",
+        "blogArticleTitle": "Oka: CPS baly gowy näme?"
+      },
+      "leaderboardNote": "Umumiy liderler tablisasy diňe 10 sekuntlyk režimi yzarlayar, ortaça spacebar basyşynyň sekuntda sany boýunça dereelenýär.",
+      "faq": {
+        "measure": {
+          "question": "Bu spacebar basyjy aslynda näme ölçeýär?",
+          "answer": "Ol bellenen wagt penceresinde näçe arassa basyş edip biljekdigiňizi we ortaça sekuntda basyş sanyňyzy ölçeýär. Amalda, bu barmagyň partlama tizligini, esasy klawiatura ritmini we gysga wagt yzygiderliligini görkezýär."
+        },
+        "keyboard": {
+          "question": "Klawiatura bala täsir edýärmi?",
+          "answer": "Hawa, käbir derejede. Düwme hereketi, pružina duýgusy, klawiatura ölçegi we typta oturgyňyz hemmesi rahatlyk we tizlige täsir edip biler. Iň peýdaly deňeşdirme şol bir enjamda öňki raundlaryňyza garşydyr."
+        },
+        "mobile": {
+          "question": "Ony mobilde hem ulanyp bilerinmi?",
+          "answer": "Hawa. Telefon we planşetlerde ekrandaky space düwmesini basyp bilersiňiz. Çalt basyş synagy hökmünde henizem peýdalydyr, ýöne fiziki klawiatura ballary adatça tapawutly duýulýar."
+        },
+        "cps": {
+          "question": "Bu CPS synagyndan nähili tapawutlanýar?",
+          "answer": "CPS synagy çalt syçan basyşlaryna üns berýär. Bu sahypa space bar bilen gaýtalanýan klawiatura basyşlaryna üns berýär. Olar baglanyşykly tizlik synaglarydyr, ýöne birmeňzeş fiziki hereketi ölçemeýär."
+        },
+        "bestMode": {
+          "question": "Haýsy režimi ulanmaly?",
+          "answer": "Partlama tizligi üçin 5 sekunt, balansly ölçeg üçin 10 sekunt we uzynrak rauntda ritmi nähili saklap biljekdigiňizi görmek isleseňiz 30 sekunt ulanyň."
+        }
+      },
+      "gameUI": {
+        "eyebrow": "Spacebar tizlik synagy",
+        "readyTitle": "Başlamak üçin space-a basyň",
+        "readyDescription": "Bu tab-yi üns merkezinde saklaň, soň wagt saýlawy başlamak üçin klawiaturaňyzdaky space bar-a basyň. Degiji enjamlarda, ýerine aşakdaky düwmäni basyň.",
+        "keepGoing": "Ritmi yzygiderli saklaň",
+        "runningDescription": "Her arassa basyş hasaplanýar. Raunt tamamlananda sagat awtomatik durýar.",
+        "resultTitle": "Raunt tamamlandy",
+        "resultDescription": "Bu rauntda {count} dogry basyş ýazdyňyz.",
+        "pressButton": "Spacebar basyjy düwmesi",
+        "keyboardHint": "Klawiatura ýa-da degmek",
+        "keyLabel": "Space düwmesi",
+        "startHint": "Ilkinji basyş wagt saýlawy başladýar",
+        "tapFaster": "Space bar-a basmagy dowam etdiriň",
+        "reset": "Täzelen",
+        "continueChallenge": "Çäklendirmäni dowam etdir",
+        "stats": {
+          "presses": "Basyşlar",
+          "timeLeft": "Galan wagt",
+          "rate": "Häzirki tizlik",
+          "best": "Ýerli iň gowy"
+        },
+        "results": {
+          "totalPresses": "Jemi basyşlar",
+          "averageRate": "Ortaça tizlik",
+          "duration": "Raunt",
+          "localBest": "Režim üçin iň gowy"
+        },
+        "noBestYet": "Heniz iň gowy ýok"
+      }
+    }
+  }
+}

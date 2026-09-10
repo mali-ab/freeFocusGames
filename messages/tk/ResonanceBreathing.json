@@ -1,0 +1,104 @@
+{
+    "games": {
+        "resonanceBreathing": {
+            "title": "Rezonans demgysmak",
+            "subtitle": "Wagus nerwiňizi minutda 6 dem bilen işjeňleşdiriň",
+            "description": "Ylmy taýdan optimal minutda 6 dem derejesinde yzygiderli demgysmasyny maşk ediň. Bu lotos gollanma demgysma maşky wagus nerwiňizi oýarmaga, ýürek urşy üýtgeýjiligini (HRV) gowulandyrmaga we bedeniňiziň rahatlamak jogabyny işjeňleşdirmäge kömek edýär. Şeýle hem Guty demgysmak we 4-7-8 demgysma režimleri bar.",
+            "metadata": {
+                "title": "Rezonans demgysmak: HRV biofeedback we wagus nerwini oýarmak",
+                "description": "Takyk minutda 6 dem bilen yzygiderli demgysmasyny maşk ediň. Bu rezonans demgysma depgin guraly Ýürek Urşy Üýtgeýjiligini (HRV) iň ýokary derejä ýetirýär we çuň ulgam rahatlamasy üçin wagus nerwini oýarýar.",
+                "keywords": "rezonans demgysma depgini onlaýn, minutda 6 dem bilen yzygiderli demgysmak, hrv biofeedback öwretme, wagus nerwini oýarmak demgysmak, ýürek yzygiderliligi depgin, haýal demgysma programmasy mugt, awtonom nerw ulgamyny kadalaşdyrmak",
+                "ogTitle": "Rezonans demgysmak: HRV biofeedback we wagus nerwini oýarmak",
+                "ogDescription": "Takyk minutda 6 dem bilen yzygiderli demgysmasyny maşk ediň. Bu rezonans demgysma depgin guraly Ýürek Urşy Üýtgeýjiligini (HRV) iň ýokary derejä ýetirýär we çuň ulgam rahatlamasy üçin wagus nerwini oýarýar."
+            },
+            "howToPlay": {
+                "intro": "Dem almagyňyzy gollanmak üçin lotos gül animasiýasyna eýeriň. Köp demgysma nusgalaryndan saýlaň:",
+                "step1": "Demgysma režimini saýlaň: Rezonans, Guty demgysmak ýa-da 4-7-8.",
+                "step2": "Başlamak üçin 'Başlat' basyň. Lotos ýapraklary açylka DEM ALYŇ.",
+                "step3": "Lotos duran wagtynda demiňizi SAKLAŇ (Guty we 4-7-8 režimleri üçin).",
+                "step4": "Lotos ýapraklary ýapylanda ýumşak DEM ÇYKARYŇ. 5-10 minut dowam ediň.",
+                "tipTitle": "Pro maslahat",
+                "tip": "Burnuňyz arkaly dem alyň we dem alanyňyzda garyn giňelýän bolsun. Bu çuň rahatlamak üçin diafragmatiki demgysmasyny işjeňleşdirýär."
+            },
+            "benefits": {
+                "anxiety": {
+                    "title": "Azaldylan alada we stres",
+                    "description": "Parasimpatik nerw ulgamyny işjeňleşdirip, kortizol derejesini peseldýär. Yzygiderli tejribe has asuda emosiýa ýagdaýyny we gowy uky hilini goldaýar."
+                },
+                "focus": {
+                    "title": "Gowulandyrylan üns we aýdyňlyk",
+                    "description": "Akylyň çyňňaklygyny azaltmak, jemlenmäni gowulandyrmak we basyş astynda karar bermegi güýçlendirmek üçin awtonom nerw ulgamyny kadalaşdyrýar."
+                },
+                "cardiovascular": {
+                    "title": "Has gowy kardio-waskulýar saglyk",
+                    "description": "Demgysma maşklary arkaly HRV-ni gowulandyrmak tebigy usulda gan basyşyny peseldip biler we gan damarlarynyň funksiýasyny gowulandyryp biler."
+                },
+                "recovery": {
+                    "title": "Güýçlendirilen sport dikeldişi",
+                    "description": "Maşklaryň arasynda dikeldişi çaltlaşdyrýar we fizioloji taýdan taýýarlygy optimallaşdyrmak arkaly aşa maşk etmegiň öňüni alýar."
+                }
+            },
+            "science": {
+                "title": "Rezonans demgysmasynyň ylmy",
+                "description": "Takmynan minutda 6 dem derejesindäki rezonans demgysmak (yzygiderli demgysmak hem diýilýär) ýürek urşyňyzyň, gan basyşyňyzyň we demgysmaňyzyň sinhronlaşýan ýagdaýyny döredýär. Barorefleks rezonans diýilýän bu hadysa ýürek urşy üýtgeýjiligini we wagal tonusyny iň ýokary derejä ýetirýär. Köp NIH neşir eden barlaglar yzygiderli tejribäniň aladany azaldýandygyny, ünsi gowulandyryandygyny we kardio-waskulýar saglygy güýçlendirýändigini tassyklaýar.",
+                "blogArticleTitle": "Oka: Rezonans demgysmasynyň ylmy",
+                "authorityLinks": {
+                    "nih": "HRV biofeedback we haýal demgysma çäreleri barada kazyýetli barlag.",
+                    "frontiers": "Haýal depginli demgysma we psihologiki abadançylyk barada toplumlaýyn barlag.",
+                    "wikipedia": "Wagus nerwi we onuň funksiýalary barada Wikipedia makalasy."
+                }
+            },
+            "faq": {
+                "whatIs": {
+                    "question": "Rezonans demgysmak näme?",
+                    "answer": "Rezonans demgysmak (yzygiderli demgysmak hem diýilýär) minutda takmynan 6 dem bilen haýal depginli demgysma usulydyr. Bu aýratyn depgin 'barorefleks rezonansyny' döredýär — ýürek urşyňyzyň, gan basyşyňyzyň we demgysmaňyzyň sinhronlaşýan, ýürek urşy üýtgeýjiligini iň ýokary derejä ýetirýän we wagus nerwiňizi işjeňleşdirýän ýagdaýy."
+                },
+                "howLong": {
+                    "question": "Nähili wagt maşk etmelim?",
+                    "answer": "5 minutdan başlaň we 10-20 minute çenli üýtgeýän derejede artdyryň. 5 minut tejribe hem HRV we stres derejesinde ölçelip bilinjek gowulandyrmalary döredip biler. Dowamly peýdalar üçin gündelik tejribe maksadyny goýuň."
+                },
+                "optimal": {
+                    "question": "Näme üçin minutda 6 dem?",
+                    "answer": "Barlaglar takmynan 0.1 Hz (minutda takmynan 6 dem) bilen dem almagyň kardio-waskulýar ulgamynyň tebigy rezonans ýygylygy bilen gabat gelýändigini görkezýär. Bu depgin ýürek urşy yrgyldawlarynyň amplitudyny iň ýokary derejä ýetirýär we iň güýçli wagal oýanylmagyny döredýär."
+                },
+                "benefits": {
+                    "question": "Haýsy peýdalary garaşyp bilerin?",
+                    "answer": "Yzygiderli tejribe şulary getirip biler: aladanyň we stresiň azalmagy, gowy uky hili, pes gan basyşy, güýçlendirilen sport dikeldişi we güýçlendirilen emosiýa kadalaşdyrmak. Köp ulanyjylar ilkinji seansda derrew asudalyk täsirlerini belläp alýarlar."
+                },
+                "boxBreathing": {
+                    "question": "Guty demgysmak näme?",
+                    "answer": "Guty demgysmak (kwadrat demgysmak ýa-da taktiki demgysmak hem diýilýär) 4-4-4-4 nusgasyna eýerer: 4 sekunt dem alyň, 4 sekunt saklaň, 4 sekunt dem çykaryň, 4 sekunt saklaň. Aşa stres astynda asudalygy saklamak üçin Navy SEAL-ler we ilkinji jogapkärler tarapyndan ulanylýar. Demgysma guralymyzdaky Guty režimini ulanyp synap bilersiňiz."
+                },
+                "breathing478": {
+                    "question": "4-7-8 demgysmak näme?",
+                    "answer": "4-7-8 demgysma usuly Dr. Andrew Weil tarapyndan işlenip düzüldi. 4 sekunt dem alyň, 7 sekunt saklaň we 8 sekunt dem çykaryň. Esasanam tebigy uky kömegi we aladany azaltmak üçin netijelidir. 4-7-8 režimimiz bilen derrew synaň."
+                }
+            },
+            "ui": {
+                "start": "Demgysma başlat",
+                "pause": "Sägin",
+                "reset": "Täzelen",
+                "settings": "Sazlamalar",
+                "cycles": "Sikller",
+                "elapsed": "Geçen wagt",
+                "target": "Maksat",
+                "inhaleDuration": "Dem alyş dowamlylygy",
+                "holdInDuration": "Içerde saklamagyň dowamlylygy",
+                "exhaleDuration": "Dem çykarşyň dowamlylygy",
+                "holdOutDuration": "Daşarda saklamagyň dowamlylygy",
+                "sessionDuration": "Seansyň dowamlylygy",
+                "breathingRate": "Häzirki depgin: minutda {rate} dem",
+                "inhale": "Dem al",
+                "hold": "Sakla",
+                "exhale": "Dem çykar",
+                "ready": "Taýýar",
+                "soundOn": "Ses açyk",
+                "soundOff": "ses ýapyk",
+                "modeResonance": "Rezonans",
+                "modeBox": "Guty demgysmak",
+                "mode478": "4-7-8",
+                "modeCustom": "Ýörite"
+            }
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "games": {
+        "cpsTest": {
+            "title": "CPS synagy (Basyş tizligi synagy)",
+            "subtitle": "Mugt onlaýn 1s, 5s we 10s syçan basyş tizligi synagy",
+            "description": "Nädip çalt basyp biljekdigiňizi bilmek isleýärsiňizmi? 1s, 3s, 5s we 10s režimlerinde basyş tizligiňizi, syçan basyş ritmiňizi we partlama basyş güýjüňizi ölçemek üçin bu mugt onlaýn CPS synagyny ulanyň.",
+            "metadata": {
+                "title": "CPS synagy – Mugt onlaýn syçan basyş tizligi synagy",
+                "description": "Sekuntda basyş sanyny, syçan basyş tizligini we 1s, 3s, 5s ýa-da 10s režimlerinde partlama basyşyny ölçemek üçin bu mugt CPS synagyny ulanyň.",
+                "keywords": "cps synagy, cps synag saýty, basyş tizligi synagy, syçan basyş tizligi synagy, sekuntda basyşlar sany synagy, syçan basyş synagy, titreme basyş synagy, mugt basyş tizligi synagy, oýunçy basyş synagy",
+                "ogTitle": "CPS synagy – Mugt onlaýn syçan basyş tizligi synagy",
+                "ogDescription": "Sekuntda basyş sanyny, syçan basyş tizligini we 1s, 3s, 5s ýa-da 10s režimlerinde partlama basyşyny ölçäň."
+            },
+            "howToPlay": {
+                "description": "CPS synagy bellenen wagtyň içinde nädip çalt basyp biljekdigiňizi ölçeýär. Bu ýönekeý:",
+                "step1": "Dowamlylygy saýlaň (mysal, 1s, 5s, 10s).",
+                "step2": "Taýýarlaň we çalt edip biljek ýaly çalý meýdana basyň.",
+                "step3": "Wagt saýlawy ilkinji basyşyňyzda başlaýar.",
+                "step4": "Synagdan soň CPS balyňyza we derejäňize göz aýlaň.",
+                "modes": {
+                    "1s": "1s (Partlama)",
+                    "3s": "3s (Kadaly)",
+                    "5s": "5s (Standart)",
+                    "10s": "10s (Çydamlylyk)"
+                }
+            },
+            "benefits": {
+                "focus": {
+                    "title": "Dowamly üns",
+                    "description": "Ýokary basyş depginini saklamak aşa akyl jemlenmesini talap edýär. 10 sekuntlyk režim arkaly yzygiderli bolmak dowamly üns üçin ajaýyp maşkdyr."
+                },
+                "neural": {
+                    "title": "Nerw-motor birikmesi",
+                    "description": "Beyin we barmaklar arasyndaky signal geçirijiligini pugtlandyrýar. Çalt reaksiýa beýniniň çalt buýruk signallaryny ibermegini we netijeli nerw ýollarynyň netijesidir."
+                },
+                "flow": {
+                    "title": "Akym ýagdaýy we ýeňillik",
+                    "description": "Ritmik ýokary tizlikli basmak 'akym ýagdaýyny' döredip, akyň bulaşyklygyny arassalap biler. Aýratyn stresi ýeňilleşdiriji we beýni täzeleýji serişde hökmünde işleýär."
+                }
+            },
+            "science": {
+                "title": "CPS synagy aslynda näme ölçeýär",
+                "description": "CPS synagy el tizliginiň çäklendirmesinden has köpdür. Ol partlama motor çykyşyny, nerw-motor utgaşmasyny, ritmik gözegçiligi we gysga wagt jemlenmesini görkezýär. Basyş tizligini öwredýän oýunçylar we ulanyjylar üçin dürli wagt režimlerinde gaýtalanýan ölçeg hökmünde gowy işleýär.",
+                "blogArticleTitle": "Oka: CPS baly gowy näme?"
+            },
+            "leaderboardNote": "Liderler tablisasy diňe 5 sekuntlyk režim ballaryny ýazgardyrýar.",
+            "faq": {
+                "focus": {
+                    "question": "Bu diňe el tizligi hakda?",
+                    "answer": "Doluly bilen däl. Çäklere ýetmek (10+ CPS ýaly) we yzygiderli bolmak üçin beýniňiz mikro-hereketleri gözegçilikde saklamak üçin ýokary jemlenmeli. Islendik wagtlaýyn distraksiýa tizligiňizi düşürýär, bu ony ýokary intensiw gysga möhletli üns synagyna öwürýär."
+                },
+                "warmup": {
+                    "question": "Bu gowy beyin ýyladyşy?",
+                    "answer": "Hawa. Gysga partlama basyşlary (5s režimi ýaly) nerw ulgamyny çalt işjeňleşdirip, serebral korteksi oýarýar we ukudan ýa-da ýadawlykdan işe taýýar ýagdaýa geçmäge kömek edýär."
+                },
+                "improve": {
+                    "question": "Balymy nädip gowulandyrmaly?",
+                    "answer": "Basyş usullaryndan başga, esasy zat dem almak we gol muskullaryňyzy rahatlatmakdyr. Dartgynlyk gatylyk getirýär. 'Rahat jemlenmäni' öwrenmek ýokary öndürijiligiň açarydyr — öz-özüne ajaýyp üns merkezleşdirme tejribesi."
+                },
+                "health": {
+                    "question": "Ýokary tizlikli basmak zyýan berip bilermi?",
+                    "answer": "Hawa, uzak wagtlap gaýtalanmak ýadawlyk getirip biler. Gyska toplumlarda ortaça maşk ediň we agyry duýanyňyzda derrew duruň. Bu partlama öwretme üçin niýetlenendir, çydamlylyk ýaryşlary üçin däl."
+                },
+                "cpsMeaning": {
+                    "question": "CPS näme diýmek?",
+                    "answer": "CPS Sekuntda Basyşlar sany diýmekdir. CPS synagy bellenen wagtyň içinde näçe syçan basyşyny edip biljekdigiňizi ölçeýär, şonuň üçin oňa basyş tizligi synagy ýa-da syçan basyş synagy hem diýilýär."
+                },
+                "bestMode": {
+                    "question": "Haýsy režim iň gowy: 1s, 5s ýa-da 10s?",
+                    "answer": "1 sekuntlyk režim partlama tizligini ölçeýär, 5 sekuntlyk režim iň ýaýran standartdyr we 10 sekuntlyk režim yzygiderliligi synaýar. Hakyky ölçeg isleseňiz, 5s we 10s adatça iň peýdalydyr."
+                }
+            },
+            "gameUI": {
+                "start": "Başlatmak üçin basyň",
+                "clickHere": "Şu ýere basyň!",
+                "clickToStart": "Başlatmak üçin meýdana basyň",
+                "timeLeft": "Galan wagt",
+                "clicks": "Basyşlar",
+                "score": "Siziň CPS",
+                "time": "Wagt",
+                "mode": "Režim",
+                "resultTitle": "Synag tamamlandy!",
+                "playAgain": "Gaýtadan synan",
+                "share": "Netijäni paýlaş",
+                "rank": {
+                    "title": "Siziň derejäňiz",
+                    "turtle": "🐢 Tebigy pyşdyl (Synanyşmagy dowam etdiriň)",
+                    "rabbit": "🐇 Towşan (Kadaly)",
+                    "cheetah": "🐆 Ýelpy (Çalt)",
+                    "eagle": "🦅 Bürgüt (Pro mümkinçilik)",
+                    "godlike": "⚡️ Hudáýy (Adamdan daşary)"
+                }
+            },
+            "statistics": {
+                "worldRecord": "Dünýä rekordy",
+                "average": "Ortaça",
+                "proGamer": "Pro oýunçy",
+                "modes": "Režimler",
+                "types": "4 görnüş"
+            }
+        }
+    }
+}

@@ -63,11 +63,19 @@ function main() {
   );
   console.log(`Generated ${zhPosts.length} Chinese posts`);
 
+  const tkPosts = processMarkdownFiles(path.join(TRANSLATED_BLOG_DIR, 'tk'));
+  fs.writeFileSync(
+    path.join(OUTPUT_DIR, 'blog-tk.json'),
+    JSON.stringify(tkPosts, null, 2)
+  );
+  console.log(`Generated ${tkPosts.length} Turkmen posts`);
+
   const indexContent = `// Auto-generated blog data index
 // Do not edit manually - run 'npm run generate-blog' to regenerate
 
 import enPosts from './blog-en.json';
 import zhPosts from './blog-zh.json';
+import tkPosts from './blog-tk.json';
 
 export interface BlogPost {
   slug: string;
@@ -86,6 +94,7 @@ export interface BlogPost {
 export const blogData: Record<string, BlogPost[]> = {
   en: enPosts as BlogPost[],
   zh: zhPosts as BlogPost[],
+  tk: tkPosts as BlogPost[],
 };
 `;
 

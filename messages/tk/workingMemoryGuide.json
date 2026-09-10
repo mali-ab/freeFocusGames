@@ -1,0 +1,534 @@
+{
+  "workingMemoryGuide": {
+    "metaTitle": "Işjeň ýat boýunça iň soňky gollanma: Ylmy öwretme we kognitiw gowulandyrma",
+    "metaDescription": "Işjeň ýadyň newroşynasyna çuňňur aralaşyň, Dual N-Back ýaly ylmy taýdan barlanan öwretme usullaryny öwreniň we ýadyňyzy, ünsüňizi we suwuk zehiniňizi gowulandyrmak üçin giňişleýin meýilnamany alyň.",
+    "metaKeywords": "işjeň ýat, kognitiw öwretme, dual n-back, schulte tablisa, ýady gowulandyrmak, üns öwretme, newroplastiklik, suwuk zehin, kognitiw gowulandyrma, beyin öwretme",
+    "ogTitle": "Işjeň ýat boýunça iň soňky gollanma: Ylmdan amala çenli doly kognitiw gowulandyrma meýilnamasy",
+    "ogDescription": "Işjeň ýadyň syrlaryny öwreniň, Jaeggi we beýlekileriň döwrebap barlaglary bilen goldanylýan öwretme usullaryny öwreniň we ylma esaslanýan oýunlar we durmuş stili optimallaşdyrmalary arkaly kognitiw ukyplaryňyzy ulgamlaýyn güýçlendiriň.",
+    "title": "Işjeň ýat boýunça iň soňky gollanma: Kognitiw ukyplaryňyzy ylmy taýdan gowulandyryň",
+    "subtitle": "Iň soňky newroşynas barlaglaryna esaslanýar, bu gollanma işjeň ýadyňyzy gowulandyrmak üçin nazary esaslardan amaly maşklara çenli doly meýilnamany berýär, okaýyşda, işde we durmuşda öndürijiligiňizi artdyrmaga kömek edýär.",
+    "ctaStart": "Dual N-Back öwretmesini başla",
+    "ctaTry": "Schulte tablisasyny syna",
+    "breadcrumbHome": "Baş sahypa",
+    "breadcrumbCurrent": "Işjeň ýat gollanmasy",
+    "baddeleyDiagram": {
+      "title": "Baddeley-iň işjeň ýat modeli",
+      "centralExecutive": {
+        "name": "Merkezi ýerine ýetiriji",
+        "english": "中央执行器"
+      },
+      "phonologicalLoop": {
+        "name": "Fonologik aýlaw",
+        "english": "语音循环",
+        "description": "(Dil maglumatyny saklamak)"
+      },
+      "visuospatialSketchpad": {
+        "name": "Wizual-giňişleýin çyzgy taýtagy",
+        "english": "视觉空间画板",
+        "description": "(Wizual we giňişleýin maglumat)"
+      },
+      "episodicBuffer": {
+        "name": "Epizodik bufer",
+        "english": "情节缓冲器",
+        "description": "(Köpdürli maglumaty birleşdirýär)"
+      },
+      "longTermMemory": {
+        "name": "Uzak möhletli ýat (长时记忆)"
+      },
+      "legend": {
+        "title": "Modeliň beýany:",
+        "centralExecutive": "Püliniň işjeň ýat ulgamyny dolandyrýar we utgaşdyrýar",
+        "phonologicalLoop": "Dil maglumatyny gaýtadan işleýär we wagtlaýyn saklaýar",
+        "visuospatialSketchpad": "Wizual we giňişleýin maglumaty gaýtadan işleýär",
+        "episodicBuffer": "Dürli çeşmelerden maglumaty birleşdirýär, uzak möhletli ýat bilen birleşýär"
+      }
+    },
+    "trainingChart": {
+      "title": "Dual N-Back öwretmesiniň täsirleri (Jaeggi et al. 2008)",
+      "xAxisLabel": "训练天数 (Öwretme günleri)",
+      "yAxisLabel": "流体智力提升 (Suwuk zehiniň gowulandyrylmagy)",
+      "trainingGroup": "训练组 (Öwretme topary)",
+      "controlGroup": "对照组 (Gözegçilik topary)",
+      "description": {
+        "title": "Barlag maglumatlarynyň beýany:",
+        "source": {
+          "label": "Barlag çeşmesi",
+          "text": "Jaeggi et al. (2008) PNAS - Işjeň ýat öwretmesiniň geçirimini subut edýän ilkinji döwrebap barlag"
+        },
+        "training": {
+          "label": "Öwretme mazmuny",
+          "text": "19 günlük Dual N-Back öwretmesi, takmynan günde 25 minut"
+        },
+        "measure": {
+          "label": "Ölçeg",
+          "text": "Raven-iň Progresiw Matrisalary (suwuk zehiniň standart synagy)"
+        },
+        "findings": {
+          "label": "Esasy tapyndylar",
+          "text": "Öwretme topary suwuk zehinde ~40% gowulandyrma görkezdi, gözegçilik toparynda üýtgeşme ýok"
+        }
+      }
+    },
+    "brainDiagram": {
+      "title": "Işjeň ýat beýni torlary",
+      "subtitle": "工作记忆相关大脑区域",
+      "dlpfc": {
+        "name": "Arka-ýan prefrontal gabyk",
+        "fullName": "Arka-ýan prefrontal gabyk (DLPFC)",
+        "description": "Işjeň ýadyň esasy gözegçilik sebiti"
+      },
+      "acc": {
+        "name": "Öňürti çal gerim gabyk",
+        "fullName": "Öňürti çal gerim gabyk (ACC)",
+        "description": "Üns gözegçiligi we çaknyşyk monitoring"
+      },
+      "ppc": {
+        "name": "Yzyňky parietal gabyk",
+        "fullName": "Yzyňky parietal gabyk (PPC)",
+        "description": "Giňişleýin üns we maglumat birleşdirmesi"
+      },
+      "basalGanglia": {
+        "name": "Esasy ganliýalar",
+        "description": "Kognitiw gözegçilik we öwrenme"
+      },
+      "hippocampus": {
+        "name": "Gippokamp",
+        "description": "Ýat kodlamak we ýadyň gaýtarylmagy"
+      },
+      "legend": {
+        "title": "Beyniň sebit funksiýalary:",
+        "connections": "Çyzykly çyzyklar",
+        "connectionsDesc": "Sebitler arasyndaky funksional birleşmeler",
+        "note": "* Işjeň ýat newral torlary fMRI we PET barlaglaryna esaslanýar, bu sebitler dual n-back öwretmesi wagtynda ähmiýetli işjeňleşme güýçlenmesini görkezýär"
+      }
+    },
+    "scheduleTable": {
+      "title": "Ylmy işjeň ýat öwretme meýilnamasy",
+      "subtitle": "Jaeggi et al. (2008) we Au et al. (2015) barlaglaryna esaslanýan optimal öwretme protokoly",
+      "phases": {
+        "beginner": {
+          "level": "Başlangyç fazasy",
+          "levelEn": "Başlangyç",
+          "weeks": "1-2 hepde",
+          "frequency": "Günde 15-20 minut",
+          "sessions": "14 yzygiderli gün",
+          "nBack": "1-back → 2-back",
+          "focus": "Esasy kognitiw nusgalary gurmak",
+          "expectations": "Öwretme ritmine uýgunlaşmak, takyklyk >60%"
+        },
+        "intermediate": {
+          "level": "Orta faza",
+          "levelEn": "Orta",
+          "weeks": "3-4 hepde",
+          "frequency": "Günde 20-25 minut",
+          "sessions": "14 yzygiderli gün",
+          "nBack": "2-back → 3-back",
+          "focus": "Işjeň ýat kuwwatyny güýçlendirmek",
+          "expectations": "Suwuk zehin gowulandyrma başlanýar, takyklyk >70%"
+        },
+        "advanced": {
+          "level": "Ösen faza",
+          "levelEn": "Ösen",
+          "weeks": "5-6 hepde",
+          "frequency": "Günde 25-30 minut",
+          "sessions": "14 yzygiderli gün",
+          "nBack": "3-back → 4-back+",
+          "focus": "Öwretme täsirlerini pugtalandyrmak",
+          "expectations": "Düýpgöter kognitiw gowulandyrma, takyklyk >80%"
+        }
+      },
+      "timeline": {
+        "week1": "Binýat gurluşy",
+        "week2": "Endik ösüşi",
+        "week3": "Kuwwatyň güýçlenmegi",
+        "week4": "Täsirleriň ýüze çykmagy",
+        "week5": "Intensiw öwretme",
+        "week6": "Täsiriň pugtalandyrylmagy"
+      },
+      "timelineTitle": "6 hepdelik öwretme wagt çyzygy",
+      "labels": {
+        "parameters": "Öwretme parametrleri",
+        "frequency": "Ýygylyk: ",
+        "duration": "Dowamlylyk: ",
+        "difficulty": "Kynlyk: ",
+        "goals": "Öwretme maksatlary",
+        "expected": "Garaşylýan netijeler: ",
+        "phase": "Faza",
+        "week": "Hepde ",
+        "weekSuffix": ""
+      },
+      "principles": {
+        "title": "Öwretmede üstünlik üçin esasy ýörelgeler",
+        "training": "Öwretme ýörelgeleri",
+        "adaptive": "Uýgunlaşdyryjy kynlyk: ",
+        "adaptiveDesc": "Öndürijilige esaslanýan n-back derejesini awtomatik sazla",
+        "progressive": "Progresiw öwretme: ",
+        "progressiveDesc": "Ýönekeýden çylşyrymla, ädimme-ädim",
+        "consistency": "Yzygiderlilik: ",
+        "consistencyDesc": "Gündelik öwretme, 1 günden köp boşluklardan gaça duruň",
+        "focus": "Üns: ",
+        "focusDesc": "Öwretme wagtynda ýokary jemlenmäni saklaň"
+      },
+      "monitoring": {
+        "title": "Täsir monitoring",
+        "accuracy": "Takyklyk yzarlamasy: ",
+        "accuracyDesc": "60-80% takyklygy saklamak maksady",
+        "reaction": "Reaksiýa wagty: ",
+        "reactionDesc": "Jogap tizligindäki gowulandyrmany gözlem",
+        "level": "N-back derejesi: ",
+        "levelDesc": "Ýetilen iň ýokary derejäni ýazgy et",
+        "subjective": "Subýektiv tejribe: ",
+        "subjectiveDesc": "Gündelik durmuşda üns gowulandyrmasy"
+      },
+      "warning": {
+        "title": "Möhüm ýatlatma",
+        "intensity": "Öwretme intensiwligini gözegçilik: ",
+        "intensityDesc": "Eger takyklyk yzygiderli 50%-den aşak düşse, kynlyk aşa ýokary we n-back derejesini peseltmeli. Eger takyklyk yzygiderli 90%-den geçse, kynlygy degerli derejede artdyryp bolýar. Optimal öwretme täsirleri ortaça çylşyrymly wezipeler bilen bolýar."
+      },
+      "evidence": {
+        "title": "Ylmy subutlar:",
+        "jaeggi": "19 günlük öwretme suwuk zehinde 40% gowulandyrma görkezdi",
+        "au": "Meta-seljeriş öwretme täsirleriniň durnuklylygyny tassyklady",
+        "klingberg": "Optimal öwretme parametrlerini we uýgunlaşma ýörelgelerini esaslandyrdy",
+        "melby": "Öwretme yzygiderliliginiň ähmiýetini nygtady"
+      }
+    },
+    "introduction": {
+      "title": "🧠 Işjeň ýadyň esaslary: Beýniniň iş stoly",
+      "whatIs": {
+        "title": "Işjeň ýat näme?",
+        "p1": "Beýniňiziň içinde **'Akyl iş stoly'** bar diýip göz öňüne getiriň. Bu iş stolunda maglumaty işjeň saklaýanyňyzda we birleşdireniňizde (mysal üçin, 24 + 58-i akyl bilen hasaplamak ýa-da söhbetdeşlikde täze aty ýatda saklamak), bu siziň Işjeň ýadyňyzyň hereketde bolmagydyr.",
+        "analogy": {
+          "workbench": {
+            "title": "Akyl iş stoly",
+            "p": "Hakyky iş stoly ýaly, bu maglumaty wagtlaýyn goýýan we ýygnayan ýeriňizdir."
+          },
+          "limited": {
+            "title": "Çäkli ýer",
+            "p": "Bu iş stoly kiçi. Adatça bir wagtyň özünde diňe 3-4 'zady' saklap biler. Aşa zat goşsaňyz, bir zat gaçýar (unudýarsyňyz)."
+          },
+          "processing": {
+            "title": "täzelenende arassalanýar",
+            "p": "Bu iş stolundaky zatlar 'derrew ulanmak' üçindir. Wezipe tamamlanandan ýa-da ünsüňiz bölünenden soň, iş stoly indiki wezipe üçin ýer açmak üçin köplenç arassalanýar."
+          }
+        }
+      },
+      "neuroscience": {
+        "title": "Newroşynas esaslary",
+        "p1": "Döwrebap newroşekillendiriş barlaglary işjeň ýadyň <strong>prefrontal gabyk</strong> we <strong>parietal gabyk</strong>-iň utgaşykly işine baglydygyny açýar. Prefrontal gabyk ýerine ýetiriji gözegçilik üçin jogapkärdir, parietal gabyk maglumat saklamak bilen meşgullanýar, ikisi newral torlar arkaly netijeli aragatnaşyk saklaýar.",
+        "keyAreas": {
+          "title": "Esasy beýni sebitleri we funksiýalary:",
+          "li1": "<strong>Arka-ýan prefrontal gabyk:</strong> Işjeň ýatda maglumaty saklaýar we dolandyrýar.",
+          "li2": "<strong>Öňürti çal gerim gabyk:</strong> Çaknyşyklary we ýalňyşlyklary gözegçilik edýär, ünsi kadalaşdyrýar.",
+          "li3": "<strong>İntra-parietal sulkus:</strong> Işjeň ýadyň \"saklamak buferi\".",
+          "li4": "<strong>Asyl režim toru:</strong> Jemlenen ýagdaýy saklamak üçin basylmaly."
+        }
+      },
+      "dailyImpact": {
+        "title": "Gündelik durmuşa täsiri",
+        "p1": "Işjeň ýat kuwwaty öwrenme netijeliligiňize, iş öndürijiligiňize we durmuş hiline göni täsir edýär. Barlaglar işjeň ýat kuwwaty bilen aşakdaky ukyplaryň arasynda ýokary baglanyşyk görkezýär:",
+        "academic": {
+          "title": "✅ Akademik öndürijilik",
+          "li1": "• Okuş düşünişinde 25-30% gowulandyrma.",
+          "li2": "• Matematiki meseleleri çözmekde 40% netijelilik.",
+          "li3": "• Üns aralygynyň 2-3 esse uzalmagy.",
+          "li4": "• Çylşyrymly görkezmeleri ýerine ýetirmekde 85%-den ýokary takyklyk."
+        },
+        "workplace": {
+          "title": "💼 Iş ýeri öndürijiligi",
+          "li1": "• Köptaskslyk ukybynda 50% gowulandyrma.",
+          "li2": "• Duşuşyklarda esasy nokatlary tutmakda 90%-den ýokary takyklyk.",
+          "li3": "• Karar bermek hili we tizliginde düýpgöter gowulandyrma.",
+          "li4": "• Täze endikleri öwrenmek 60% has çalt."
+        }
+      }
+    },
+    "dnb": {
+      "title": "🎯 Dual N-Back öwretmesi: Ylmy taýdan barlanan kognitiw güýçlendiriji",
+      "jaeggiStudy": {
+        "title": "Jaeggi barlagy: Kognitiw ylmy üýtgetden döwrebap tapyndy",
+        "p1": "2008-nji ýylda kognitiw alym Susanne Jaeggi PNAS-de döwrebap barlagyny neşir etdi: <strong>Dual N-Back öwretmesi suwuk zehini artdyryp biler</strong>— esasy kognitiw ukyby öwretme arkaly gowulandyryp boljakdygyny subut edýän ilkinji barlag.",
+        "coreFindings": {
+          "title": "Jaeggi barlagynyň esasy tapyndylary:",
+          "design": {
+            "title": "Barlagyň gurluşy:",
+            "li1": "• 35 uly ýaşly gatnaşyjy",
+            "li2": "• Gündelik 25 minut dual n-back öwretmesi",
+            "li3": "• Öwretme döwri: 8-19 gün",
+            "li4": "• Raven-iň Progresiw Matrisalary bilen bahalandyryldy"
+          },
+          "results": {
+            "title": "Esasy netijeler:",
+            "li1": "• Suwuk zehinde 40%-e çenli artma",
+            "li2": "• Öwretme has uzyn, gowulandyrma has uly",
+            "li3": "• Täsirler öwredilmedik pikirlenme wezipelerine geçdi",
+            "li4": "• Täsirler öwretme bes edildikden soň hem dowam etdi"
+          }
+        }
+      },
+      "mechanism": {
+        "title": "Mehanizm: Näme üçin şeýle netijeli?",
+        "p1": "Dual N-Back-iň aýratynlygy, işjeň ýadyň birnäçe ulgamyny bir wagtyň özünde çäklendirmeginde, beýnini has netijeli newral birleşmeler gurmaga mejbur edýän \"kognitiw aşa ýüklenme\" ýagdaýyny döredip bilmegindedir.",
+        "card1": {
+          "title": "Uýgunlaşdyryjy kynlyk mehanizmi",
+          "p": "Öwretme hemişe siziň kognitiw ukybynyzyň gyrasynda bolýar, nerw ulgamynyň yzygiderli çäklendirilmegini üpjün edýär.",
+          "details": "Takyklyk ≥ 80% → N+1 kynlyga artdyrma<br/>Takyklyk ≤ 50% → N-1 kynlyga peseltme"
+        },
+        "card2": {
+          "title": "Iki wezipäniň päsgelçiligi",
+          "p": "Wizual pozisiýalary we eşidiş harplaryny bir wagtyň özünde gaýtadan işlemek üns paýlamagyny we çaknyşyk çözgüdini öwredýär.",
+          "details": "Wizual kanal: Giňişleýin pozisiýa ýady + Eşidiş kanal: Harp yzygiderliligi ýady"
+        },
+        "card3": {
+          "title": "Ýerine ýetiriji funksiýa maşky",
+          "p": "Üç esasy ýerine ýetiriji funksiýany topleýin çäklendirýär: täzelenme, togtadyş we geçiriş.",
+          "details": "Ýat mazmunyny täzelemek + Degişsiz maglumaty togtatmak + Çalt üns geçirmek"
+        }
+      },
+      "neuroplasticity": {
+        "title": "Newroplastiklik subutlary: Beýnidäki hakyky üýtgeşmeler",
+        "p1": "Soňraky newroşekillendiriş barlaglary dual n-back öwretmesiniň döredýän gurluş we funksional üýtgeşmelerini açdy:",
+        "structural": {
+          "title": "🧠 Gurluş üýtgeşmeleri",
+          "li1": "• Çal maddanyň dykyzlygynyň artmagy: Prefrontal we parietal gabyklaryň galyňlygynda düýpgöter ösüş.",
+          "li2": "• Ak maddanyň bitewüliginiň gowulandyrylmagy: Beyni sebitleri arasyndaky birleşmeleriň netijeliliginde 25% artma.",
+          "li3": "• Newral torlaryň gaýtadan gurulmagy: Işjeň ýat torunda has netijeli aragatnaşyk."
+        },
+        "functional": {
+          "title": "⚡ Funksional üýtgeşmeler",
+          "li1": "• Newral netijeliligiň artmagy: Şol bir wezipe üçin işjeňleşme güýjüniň 30% azalmagy.",
+          "li2": "• Tor utgaşmasynyň güýçlenmegi: Prefrontal we parietal bölümleriň arasynda sinhronizasiýanyň gowulandyrylmagy.",
+          "li3": "• Has gowy päsgelçilik basylmagy: Asyl režim toruny basyp bilmek ukybynyň güýçlenmegi."
+        }
+      },
+      "protocol": {
+        "title": "Optimal öwretme protokoly: Barlaglara esaslanýan maslahatlar",
+        "boxTitle": "Ylmy öwretme protokoly",
+        "params": {
+          "title": "Öwretme parametrleri",
+          "li1": "• Seansa 20-25 minut",
+          "li2": "• Hepede 4-5 gezek",
+          "li3": "• 3-8 hepde dowam et",
+          "li4": "• Iň ýokary derejäňizi hemişe çäklendiriň"
+        },
+        "expectations": {
+          "title": "Garaşylýan täsirler",
+          "li1": "• 1-2 hepde: Öwretmä uýgunlaşma",
+          "li2": "• 3-4 hepde: Aýdyň gowulandyrma",
+          "li3": "• 5-8 hepde: Düýpgöter güýçlenme",
+          "li4": "• Uzak möhletli: Dowam edýän täsirler"
+        },
+        "successFactors": {
+          "title": "Üstünlik faktorlary",
+          "li1": "• Öwretme wagtynda üns",
+          "li2": "• Distraksiýalardan gaça duruň",
+          "li3": "• Frustrasiýany garşy alyň",
+          "li4": "• Yzygiderli maşk ediň"
+        }
+      }
+    },
+    "relatedGames": {
+      "title": "🎮 Ylmy öwretme syýahatyňyzy başladyň",
+      "subtitle": "Bu gollanmadaky barlag subutlaryna esaslanýar, bu öwretme oýunlary işjeň ýady we kognitiw ukyplary güýçlendirmek üçin aýratyn niýetlenendir.",
+      "tag": "Ylmy taýdan barlanan",
+      "benefitsTitle": "✅ Öwretmäniň peýdalary:",
+      "buttonText": "Ylmy öwretmäni başla",
+      "dnb": {
+        "description": "Jaeggi barlag protokoly boyunca, bu Dual N-Back öwretmesi suwuk zehini we işjeň ýat kuwwatyny göni gowulandyrýar. Gündelik 20-25 minut öwretme 3-8 hepde içinde düýpgöter kognitiw gowulandyrma getirýär.",
+        "benefit1": "40% WM gowulandyrma",
+        "benefit2": "Suwuk zehiniň güýçlenmegi",
+        "benefit3": "Üns gözegçiligi",
+        "benefit4": "Köptasks optimallaşdyryldy"
+      },
+      "schulte": {
+        "description": "Walter Schulte-iň newropsihologik usulyna esaslanýan wizual üns öwretmesi. Periferiki görme ösdürip, okamak tizligini 28% we üns aralygyny 47% artdyrýar.",
+        "benefit1": "+28% okamak tizligi",
+        "benefit2": "+47% üns aralygy",
+        "benefit3": "Uzalýan üns wagty",
+        "benefit4": "Periferiki görme ösüşi"
+      },
+      "memoryTest": {
+        "description": "Gippokamp funksiýasyna nyşana alnan ýöriteleşdirilen gysga möhletli ýat öwretmesi. Newrogenez ýörelgelerine esaslanýan progresiw ýat çäklendirmelerini ulanyp, ýat emele gelşini dikeldýär we güýçlendirýär.",
+        "benefit1": "Ýat emele gelşi",
+        "benefit2": "Gippokamp dikeldişi",
+        "benefit3": "Maglumat saklamak",
+        "benefit4": "Kognitiw ýadawlyk↓"
+      }
+    },
+    "protocol": {
+      "title": "Ylmy öwretme maslahatlary",
+      "duration": {
+        "title": "Optimal öwretme dowamlylygy",
+        "p": "Günde jemi 45-60 minut, kognitiw ýadawlykdan gaça durmak üçin 2-3 öwretme blokuna bölünýär."
+      },
+      "progress": {
+        "title": "Garaşylýan öňegidişlik",
+        "p": "1-2 hepde: Uýgunlaşma döwri. 3-4 hepde: Aýdyň gowulandyrma. 6-8 hepde: Düýpgöter güýçlenme."
+      },
+      "principles": {
+        "title": "Öwretme ýörelgeleri",
+        "p": "80% takyklyga mümkinçilik berýän iň ýokary kynlyk derejesini saklaň. Yzygiderlilik kämil öndürijilikden has möhümdir."
+      },
+      "box": {
+        "title": "Ylmy öwretme maslahatlary",
+        "duration": {
+          "title": "Optimal öwretme dowamlylygy",
+          "p": "Günde jemi 45-60 minut, kognitiw ýadawlykdan gaça durmak üçin 2-3 öwretme blokuna bölünýär."
+        },
+        "progress": {
+          "title": "Garaşylýan öňegidişlik",
+          "p": "1-2 hepde: Uýgunlaşma döwri. 3-4 hepde: Aýdyň gowulandyrma. 6-8 hepde: Düýpgöter güýçlenme."
+        },
+        "principles": {
+          "title": "Öwretme ýörelgeleri",
+          "p": "80% takyklyga mümkinçilik berýän iň ýokary kynlyk derejesini saklaň. Yzygiderlilik kämil öndürijilikden has möhümdir."
+        }
+      }
+    },
+    "clusterArticles": {
+      "title": "📖 Has köp okamak: Ylmy barlag gollanmasy",
+      "subtitle": "Iň soňky newroşynas barlaglaryna esaslanýan ygtybarly gollanmalar, kognitiw öwretmäňiz üçin berk ylmy binýat bermek üçin.",
+      "buttonText": "Has köp ylmy makalalary görüň →",
+      "article1": {
+        "title": "Dual N-Back-iň ylmy: Işjeň ýady hakykatdan nädip gowulandyrmaly",
+        "description": "Jaeggi-niň 2008-nji ýylky döwrebap barlagyna çuňňur göz aýlamak, dual n-back öwretmesiniň newroplastiklik arkaly suwuk zehini nähili güýçlendirýändigini açmak, öwretme protokollary, beýni üýtgeşme subutlary we täsir barlagy bilen.",
+        "highlights": "Jaeggi PNAS barlagy,40% suwuk zehiniň güýçlenmegi,Newroplastiklik subutlary,Optimal öwretme protokoly",
+        "tag": "Işjeň ýat",
+        "readTime": "15 minut okamak",
+        "difficulty": "Orta"
+      },
+      "article2": {
+        "title": "Schulte tablisalarynyň ylmy: Wizual üns öwretmesiniň newral esaslary",
+        "description": "Posner-iň üns torlary teoriýasyna we 50 ýyllyk newropsihologik barlaglara esaslanýar, bu makala Schulte tablisalarynyň periferiki görme öwretmesi arkaly okamak tizligini 28% we üns aralygyny 47% nädip artdyrýandygyny düşündirýär.",
+        "highlights": "Posner-iň tor teoriýasy,+28% okamak tizligi,Periferiki görme ösüşi,Kliniki goşundy",
+        "tag": "Wizual üns",
+        "readTime": "12 minut okamak",
+        "difficulty": "Orta"
+      },
+      "article3": {
+        "title": "Gysga möhletli ýat dikeltme gollanmasy: Gippokamp dikeldişi üçin ylmy usullar",
+        "description": "Iň soňky newroşynas barlaglaryna esaslanýar, bu gollanma gippokamp zeper ýetmeginiň sebäplerini we dikeltme strategiýalaryny ulgamlaýyn tanyşdyrýar, iýmit müdahale, durmuş stili optimallaşdyrmak we kognitiw öwretmäniň toplumlaýyn bejergi meýilnamasyny öz içine alýar.",
+        "highlights": "Gippokamp newrogenezi,D witamin ýetmezçiliginiň dikeldişi,Maşk we BDNF güýçlenmesi,Aralykly açlyk",
+        "tag": "Ýat dikeltme",
+        "readTime": "18 minut okamak",
+        "difficulty": "Ösen"
+      }
+    },
+    "schulte": {
+      "title": "👁️ Schulte tablisa öwretmesi: Wizual ünsüň ylmy pugtalandyrylmagy",
+      "posnerTheory": {
+        "title": "Wizual ünsüň ylmy: Posner-iň üns torlarynyň üçligi",
+        "p1": "Kognitiw newrolog Michael Posner adamyň üns ulgamynyň üç sany garaşsyz, ýöne hyzmatdaşlyk edýän torlardan ybaratdygyny açdy. Schulte tablisa öwretmesi üç toruny hem bir wagtyň özünde pugtlandyryp, wizual ünsde toplumlaýyn gowulandyrma gazanyp biler.",
+        "card1": {
+          "title": "Duýduryş toru",
+          "p": "Duýduryş ýagdaýyny saklaýar, oýandyrmalara jogap bermäge taýýar.",
+          "details": "Beyni sebitleri: Locus Coeruleus, Prefrontal gabyk<br/>Funksiýalary: Dowamly üns, kognitiw taýýarlyk"
+        },
+        "card2": {
+          "title": "Gönükdirme toru",
+          "p": "Ünsi belli bir giňişleýin ýere gönükdirýär.",
+          "details": "Beyni sebitleri: Üstün parietal bölüm, Maňlaý göz meýdançalary<br/>Funksiýalary: Giňişleýin üns, wizual gözleg"
+        },
+        "card3": {
+          "title": "Ýerine ýetiriji tor",
+          "p": "Çaknyşyklary çözýär we üns paýlamasyny gözegçilik edýär.",
+          "details": "Beyni sebitleri: Öňürti çal gerim gabyk, Prefrontal gabyk<br/>Funksiýalary: Çaknyşyk monitoring, kognitiw gözegçilik"
+        }
+      },
+      "readingSpeed": {
+        "title": "Okamak tizligini gowulandyrmak: Amaly barlag maglumatlary",
+        "p1": "Köp barlaglar Schulte tablisa öwretmesiniň okamak tizligini düýpgöter gowulandyryandygyny tassyklady. Esasy mehanizm netijeli wizual meýdanyň giňelmegi we göz hereket nusgalarynyň optimallaşdyrylmagydyr.",
+        "russiaStudy": {
+          "title": "📈 Rus barlagyndan maglumatlar (8 hepdelik öwretme)",
+          "visual": {
+            "title": "Wizual üns gowulandyrmasy:",
+            "list": "<li>• <strong>47%</strong> wizual üns aralygynyň artmagy</li><li>• <strong>32%</strong> wizual gaýtadan işleme tizliginiň gowulandyrylmagy</li><li>• <strong>28%</strong> saýlawly üns takyklygynyň güýçlenmegi</li>"
+          },
+          "reading": {
+            "title": "Okamak öndürijiliginiň güýçlenmegi:",
+            "list": "<li>• Ortaça okamak tizligi <strong>28%</strong> artdy</li><li>• Düşüniş takyklygy <strong>95%+</strong> saklandy</li><li>• Göz yza gaýtarma sany <strong>40%</strong> azaldy</li>"
+          }
+        },
+        "psychologyStudy": {
+          "title": "🎓 Bilim psihologiýasy barlagy (200 orta mekdep talyby)",
+          "p1": "Schulte tablisa öwretmesini gündelik okuw meýilnamasyna birleşdirýän tejribäniň netijeleri:",
+          "list": "<li>• Okamak suwuklygynda düýpgöter gowulandyrma, ortaça 1,5 synp derejesinde artma.</li><li>• Ähli derslerde ortaça 15-20 bal artyly bilen akademik öndürijiligiň toplumlaýyn gowulandyrylmagy.</li><li>• Sapakda üns 60% gowulandy.</li>"
+        }
+      }
+    },
+    "memory": {
+      "title": "🔬 Ýat gowulandyrma strategiýalary: Gippokamp dikeltme we dikeldilme",
+      "hippocampus": {
+        "title": "Gippokamp dikeltme: Gysga möhletli ýat problemalarynyň esasy çözgüdi",
+        "p1": "Gysga möhletli ýat problemalarynyň merkezi köplenç gippokamp funksiýasynyň bozulmagynda ýatyr. Beýleki beýni sebitlerinden tapawutlylykda, gippokamp ömürboýy newrogeneze ukyplydyr — günde 700-den köp täze neýron döredip, ýat dikeltmek üçin ylmy binýat berýär.",
+        "causes": {
+          "title": "Gippokamp zeperiniň bäş esasy sebäbi:",
+          "cause1": {
+            "title": "Dowamly stres we ýokary kortizol",
+            "p": "Uzak möhletli stres gippokampy 10-20% kiçeldip biler, dowamly stresden ejir çekýänleriň 75%-ne täsir edýär."
+          },
+          "cause2": {
+            "title": "Eriň şekerini gowy gözegçilik etmezlik",
+            "p": "Ýokary gan şekeri glýasiýa arkaly ýat neýronlaryna zeper ýetirýär, diabetli näsaglarda ýat peselme howpuny 40% artdyrýar."
+          },
+          "cause3": {
+            "title": "Esasy iýmit maddalarynyň ýetmezçiligi",
+            "p": "D witamini, B1 we Sinkiniň ýetmezçiligi gippokamp funksiýasyna we newrogeneza göni täsir edýär."
+          },
+          "cause4": {
+            "title": "Gan kislorod üpjünçiliginiň ýetmezçiligi",
+            "p": "Oturumly durmuş stili beýni kislorod üpjünçiligini 15-25% azaldyp biler, gippokamp metabolizmine täsir edýär."
+          }
+        }
+      }
+    },
+    "trainingProtocol": {
+      "title": "📊 Toplumlaýyn öwretme meýilnamasy: Şahsyýetleşdirilen kognitiw gowulandyrma programma",
+      "personalized": {
+        "title": "Şahsyýetleşdirilen öwretme: Kognitiw profiliňize esaslanýan takyk meýilnama",
+        "p1": "Kognitiw ukyplar adamdan adama düýpgöter tapawutlanýar. Netijeli öwretme meýilnamasy başlangyç ukyby, ýaşy, maksatlary we wagt borçnamasyny göz öňünde tutmaly. Aşakda kognitiw ylmy barlaglaryna esaslanýan derejeli öwretme protokolleri:",
+        "audience": "Üçin amatly:",
+        "focus": "Öwretme ünsberi:",
+        "effect": "Garaşylýan netije:",
+        "beginner": {
+          "title": "🌱 Başlangyç meýilnama",
+          "audience": "Ilkinji gezek kognitiw öwredijiler, üns kynçylyklary bolan adamlar ýa-da aýdyň ýat peselmesi bolan adamlar.",
+          "focus": "<li>• Schulte tablisa (5×5): günde 10 minut</li><li>• Dual 1-Back: günde 15 minut</li><li>• Gysga möhletli ýat synagy: hepde 2 gezek</li>",
+          "effect": "4-6 hepdeden soň üns aralygynyň 50% artmagy."
+        },
+        "advanced": {
+          "title": "⚡ Ösen meýilnama",
+          "audience": "Öwretme tejribesi bolan, ýokary netijelilik gowulandyrmasyny gözleýän ýa-da hünär talaplary bolan adamlar.",
+          "focus": "<li>• Dual 2-4 Back: günde 20 minut</li><li>• Köptasks Schulte: günde 15 minut</li><li>• Çylşyrymly ýat wezipeleri: günde 10 minut</li>",
+          "effect": "6-8 hepdeden soň işjeň ýat kuwwatynyň 30% artmagy."
+        },
+        "expert": {
+          "title": "🚀 Ekspert meýilnama",
+          "audience": "Ýokary kognitiw talaplary bolan adamlar, bäsleşik öwredijiler ýa-da barlag gatnaşyjylary.",
+          "focus": "<li>• Dual 4+ Back: günde 25 minut</li><li>• Üç wezipäni öwretme: günde 20 minut</li><li>• Distraksiýa astynda öwretme: günde 15 minut</li>",
+          "effect": "8-12 hepdeden soň suwuk zehin synaglarynda 25% gowulandyrma."
+        }
+      }
+    },
+    "research": {
+      "title": "📚 Ylmy barlag subutlary: Kognitiw öwretmäniň subut esaslary",
+      "milestones": {
+        "title": "Esasy barlaglar: Ugur üýtgetden dessany tapyndylar",
+        "design": "Barlagyň gurluşy:",
+        "findings": "Döwrebap tapyndylar:",
+        "background": "Barlag fon:",
+        "jaeggi": {
+          "title": "🏆 Jaeggi et al. (2008) - PNAS",
+          "design": "<li>• <strong> Nusga:</strong> 70 sagdyn uly ýaşly adam</li><li>• <strong>Müdahale:</strong> 8-19 gün dual n-back öwretmesi</li><li>• <strong>Bahalandyrma:</strong> Raven-iň Progresiw Matrisalary</li><li>• <strong>Gözegçilik:</strong> Agdyklyk tötänleýdirilen gözegçilikli gurluş</li>",
+          "findings": "<li>• Öwretme dowamlylygy we zehin gowulandyrmasynyň arasynda liniýa baglanyşygy.</li><li>• Iň ýokary 40% gowulandyrma (19 günlük topar).</li><li>• Suwuk zehiniň öwredilip bilinjekdigini ilkinji görkezdi.</li><li>• Kognitiw öwretme barlagynyň täze eýýamyny açdy.</li>"
+        },
+        "erickson": {
+          "title": "🧠 Erickson et al. (2011) - Nature",
+          "background": "Garry uly adamlarda maşk gypokamp göwrümine we ýat funksiýasyna edýän täsirlerini öwrenmek üçin.",
+          "design": "<li>• <strong>Nusga:</strong> 60-80 ýaş aralygyndaky 120 sagdyn uly ýaşly adam</li><li>• <strong>Müdahale:</strong> Hepede 3 gezek aerobik ýöriş</li><li>• <strong>Dowamlylyk:</strong> 12 aý</li>",
+          "findings": "<li>• Öňürti gippokamp göwrüminiň 2% artmagy.</li><li>• Giňişleýin ýatda düýpgöter gowulandyrma.</li><li>• BDNF-yň serum derejesiniň artmagy.</li><li>• Ýaşa bagly gippokamp kiçelmesiniň 1-2 ýyly yzyna öwrüldi.</li>"
+        }
+      }
+    }
+  }
+}

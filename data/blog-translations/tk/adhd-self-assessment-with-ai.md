@@ -4,7 +4,7 @@ excerpt: "Öýreniň, weýran modeli bolan Vanderbilt ADHD diagnostik reýiting 
 date: "2025-07-17"
 coverImage: "/adhd-test-llm-cover.jpg"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 tags: ["ADHD", "AI", "Self-Assessment", "Mental Health", "Vanderbilt Scale"]
 keywords: ["vanderbilt adhd rating scale", "vanderbilt scale adhd", "scoring the vanderbilt adhd rating scale", "adhd self-test", "ai mental health", "adhd rs iv scale", "child adhd self-report scale", "adhd self report scale", "adult adhd self report scale"]
@@ -80,6 +80,6 @@ By using this structured prompt, you can leverage an LLM to systematically go th
 Improving focus is a journey, and brain-training games can be a fun and effective part of it. Here are a few games on our site that are specifically designed to challenge and improve your attention skills:
 
 *   **[Dual N-Back](/games/dual-n-back)**: A classic brain-training task that enhances working memory and divided attention.
-*   **[Schulte Table](/games/schulte-table)**: Perfect for improving visual search, peripheral vision, and attention span.
-*   **[Stroop Effect Test](/games/stroop-effect-test)**: This game challenges your selective attention and cognitive flexibility by forcing you to resolve conflicting information.
-*   **[Reaction Time Test](/games/reaction-time)**: Sharpen your focus and concentration by reacting quickly to visual cues.
+*   **[Schulte Table](/schulte-table)**: Perfect for improving visual search, peripheral vision, and attention span.
+*   **[Stroop Effect Test](/stroop-effect-test)**: This game challenges your selective attention and cognitive flexibility by forcing you to resolve conflicting information.
+*   **[Reaction Time Test](/reaction-time)**: Sharpen your focus and concentration by reacting quickly to visual cues.

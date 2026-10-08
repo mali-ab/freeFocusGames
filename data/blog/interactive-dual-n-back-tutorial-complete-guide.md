@@ -5,7 +5,7 @@ excerpt: "Master dual n-back with our revolutionary interactive tutorial. Experi
 coverImage: "/blog/dual-n-back-interactive-tutorial-cover.jpg"
 keywords: "interactive dual n-back tutorial, dual n-back interactive guide, hands-on dual n-back training, how to play dual n-back for beginners, dual n-back tutorial with practice, interactive brain training, dual n-back step by step interactive, real-time dual n-back tutorial, interactive cognitive training, dual n-back practice tutorial, hands-on working memory training, interactive dual n-back learning, dual n-back tutorial experience, interactive brain games, dual n-back game instructions, learn dual n-back easily, dual n-back beginner tutorial, dual n-back training for working memory, dual n-back tutorial 2025, dual n-back practice guide, dual n-back game tutorial, dual n-back explained simply, dual n-back interactive learning, dual n-back tutorial online, free dual n-back tutorial, dual n-back game how to play, dual n-back tutorial video alternative, dual n-back step by step guide, dual n-back training tutorial, working memory training tutorial, cognitive training tutorial, brain training tutorial interactive"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -127,7 +127,7 @@ Train with the exact task used in scientific research. Our implementation includ
 ### [🀄 Mahjong Dual N-Back](/games/mahjong-dual-n-back)
 Enjoy the same cognitive benefits with beautiful mahjong tiles and sounds, making your working memory training more engaging while maintaining scientific effectiveness.
 
-### [🧩 Block Memory Challenge](/games/block-memory-challenge)
+### [🧩 Block Memory Challenge](/block-memory-challenge)
 Complement your n-back training with spatial working memory exercises that target different aspects of cognitive control.
 
 ### [📚 The Science Behind N-Back Training](/blog/the-science-behind-n-back-training-boost-working-memory)

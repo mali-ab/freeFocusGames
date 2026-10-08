@@ -5,7 +5,7 @@ excerpt: "Discover how dopamine affects your focus, why it's so easy to get dist
 coverImage: "https://images.unsplash.com/photo-1617791160536-598cf32026fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Mjc2NjN8MHwxfHNlYXJjaHwxfHxicmFpbiUyMGRvcGFtaW5lJTIwbmV1cm9zY2llbmNlJTIwZm9jdXN8ZW58MHx8fHwxNzQyODg2MzQzfDA&ixlib=rb-4.0.3&q=80&w=2000"
 keywords: "dopamine, focus, attention span, digital distraction, productivity, brain science, concentration, social media addiction, phone addiction, focus management, attention management, dopamine hijack, distraction triggers, instant gratification, how dopamine affects focus, dopamine hijack explained, dopamine and productivity tips, improve attention span naturally, focus management techniques, attention management strategies, boost concentration in a digital world, overcome social media addiction, break phone addiction habits, digital distraction solutions, stop digital distractions at work, brain science behind focus, how instant gratification kills focus, distraction triggers and brain, tips to improve focus management, daily habits for better concentration, train your brain to avoid distractions"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -67,16 +67,16 @@ These days, focus is a superpower! Ready to ditch the dopamine trap and nail you
 
 Ready to build that focus muscle? Check out these science-backed games designed to boost your concentration:
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 Enhance your peripheral vision and attention by finding numbers in sequence. It's a classic tool used by professionals to train sustained focus and visual processing speed.
 
 ### [Dual N-Back](/games/dual-n-back)
 Challenge your working memory and attention control with this advanced cognitive training game. Perfect for building resistance to distractions and strengthening your focus.
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 Test and improve your visual memory with increasingly complex sequences. Great for developing the focus needed to handle detailed tasks and remember important information.
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 Train your processing speed and attention with quick number comparisons. An excellent way to practice maintaining focus under time pressure.
 
 Give these games a try—they're way more productive than endless scrolling, and they actually help train your brain to stay focused! 🎮🧠 

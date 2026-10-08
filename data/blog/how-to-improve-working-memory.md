@@ -5,7 +5,7 @@ excerpt: "Discover how working memory impacts your daily life and learn 5 resear
 coverImage: "/blog/working-memory-training-cover.png"
 keywords: "improve working memory, training working memory, working memory exercises, cognitive enhancement, working memory capacity, memory improvement techniques, brain training, Peter Doolittle, TED Talk working memory, memory strategies, mental processing, information retention, working memory limits, cognitive skills, memory training, brain exercises, learning efficiency, memory organization, working memory and productivity, mental imagery techniques, working memory practice, brain plasticity, memory support strategies, working memory challenges, memory limitations"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -102,13 +102,13 @@ The gold standard in working memory training. This challenging exercise requires
 ### [Mahjong Dual N-Back](/games/mahjong-dual-n-back)
 A visually engaging variation of the classic dual n-back exercise. This game combines traditional memory challenge with captivating imagery, making working memory training more enjoyable while maintaining its effectiveness for cognitive enhancement.
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 Master increasingly complex visual sequences to expand your memory span. This game trains your ability to hold and manipulate spatial information—a key component of working memory essential for many everyday tasks.
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 Improve your information processing speed and attention distribution while training your working memory. Finding numbers in sequence enhances your ability to quickly organize and retrieve information—critical skills for effective working memory.
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 Enhance your working memory's processing speed with rapid number comparisons. This game trains your brain to make quick decisions while holding information in mind, strengthening the neural pathways essential for efficient working memory.
 
 Challenge yourself with these targeted exercises just 15 minutes daily to gradually expand your working memory capacity. Your brain will thank you! 🧠 

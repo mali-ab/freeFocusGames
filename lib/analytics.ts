@@ -1,4 +1,4 @@
-// GA4 Event Tracking for FreeFocusGames
+// GA4 Event Tracking for Üns Oýunlary
 // Based on user behavior analysis and conversion funnel optimization
 
 declare global {

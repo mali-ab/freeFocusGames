@@ -13,7 +13,7 @@ keywords: >-
   addiction, mental fatigue, brain health, cognitive enhancement, work focus,
   study concentration, distraction management
 author:
-  name: FreeFocusGames Team
+  name: Üns Oýunlary Team
   picture: /authors/team.png
 ---
 最近，我注意到我的时间被零碎的任务分割得支离破碎，导致我工作时根本无法集中注意力。结果，我的效率直线下降——我感觉自己一直在忙，但却搞不清楚自己到底完成了什么。
@@ -89,16 +89,16 @@ author:
 
 准备好锻炼你的专注力了吗？看看这些旨在提高你的注意力的、有科学依据的游戏：
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 通过按顺序查找数字来增强你的周边视觉和注意力。这是一种专业人士用来训练持续注意力和视觉处理速度的经典工具。
 
 ### [Dual N-Back](/games/dual-n-back)
 通过这款高级认知训练游戏来挑战你的工作记忆和注意力控制。非常适合建立对干扰的抵抗力并加强你的注意力。
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 通过越来越复杂的序列来测试和提高你的视觉记忆。非常适合培养处理详细任务和记住重要信息所需的注意力。
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 通过快速的数字比较来训练你的处理速度和注意力。练习在时间压力下保持专注的绝佳方式。
 
 试试这些游戏——它们比无休止的滚动浏览更有成效，而且它们实际上有助于训练你的大脑保持专注！🎮🧠

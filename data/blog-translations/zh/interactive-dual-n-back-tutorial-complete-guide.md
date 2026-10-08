@@ -5,7 +5,7 @@ excerpt: "双重N-Back太难上手？我们的终极指南为您提供最直观�
 coverImage: "/blog/dual-n-back-interactive-tutorial-cover.jpg"
 keywords: "交互式双重n-back教程, 双重n-back实操训练, 手把手双重n-back教学, 双重n-back新手教程, 双重n-back怎么玩, 交互式大脑训练, 双重n-back真实练习, 实时双重n-back指导, 交互式认知训练, 双重n-back体验教程, 在线双重n-back练习, 互动式工作记忆训练, 双重n-back实战教程, 交互式脑力游戏, 双重n-back游戏说明, 双重n-back入门教程, 双重n-back训练方法, 双重n-back练习指南, 双重n-back游戏教程, 双重n-back简单教学, 双重n-back在线教程, 免费双重n-back教程, 双重n-back游戏怎么玩, 双重n-back详细教程, 双重n-back步骤教学, 双重n-back训练教程, 工作记忆训练教程, 认知训练教程, 脑力训练互动教程, 双重n-back中文教程, 双重n-back完整教程"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -127,7 +127,7 @@ author:
 ### [🀄 麻将双重N-Back](/games/mahjong-dual-n-back)
 享受相同的认知益处，配有美丽的麻将牌和声音，让你的工作记忆训练更有趣，同时保持科学有效性。
 
-### [🧩 方块记忆挑战](/games/block-memory-challenge)
+### [🧩 方块记忆挑战](/block-memory-challenge)
 用针对认知控制不同方面的空间工作记忆练习来补充你的n-back训练。
 
 ### [📚 N-Back训练背后的科学](/blog/the-science-behind-n-back-training-boost-working-memory)

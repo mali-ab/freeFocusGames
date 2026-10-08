@@ -4,7 +4,7 @@ excerpt: "Discover everything you need to know about the Vanderbilt ADHD Diagnos
 date: "2025-09-10"
 coverImage: "/blog/vanderbilt-adhd-scale-cover.png"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 tags: ["Children ADHD", "ADHD Assessment", "Vanderbilt Scale", "Mental Health", "ADHD Diagnosis", "Child Psychology", "Pediatric Assessment"]
 keywords: ["children adhd assessment", "vanderbilt adhd rating scale", "child adhd diagnosis", "pediatric adhd evaluation", "vanderbilt adhd diagnostic rating scale", "child attention deficit", "adhd symptoms children", "vadprs children", "school age adhd", "children adhd screening"]
@@ -349,9 +349,9 @@ Is your child showing signs of attention difficulties? Our online ADHD assessmen
 Understanding your attention patterns is just the first step. Improving focus requires targeted training and practice. Explore our scientifically-backed cognitive training games designed to enhance attention, working memory, and executive function:
 
 - **[Dual N-Back Training](/games/dual-n-back)**: Enhance working memory and sustained attention through this challenging cognitive exercise
-- **[Schulte Table Practice](/games/schulte-table)**: Improve visual attention, peripheral vision, and processing speed
-- **[Stroop Effect Training](/games/stroop-effect-test)**: Strengthen cognitive flexibility and selective attention skills
-- **[Reaction Time Testing](/games/reaction-time)**: Develop focused attention and rapid response capabilities
+- **[Schulte Table Practice](/schulte-table)**: Improve visual attention, peripheral vision, and processing speed
+- **[Stroop Effect Training](/stroop-effect-test)**: Strengthen cognitive flexibility and selective attention skills
+- **[Reaction Time Testing](/reaction-time)**: Develop focused attention and rapid response capabilities
 
 These evidence-based training tools complement traditional ADHD interventions and can be valuable additions to a comprehensive attention improvement program.
 

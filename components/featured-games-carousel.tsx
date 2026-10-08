@@ -237,7 +237,7 @@ export default function FeaturedGamesCarousel() {
                             <Sparkles className="h-6 w-6 text-blue-500" />
                             {homeT("latestGames")}
                         </h3>
-                        <Link href="/games">
+                        <Link href="/">
                             <Button variant="outline" size="sm">
                                 {t("viewAll")} →
                             </Button>

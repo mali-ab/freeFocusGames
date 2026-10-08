@@ -5,7 +5,7 @@ excerpt: "Discover how body doubling can transform your focus and productivity. 
 coverImage: "/blog/body-doubling-focus-cover.png"
 keywords: "body doubling, focus improvement techniques, attention training, concentration strategies, beat procrastination, improve work focus, stay focused longer, ADHD productivity, working memory, deep work, focus games, attention span, productivity tips, cognitive performance, distraction management, focus training, social facilitation, accountability partner, virtual coworking, remote work focus"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -57,7 +57,7 @@ Body doubling can be a game-changer for:
 - **Anyone** looking to build better focus habits and improve their attention span
 - **People** who work alone and miss the accountability of having colleagues nearby
 
-At Free Focus Games, we've noticed that body doubling works particularly well when combined with a quick focus warm-up—like playing a Schulte Table game for 2-3 minutes before starting your work session.
+At Üns Oýunlary, we've noticed that body doubling works particularly well when combined with a quick focus warm-up—like playing a Schulte Table game for 2-3 minutes before starting your work session.
 
 ## How to Get Started with Body Doubling
 
@@ -96,7 +96,7 @@ Combine body doubling with proven time management techniques:
 - **Custom intervals**: Whatever works best for you and your body double
 
 ### Step 5: Prime Your Focus
-Before diving into your main task, spend 2-3 minutes on a quick focus exercise. Try a brain game from Free Focus Games—it's like stretching before a workout, but for your attention muscles.
+Before diving into your main task, spend 2-3 minutes on a quick focus exercise. Try a brain game from Üns Oýunlary—it's like stretching before a workout, but for your attention muscles.
 
 
 ## Tasks That Shine with Body Doubling
@@ -195,16 +195,16 @@ Your future, more productive self might just thank you for it.
 
 Ready to build that focus muscle even stronger? These science-backed games work perfectly as warm-ups before your body doubling sessions:
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 Train your peripheral vision and attention span by finding numbers in sequence. Just 2-3 minutes of this before starting work can significantly improve your ability to stay focused during long tasks.
 
-### [Stroop Effect Test](/games/stroop-effect-test)
+### [Stroop Effect Test](/stroop-effect-test)
 Strengthen your cognitive control and resistance to distractions with this classic attention training exercise. Perfect for building the mental discipline needed for deep work.
 
 ### [Dual N-Back](/games/dual-n-back)
 Challenge your working memory and attention control with this advanced cognitive training game. Excellent for building the mental stamina needed for complex tasks.
 
-### [Reaction Time Test](/games/reaction-time)
+### [Reaction Time Test](/reaction-time)
 Improve your mental processing speed and alertness with quick reaction challenges. Great for getting your brain warmed up and ready to focus.
 
 Try combining these games with body doubling for a powerful one-two punch against procrastination and distractions!

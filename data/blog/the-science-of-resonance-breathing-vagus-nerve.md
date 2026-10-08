@@ -5,7 +5,7 @@ excerpt: "Discover the neuroscience behind resonance breathing (coherent breathi
 coverImage: "/blog/resonance-breathing-cover.png"
 keywords: "resonance breathing, coherent breathing, vagus nerve breathing, hrv breathing exercise, breathing exercises for stress relief, paced breathing technique, heart rate variability training, vagal tone, breathing for anxiety, slow breathing benefits, cardiac coherence, baroreflex breathing, stress relief breathing technique, how to stimulate vagus nerve naturally"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 

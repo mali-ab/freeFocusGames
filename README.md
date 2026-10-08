@@ -33,15 +33,15 @@ This repository features production-ready implementations of the following cogni
 The gold standard for working memory training. Based on the research by Susanne Jaeggi, this task requires users to simultaneously track visual and auditory stimuli sequences.
 *   **Keywords**: *Fluid Intelligence, Working Memory, Jaime Jaeggi, N-Back Algorithm*
 
-### 2. [Schulte Table](/app/[locale]/(main)/games/schulte-table)
+### 2. [Schulte Table](/app/[locale]/(main)/schulte-table)
 A grid of randomly distributed numbers used for speed reading development and peripheral vision training.
 *   **Keywords**: *Speed Reading, Attention Control, Peripheral Vision, Focus Grid*
 
-### 3. [Stroop Effect Test](/app/[locale]/(main)/games/stroop-effect-test)
+### 3. [Stroop Effect Test](/app/[locale]/(main)/stroop-effect-test)
 A neuropsychological test demonstrating the reaction time delay between congruent and incongruent stimuli. Measures cognitive flexibility and executive function.
 *   **Keywords**: *Selective Attention, Cognitive Flexibility, Executive Function, Inhibition Control*
 
-### 4. [Reaction Time Test](/app/[locale]/(main)/games/reaction-time)
+### 4. [Reaction Time Test](/app/[locale]/(main)/reaction-time)
 A millisecond-precision test to measure your reaction speed. Click as fast as you can when the screen changes color. Widely used in sports science and cognitive research.
 *   **Keywords**: *Reaction Time, Reflex Test, Speed Test, Response Time, Human Benchmark*
 

@@ -36,7 +36,7 @@ export default function AppleStyleGameCard({
             <div className="relative h-full flex flex-col p-8 text-foreground">
                 {/* 标题和描述 */}
                 <Link 
-                    href={`/games/${game.slug}`}
+                    href={`/${game.slug}`}
                     aria-label={`Read more about ${t(`${camelCaseId}.title`)}`}
                 >
                     <div className="mb-2 cursor-pointer">
@@ -53,7 +53,7 @@ export default function AppleStyleGameCard({
                 <div className="flex-1 flex items-center justify-center mb-2 mt-4">
                     {preview && (
                         <Link 
-                            href={`/games/${game.slug}`} 
+                            href={`/${game.slug}`}
                             className="w-full h-full block"
                             aria-label={`Play ${t(`${camelCaseId}.title`)} game preview`}
                         >
@@ -77,4 +77,4 @@ export default function AppleStyleGameCard({
             </div>
         </div>
     );
-} 
+}

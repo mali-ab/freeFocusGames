@@ -4,7 +4,7 @@ date: "2026-03-06"
 excerpt: "我们最近对平台上两款备受欢迎的认知训练游戏——“发光鱼追踪”和“青蛙记忆跳跃”进行了一次重大的底层技术重构。通过抛弃笨重的传统游戏引擎，全面转向纯 React 和 SVG 架构，我们大幅提升了游戏的加载性能、移动端适配体验以及 SEO 可见度。"
 coverImage: "/games/fish-trace.png"
 author:
-  name: "FreeFocusGames Engineering"
+  name: "Üns Oýunlary Engineering"
   picture: "/authors/team.png"
 keywords: "react 游戏开发, svg 动画制作, phaser 替代方案, 多目标追踪训练游戏, web 前端性能优化, nextjs 在线游戏, 认知训练科技, 提升专注力 web 应用"
 ---
@@ -49,7 +49,7 @@ keywords: "react 游戏开发, svg 动画制作, phaser 替代方案, 多目标�
 
 我们诚挚邀请您来体验这两款游戏更加流畅、快速、响应灵敏的全新版本：
 
-*   [开始游玩 🐟 发光鱼追踪](/games/fish-trace) - 提升你的视觉追踪与持续专注力。
-*   [开始游玩 🐸 青蛙记忆跳跃](/games/frog-memory-leap) - 挑战你的空间工作记忆极限。
+*   [开始游玩 🐟 发光鱼追踪](/fish-trace) - 提升你的视觉追踪与持续专注力。
+*   [开始游玩 🐸 青蛙记忆跳跃](/frog-memory-leap) - 挑战你的空间工作记忆极限。
 
-FreeFocusGames 团队将继续致力于底层技术的优化与打磨，为您提供最优质的大脑在线训练体验。敬请期待更多更新！
+Üns Oýunlary 团队将继续致力于底层技术的优化与打磨，为您提供最优质的大脑在线训练体验。敬请期待更多更新！

@@ -14,7 +14,7 @@ keywords: >-
   optimization, cognitive constraints, learning theory, memory alignment, memory
   construction
 author:
-  name: FreeFocusGames Team
+  name: Üns Oýunlary Team
   picture: /authors/team.png
 ---
 当你坐在教室里或观看教育视频时，你有没有想过你的大脑里正在发生什么？学习的过程远比简单地吸收信息复杂得多——它是一个复杂而精妙的舞蹈，包括在你的工作记忆中发生的筛选、处理和整合。
@@ -184,13 +184,13 @@ author:
 ### [Dual N-Back](/games/dual-n-back)
 通过这个黄金标准的训练练习，挑战你的工作记忆的双通道处理能力，该练习可以同时构建视觉和听觉记忆。
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 通过越来越复杂的序列来测试和扩展你的视觉工作记忆，这些序列可以加强你选择和组织视觉信息的能力。
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 提高你的信息处理速度和注意力分配——这是有效的工作记忆性能的关键组成部分。
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 训练你的大脑在记住信息的同时做出快速决策，从而加强高效工作记忆必不可少的神经通路。
 
 每天只需 15 分钟的有针对性的练习就可以帮助扩大你的工作记忆容量并提高你的学习效率！🧠

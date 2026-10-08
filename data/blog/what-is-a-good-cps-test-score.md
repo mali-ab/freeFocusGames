@@ -5,7 +5,7 @@ excerpt: "What counts as a good CPS test score? Learn normal, fast, and advanced
 coverImage: "/games/cps-test.png"
 keywords: "good cps test score, cps test, click speed test, mouse click speed test, clicks per second, what is a good cps, 5 second cps test, improve click speed, mouse clicking test, cps benchmark"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -105,7 +105,7 @@ Online CPS tests are fine for short practice, but pain is not a training signal.
 
 Not exactly. CPS measures repeated clicking output. Reaction time measures how quickly you respond to a stimulus.
 
-They overlap a little because both involve coordination and focus, but they are different skills. If you want to train both, pair the [CPS test](/games/cps-test) with a [reaction time test](/games/reaction-time).
+They overlap a little because both involve coordination and focus, but they are different skills. If you want to train both, pair the [CPS test](/games/cps-test) with a [reaction time test](/reaction-time).
 
 ## What score should you aim for?
 

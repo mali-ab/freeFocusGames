@@ -5,7 +5,7 @@ excerpt: "探索共振呼吸（谐振呼吸）背后的神经科学原理，了�
 coverImage: "/blog/resonance-breathing-cover.png"
 keywords: "共振呼吸法, 谐振呼吸, 迷走神经呼吸, 心率变异性训练, 缓解焦虑的呼吸练习, 慢节奏呼吸技巧, 心率变异性, 迷走神经张力, 焦虑呼吸法, 慢呼吸的好处, 心脏一致性, 压力反射呼吸, 减压呼吸技巧, 如何自然刺激迷走神经"
 author:
-  name: "FreeFocusGames 团队"
+  name: "Üns Oýunlary 团队"
   picture: "/authors/team.png"
 ---
 

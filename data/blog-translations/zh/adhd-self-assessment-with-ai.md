@@ -4,7 +4,7 @@ excerpt: "探索如何利用ChatGPT等先进AI技术，结合权威的范德比�
 date: "2025-07-17"
 coverImage: "/adhd-test-llm-cover.jpg"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 tags: ["ADHD", "AI", "自我评估", "心理健康", "范德比尔特量表"]
 keywords: ["范德比尔特ADHD诊断量表", "ADHD自我测试", "AI心理健康", "ADHD评定量表第四版", "儿童ADHD自评量表", "ADHD自评量表", "成人ADHD自评量表"]
@@ -82,6 +82,6 @@ keywords: ["范德比尔特ADHD诊断量表", "ADHD自我测试", "AI心理健�
 提升专注力是一个持续的过程，而大脑训练游戏是其中一个有趣且有效的部分。以下是我们网站上几款专门用于挑战和提升您注意力的游戏：
 
 *   **[双重N-Back](/games/dual-n-back)**：一个经典的大脑训练任务，可以增强您的工作记忆和分散注意力。
-*   **[舒尔特方格](/games/schulte-table)**：非常适合提高视觉搜索能力、周边视觉和注意力广度。
-*   **[斯特鲁普效应测试](/games/stroop-effect-test)**：这款游戏通过迫使您解决冲突信息来挑战您的选择性注意力和认知灵活性。
-*   **[反应时间测试](/games/reaction-time)**：通过对视觉提示做出快速反应来提高您的专注力和集中力。
+*   **[舒尔特方格](/schulte-table)**：非常适合提高视觉搜索能力、周边视觉和注意力广度。
+*   **[斯特鲁普效应测试](/stroop-effect-test)**：这款游戏通过迫使您解决冲突信息来挑战您的选择性注意力和认知灵活性。
+*   **[反应时间测试](/reaction-time)**：通过对视觉提示做出快速反应来提高您的专注力和集中力。

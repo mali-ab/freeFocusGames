@@ -4,7 +4,7 @@ excerpt: "了解 ASRS-v1.1 的评分方式、成人 ADHD 测试结果可能代�
 date: "2025-09-10"
 coverImage: "/blog/adult-adhd-asrs-cover.png"
 author:
-  name: "FreeFocusGames team"
+  name: "Üns Oýunlary team"
   picture: "/authors/team.png"
 tags: ["成人注意力不足过动症", "ASRS量表", "成人ADHD评估", "心理健康", "ADHD诊断", "成人心理学", "ADHD筛查"]
 keywords: ["成人注意力不足过动症评估", "asrs量表", "成人adhd自评量表", "成人adhd诊断", "成人注意力不足过动症", "成人adhd测试", "asrs-v1.1", "who成人adhd", "成人注意力缺陷", "成人adhd症状", "成人注意力不足过动症筛查", "成人adhd在线测试", "成人注意力缺陷评估工具", "成人adhd症状自测", "免费成人adhd测试", "成人注意力不足症状表现", "成人过动症评估", "成人注意力障碍测试", "世卫组织成人adhd量表", "成人注意力不集中测试", "成人多动症自测量表", "18岁以上adhd评估", "成人注意力缺陷筛查工具", "成人adhd诊断标准", "成人注意力不足过动症症状", "成人adhd自我评估", "在线成人adhd筛查", "成人注意力障碍诊断", "成人adhd评分量表", "成人注意力不足测评"]
@@ -380,9 +380,9 @@ ASRS-v1.1提供优越的成人特定验证和全球标准化，而ADHD评定量�
 了解您的注意力模式是改进的基础。用我们科学支持的认知训练游戏来补充您的评估，这些游戏旨在增强注意力、工作记忆和执行功能：
 
 - **[双N-Back训练](/games/dual-n-back)**：通过渐进式认知挑战加强工作记忆和持续注意力
-- **[Stroop效应训练](/games/stroop-effect-test)**：增强认知灵活性和选择性注意力控制
-- **[舒尔特表练习](/games/schulte-table)**：改善视觉注意力、处理速度和专注力
-- **[反应时间测试](/games/reaction-time)**：发展专注注意力和快速反应能力
+- **[Stroop效应训练](/stroop-effect-test)**：增强认知灵活性和选择性注意力控制
+- **[舒尔特表练习](/schulte-table)**：改善视觉注意力、处理速度和专注力
+- **[反应时间测试](/reaction-time)**：发展专注注意力和快速反应能力
 
 这些循证训练工具可以作为传统ADHD治疗和专业干预的有价值补充。
 

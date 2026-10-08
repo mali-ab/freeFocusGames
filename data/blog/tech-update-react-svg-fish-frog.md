@@ -4,7 +4,7 @@ date: "2026-03-06"
 excerpt: "We recently completed a major technical overhaul of our popular cognitive games, Glowing Fish Trace and Frog Memory Leap. By moving away from heavy game engines like Phaser to a pure React and SVG architecture, we've drastically improved performance, mobile responsiveness, and SEO discoverability."
 coverImage: "/games/fish-trace.png"
 author:
-  name: "FreeFocusGames Engineering"
+  name: "Üns Oýunlary Engineering"
   picture: "/authors/team.png"
 keywords: "react game development, svg animation, phaser alternative, multiple object tracking game, web performance optimization, nextjs games, cognitive training games tech stack, adhd web apps"
 ---
@@ -49,7 +49,7 @@ These scientific foundations help users seeking cognitive improvements find and 
 
 We invite you to experience the smoother, faster, and more responsive versions of these games:
 
-*   [Play Glowing Fish Trace](/games/fish-trace) - Improve your visual tracking and sustained attention.
-*   [Play Frog Memory Leap](/games/frog-memory-leap) - Challenge your spatial working memory.
+*   [Play Glowing Fish Trace](/fish-trace) - Improve your visual tracking and sustained attention.
+*   [Play Frog Memory Leap](/frog-memory-leap) - Challenge your spatial working memory.
 
-We are committed to continuously improving the FreeFocusGames platform to provide the best possible cognitive training tools. Stay tuned for more updates!
+We are committed to continuously improving the Üns Oýunlary platform to provide the best possible cognitive training tools. Stay tuned for more updates!

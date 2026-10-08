@@ -17,7 +17,7 @@ export function ShareModal({
   isOpen, 
   onClose, 
   url, 
-  title = 'Free Focus Games',
+  title = 'Üns Oýunlary',
   shareText
 }: ShareModalProps) {
   const [currentUrl, setCurrentUrl] = useState<string>(url || '')

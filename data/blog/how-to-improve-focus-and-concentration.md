@@ -5,7 +5,7 @@ excerpt: "Discover practical strategies to improve focus and concentration in a 
 coverImage: "https://images.unsplash.com/photo-1670105750992-1b21f802259f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Mjc2NjN8MHwxfHNlYXJjaHwxfHxmb2N1cyUyMGNvbmNlbnRyYXRpb24lMjBwcm9kdWN0aXZpdHl8ZW58MHx8fHwxNzQyOTc2MDA4fDA&ixlib=rb-4.0.3&q=80&w=2000"
 keywords: "focus improvement, concentration, productivity tips, digital distractions, pomodoro technique, mindfulness meditation, focus habits, brain training, deep work, focus exercises, mental clarity, attention span, cognitive performance, screen time management, information overload, concentration techniques, focus strategy, productivity hacks, focus training, attention management, screen addiction, mental fatigue, brain health, cognitive enhancement, work focus, study concentration, distraction management"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -82,16 +82,16 @@ Regaining focus takes time, but these habits can make a real difference. Start w
 
 Ready to build that focus muscle? Check out these science-backed games designed to boost your concentration:
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 Enhance your peripheral vision and attention by finding numbers in sequence. It's a classic tool used by professionals to train sustained focus and visual processing speed.
 
 ### [Dual N-Back](/games/dual-n-back)
 Challenge your working memory and attention control with this advanced cognitive training game. Perfect for building resistance to distractions and strengthening your focus.
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 Test and improve your visual memory with increasingly complex sequences. Great for developing the focus needed to handle detailed tasks and remember important information.
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 Train your processing speed and attention with quick number comparisons. An excellent way to practice maintaining focus under time pressure.
 
 Give these games a try—they're way more productive than endless scrolling, and they actually help train your brain to stay focused! 🎮🧠 

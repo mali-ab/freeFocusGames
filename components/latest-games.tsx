@@ -22,7 +22,7 @@ export default function LatestGames() {
                     {t("latestGames")}
                 </h2>
                 <Button asChild variant="ghost" className="gap-2 rounded-full px-4">
-                    <Link href="/games">
+                    <Link href="/">
                         {buttonsT("viewAll")} <ArrowRight className="h-4 w-4" />
                     </Link>
                 </Button>

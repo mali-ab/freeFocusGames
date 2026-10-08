@@ -11,7 +11,7 @@ keywords: >-
   memory, memory motivation, memory attention, memory tricks, personal memory
   journey, memory transformation, practical memory techniques
 author:
-  name: FreeFocusGames Team
+  name: Üns Oýunlary Team
   picture: /authors/team.png
 ---
 我一直认为我的记忆力没救了。总是忘记在杂货店买牛奶，记不住朋友的生日除非手机提醒我，工作上的细节也总是被我遗漏——我一直坚信这就是我的脑子天生的构造。但后来我偶然发现了吉姆·奎克的视频《提高记忆力的第一秘诀》(<a href="https://www.youtube.com/watch?v=5_xCz9DlSiY" rel="nofollow">点击这里观看</a>)，一切都改变了。事实证明，提高记忆力不是天生的天赋——而是一项我可以训练的技能，而且比我想象的有趣多了。
@@ -100,13 +100,13 @@ author:
 ### [Dual N-Back](/games/dual-n-back)
 通过这个黄金标准的训练练习来挑战你的工作记忆，同时建立视觉和听觉记忆。
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 通过越来越复杂的序列来测试和扩展你的视觉记忆容量，从而加强空间回忆。
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 提高你的信息处理速度和注意力——有效记忆形成的关键组成部分。
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 训练你的大脑在记住信息的同时快速做出决定，从而加强有效记忆必不可少的神经通路。
 
 每天只需练习 15 分钟，即可构建你自己的记忆宫殿！🧠

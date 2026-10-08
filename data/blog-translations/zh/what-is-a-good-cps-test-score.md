@@ -5,7 +5,7 @@ excerpt: "CPS测试多少算正常，多少算快？这篇指南整理了 1 秒�
 coverImage: "/games/cps-test.png"
 keywords: "cps测试, cps测试多少算快, 点击速度测试, 鼠标点击速度测试, 鼠标连点测试, 手速测试, 5秒cps测试, clicks per second, 如何提高cps, cps标准"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -113,7 +113,7 @@ CPS 不只是拼手指速度，下面这些因素都会影响结果。
 - **CPS 测试** 看的是重复点击输出
 - **反应速度测试** 看的是你对刺激作出反应有多快
 
-两者都和协调性、专注力有关，但不是同一个能力。如果你想把“手速”和“反应”一起练，可以把 [CPS测试](/games/cps-test) 和 [反应速度测试](/games/reaction-time) 结合起来看。
+两者都和协调性、专注力有关，但不是同一个能力。如果你想把“手速”和“反应”一起练，可以把 [CPS测试](/games/cps-test) 和 [反应速度测试](/reaction-time) 结合起来看。
 
 ## 你应该把目标设在什么区间？
 

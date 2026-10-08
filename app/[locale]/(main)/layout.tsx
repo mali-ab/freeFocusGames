@@ -36,7 +36,7 @@ export async function generateMetadata(
         metadataBase: new URL(baseUrl),
         // 默认标题模板，页面可以提供具体标题
         title: {
-            template: '%s | FreeFocusGames',
+            template: '%s | Üns Oýunlary',
             default: t('title'),
         },
         // 默认描述，页面可以提供更具体的描述
@@ -45,8 +45,8 @@ export async function generateMetadata(
         keywords: t('keywords').split(',').map(keyword => keyword.trim()),
         // 默认 Open Graph 配置
         openGraph: {
-            images: "/og/oglogo.png",
-            siteName: "FreeFocusGames",
+            images: "/logo.jpeg",
+            siteName: "Üns Oýunlary",
             type: "website",
         },
         // 默认 Twitter 配置
@@ -60,8 +60,12 @@ export async function generateMetadata(
             index: true,
             follow: true,
         },
-        authors: [{ name: 'FreeFocusGames Team' }],
-        applicationName: 'Focus Games',
+        authors: [{ name: 'Üns Oýunlary Team' }],
+        applicationName: 'Üns Oýunlary',
+        icons: {
+            icon: '/logo.jpeg',
+            apple: '/logo.jpeg',
+        },
         appleWebApp: {
             capable: true,
             title: 'Focus Games',
@@ -117,7 +121,7 @@ export default async function RootLayout({
                     {JSON.stringify({
                         "@context": "https://schema.org",
                         "@type": "WebSite",
-                        name: "FreeFocusGames",
+                        name: "Üns Oýunlary",
                         url: "https://www.freefocusgames.com",
                         description:
                             "Free online platform with science-based games to improve focus, memory and concentration for kids, adults, and seniors",

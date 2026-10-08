@@ -5,7 +5,7 @@ excerpt: "Discover why Navy SEALs, first responders, and elite athletes rely on 
 coverImage: "/blog/resonance-breathing-cover.png"
 keywords: "box breathing, box breathing technique, 4-4-4-4 breathing, navy seal breathing, tactical breathing, square breathing, box breathing for anxiety, how to do box breathing, box breathing benefits, breathing exercise for stress, breathing exercise for focus, calm breathing technique, box breathing science, navy seal breathing technique, breathing exercise for beginners"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 

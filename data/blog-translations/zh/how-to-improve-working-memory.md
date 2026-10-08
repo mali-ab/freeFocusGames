@@ -13,7 +13,7 @@ keywords: >-
   working memory practice, brain plasticity, memory support strategies, working
   memory challenges, memory limitations
 author:
-  name: FreeFocusGames Team
+  name: Üns Oýunlary Team
   picture: /authors/team.png
 ---
 工作记忆是你大脑中有意识的处理中心——把它想象成你大脑的工作台，在那里思想和信息被积极地管理、操作和处理。与长期记忆（长期储存信息）不同，工作记忆处理的是你现在正在积极思考的事情。
@@ -109,13 +109,13 @@ author:
 ### [Mahjong Dual N-Back](/games/mahjong-dual-n-back)
 经典双n-back练习的视觉吸引人的变体。这款游戏将传统的记忆挑战与引人入胜的图像相结合，使工作记忆训练更加愉快，同时保持其认知增强的有效性。
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 掌握越来越复杂的视觉序列以扩大你的记忆广度。这款游戏训练你保持和处理空间信息的能力——工作记忆的关键组成部分，对许多日常任务至关重要。
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 在训练你的工作记忆的同时，提高你的信息处理速度和注意力分配。按顺序查找数字可以提高你快速组织和检索信息的能力——这是有效工作记忆的关键技能。
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 通过快速的数字比较来提高你的工作记忆的处理速度。这款游戏训练你的大脑在记住信息的同时做出快速决策，从而加强对有效工作记忆至关重要的神经通路。
 
 每天只需用这些有针对性的练习挑战自己15分钟，即可逐渐扩大你的工作记忆容量。你的大脑会感谢你的！🧠

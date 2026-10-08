@@ -4,7 +4,7 @@ excerpt: "A plain-English guide to scoring the Vanderbilt ADHD Rating Scale, inc
 date: "2026-03-30"
 coverImage: "/blog/vanderbilt-adhd-scale-cover.png"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 tags: ["Children ADHD", "Vanderbilt Scale", "ADHD Assessment", "ADHD Screening", "Pediatric Assessment"]
 keywords: ["scoring the vanderbilt", "vanderbilt adhd rating scale scoring", "how to score the vanderbilt adhd rating scale", "vanderbilt adhd rating scale", "vanderbilt adhd assessment", "nichq vanderbilt assessment scale", "vanderbilt teacher form scoring", "vanderbilt parent form scoring", "vanderbilt follow up scoring", "vanderbilt adhd interpretation"]

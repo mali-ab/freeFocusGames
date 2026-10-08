@@ -1,12 +1,10 @@
-import { GamePreview as SimonGamePreview } from "@/app/[locale]/(main)/games/block-memory-challenge/components/GamePreview";
-import { GamePreview as SchulteTableGamePreview } from "@/app/[locale]/(main)/games/schulte-table/components/GamePreview";
-import { CountingBoxesGamePreview } from "@/app/[locale]/(main)/games/counting-boxes/components/GamePreview";
-import { GamePreview as MemoryMatchingPreview } from "@/app/[locale]/(main)/games/memory-matching-game/components/GamePreview";
-import { GamePreview as ResonanceBreathingPreview } from "@/app/[locale]/(main)/games/resonance-breathing/GamePreview";
-import { GamePreview as SpacebarClickerPreview } from "@/app/[locale]/(main)/games/spacebar-clicker/components/GamePreview";
-import { GamePreview as FishTraceGamePreview } from "@/app/[locale]/(main)/games/fish-trace/components/GamePreview";
+import { GamePreview as SimonGamePreview } from "@/app/[locale]/(main)/block-memory-challenge/components/GamePreview";
+import { GamePreview as SchulteTableGamePreview } from "@/app/[locale]/(main)/schulte-table/components/GamePreview";
+import { CountingBoxesGamePreview } from "@/app/[locale]/(main)/counting-boxes/components/GamePreview";
+import { GamePreview as MemoryMatchingPreview } from "@/app/[locale]/(main)/memory-matching-game/components/GamePreview";
+import { GamePreview as FishTraceGamePreview } from "@/app/[locale]/(main)/fish-trace/components/GamePreview";
 import { ImagePreview } from "@/components/image-preview";
-import { PeripheralSpeedPreview } from "@/app/[locale]/(main)/games/double-decision/components/GamePreview";
+import { PeripheralSpeedPreview } from "@/app/[locale]/(main)/double-decision/components/GamePreview";
 
 
 export type Game = {
@@ -19,34 +17,6 @@ export type Game = {
 };
 
 export const games: Game[] = [
-  {
-    id: "resonance-breathing",
-    title: "Resonance Breathing",
-    slug: "resonance-breathing",
-    preview: <ResonanceBreathingPreview />,
-    categories: ["sustained-attention", "relaxation"],
-  },
-  {
-    id: "box-breathing",
-    title: "Box Breathing",
-    slug: "box-breathing",
-    preview: <ResonanceBreathingPreview />,
-    categories: ["relaxation", "sustained-attention"],
-  },
-  {
-    id: "478-breathing",
-    title: "4-7-8 Breathing",
-    slug: "478-breathing",
-    preview: <ResonanceBreathingPreview />,
-    categories: ["relaxation"],
-  },
-  {
-    id: "pomodoro-timer",
-    title: "Pomodoro Timer",
-    slug: "pomodoro-timer",
-    preview: <ImagePreview src="/games/pomodoro.png" />,
-    categories: ["sustained-attention"],
-  },
   {
     id: "counting-boxes",
     title: "Counting Boxes",
@@ -69,19 +39,6 @@ export const games: Game[] = [
     categories: ["focus-games", "reaction-time", "spring-festival", "for-fun"],
   },
   {
-    id: "bamboo-cicada",
-    title: "Bamboo Cicada",
-    slug: "bamboo-cicada",
-    preview: (
-      <ImagePreview
-        src="/games/bamboo-cicada/preview.jpg"
-        alt="Bamboo Cicada game preview"
-        fit="cover"
-      />
-    ),
-    categories: ["for-fun"],
-  },
-  {
     id: "baby-animal-matching",
     title: "Baby Animal Matching",
     slug: "baby-animal-matching",
@@ -96,13 +53,6 @@ export const games: Game[] = [
     slug: "memory-matching-game",
     preview: <MemoryMatchingPreview />,
     categories: ["working-memory", "visual-tracking", "sustained-attention", "adhd-games"],
-  },
-  {
-    id: "dual-n-back",
-    title: "Dual N-Back",
-    slug: "dual-n-back",
-    preview: <ImagePreview src="/games/dual-n-back.png" />,
-    categories: ["working-memory", "divided-attention", "adhd-games"],
   },
   {
     id: "double-decision",
@@ -131,18 +81,6 @@ export const games: Game[] = [
     slug: "larger-number",
     preview: <ImagePreview src="/games/larger-number.png" />,
     categories: ["reaction-time", "selective-attention", "brain-games-for-kids"],
-  },
-  {
-    id: "mahjong-dual-n-back",
-    title: "Mahjong Dual N-Back",
-    slug: "mahjong-dual-n-back",
-    preview: <ImagePreview src="/games/mahjong-dual-n-back.png" />,
-    categories: [
-      "working-memory",
-      "divided-attention",
-      "cognitive-flexibility",
-      "adhd-games",
-    ],
   },
   {
     id: "block-memory-challenge",
@@ -197,51 +135,6 @@ export const games: Game[] = [
     ],
   },
   {
-    id: "focus-reaction-test",
-    title: "Focus Reaction Test",
-    slug: "focus-reaction-test",
-    preview: <ImagePreview src="/games/focus-reaction-test.png" />,
-    categories: [
-      "selective-attention",
-      "reaction-time",
-      "cognitive-flexibility",
-      "adhd-games",
-    ],
-  },
-  {
-    id: "focus-sudoku",
-    title: "Focus Sudoku",
-    slug: "focus-sudoku",
-    preview: <ImagePreview src="/games/focus-sudoku.png" />,
-    categories: [
-      "working-memory",
-      "logic",
-      "sustained-attention",
-      "brain-games-for-kids",
-    ],
-  },
-
-  {
-    id: "cps-test",
-    title: "CPS Test",
-    slug: "cps-test",
-    preview: <ImagePreview src="/games/cps-test.png" />,
-    categories: [
-      "reaction-time",
-      "brain-games-for-kids",
-    ],
-  },
-  {
-    id: "spacebar-clicker",
-    title: "Spacebar Clicker Test",
-    slug: "spacebar-clicker",
-    preview: <SpacebarClickerPreview />,
-    categories: [
-      "reaction-time",
-      "sustained-attention",
-    ],
-  },
-  {
     id: "sbti-test",
     title: "SBTI Personality Test",
     slug: "sbti-test",
@@ -287,14 +180,12 @@ export function getGameCategories(gameId: string): string[] {
 // 获取热门游戏（手动精选的经典游戏）
 export function getFeaturedGames(): Game[] {
   const featuredGameIds = [
-    'dual-n-back',
     'sbti-test',
     'schulte-table',
     'block-memory-challenge',
     'memory-matching-game',
     'larger-number',
     'reaction-time',
-    'mahjong-dual-n-back',
     'frog-memory-leap',
     'fish-trace',
     'counting-boxes',
@@ -315,9 +206,7 @@ export function getLatestGames(limit: number = 3): Game[] {
     'double-decision', // Double Decision Game - Newest
     'sbti-test',        // SBTI Test - Trending
     'memory-matching-game', // Memory Matching Game - Newest
-    'cps-test',          // CPS Test - Newest
     'fish-trace',        // Fish Trace
-    'pomodoro-timer',    // Pomodoro Timer
   ];
 
   return latestGameIds

@@ -40,7 +40,7 @@ export default function FeaturedBentoGrid() {
                     {t("featuredGames")}
                 </h2>
                 <Button asChild variant="ghost" className="gap-2 rounded-full px-4">
-                    <Link href="/games">
+                    <Link href="/">
                         {buttonsT("viewAll")} <ArrowRight className="h-4 w-4" />
                     </Link>
                 </Button>
@@ -71,7 +71,7 @@ export default function FeaturedBentoGrid() {
                                 </p>
 
                                 <Button asChild size="lg" className="mt-7 h-11 w-full rounded-full px-7 text-sm shadow-none sm:w-fit">
-                                    <Link href={`/games/${featuredGame.slug}`}>
+                                    <Link href={`/${featuredGame.slug}`}>
                                         <Play className="mr-2 h-5 w-5" fill="currentColor" />
                                         {buttonsT('start')}
                                     </Link>
@@ -103,7 +103,7 @@ function GameBentoCard({ game, index }: { game: Game; index: number }) {
 
     return (
         <Link
-            href={`/games/${game.slug}`}
+            href={`/${game.slug}`}
             className="group relative min-h-[210px] overflow-hidden rounded-[2rem] border border-border/70 bg-card p-5 transition-colors hover:bg-secondary/20 sm:p-6 lg:col-span-4 lg:min-h-0"
         >
             <div className="flex h-full flex-col justify-between">

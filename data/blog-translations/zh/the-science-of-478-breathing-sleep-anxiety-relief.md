@@ -5,7 +5,7 @@ excerpt: "了解4-7-8呼吸法为何被称为\"天然的神经镇静剂\"。由�
 coverImage: "/blog/resonance-breathing-cover.png"
 keywords: "4-7-8呼吸法, 478呼吸法, 助眠呼吸法, 快速入睡呼吸法, 韦尔博士呼吸法, 失眠呼吸法, 4-7-8呼吸缓解焦虑, 睡前呼吸法, 天然助眠, 放松呼吸, 减压呼吸, 4-7-8呼吸法怎么做, 深呼吸助眠, 焦虑呼吸练习, 呼吸法入睡, 缓解焦虑技巧"
 author:
-  name: "FreeFocusGames 团队"
+  name: "Üns Oýunlary 团队"
   picture: "/authors/team.png"
 ---
 

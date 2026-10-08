@@ -5,22 +5,13 @@ import type { Game } from "@/data/games";
 import { Link } from "@/i18n/navigation";
 
 const GAME_COVERS: Record<string, { src: string; fit?: "cover" | "contain" }> = {
-    "resonance-breathing": { src: "/games/resonance-breathing-cover.png" },
-    "box-breathing": { src: "/games/resonance-breathing-cover.png" },
-    "478-breathing": { src: "/games/resonance-breathing-cover.png" },
-    "pomodoro-timer": { src: "/games/pomodoro.png" },
     "free-short-term-memory-test": { src: "/games/free-short-term-memory-test.png" },
     challenge10Seconds: { src: "/games/challenge-10-seconds.png" },
-    "dual-n-back": { src: "/games/dual-n-back.png" },
     "fish-trace": { src: "/games/fish-trace.png" },
     "frog-memory-leap": { src: "/games/frog-memory-leap.png" },
     "larger-number": { src: "/games/larger-number.png" },
-    "mahjong-dual-n-back": { src: "/games/mahjong-dual-n-back.png" },
     "reaction-time": { src: "/games/reaction-time.png" },
     "stroop-effect-test": { src: "/games/stroop-effect.png" },
-    "focus-reaction-test": { src: "/games/focus-reaction-test.png" },
-    "focus-sudoku": { src: "/games/focus-sudoku.png" },
-    "cps-test": { src: "/games/cps-test.png" },
     "sbti-test": { src: "/games/sbti-test/image/OJBK.png", fit: "contain" },
 };
 
@@ -43,7 +34,7 @@ export default function GamesLibraryCard({
 
     return (
         <Link
-            href={`/games/${game.slug}`}
+            href={`/${game.slug}`}
             aria-label={`${playLabel}: ${title}`}
             className="group flex min-h-full flex-col overflow-hidden rounded-[1.75rem] bg-muted/45 transition-colors hover:bg-muted/70 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
         >

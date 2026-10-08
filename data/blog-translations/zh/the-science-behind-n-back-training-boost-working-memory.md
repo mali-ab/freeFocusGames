@@ -5,7 +5,7 @@ excerpt: "Jaeggi的研究真的靠谱吗？深入剖析N-Back训练背后的神�
 coverImage: "/dual-n-back-science-cover.jpg"
 keywords: "n-back训练, 工作记忆提升, 双重n-back科学, 认知训练研究, 流体智力, 大脑训练有效性, 工作记忆容量, 神经可塑性, 认知控制, 注意力训练, Jaeggi研究, 工作记忆神经网络, 认知增强, 大脑可塑性训练, 执行功能改善"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -204,7 +204,7 @@ N-back训练有效性的科学证据持续发展，但几个结论是明确的�
 ### [麻将双重N-Back](/games/mahjong-dual-n-back)
 享受双重n-back训练的经过验证的益处，配合引人入胜的麻将瓦片和声音——在保持科学有效性的同时增强视觉吸引力。
 
-### [方块记忆挑战](/games/block-memory-challenge)
+### [方块记忆挑战](/block-memory-challenge)
 通过渐进序列训练强化空间工作记忆，旨在补充你的n-back练习。
 
 ### [工作记忆文章](/blog/how-to-improve-working-memory)

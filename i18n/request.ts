@@ -6,8 +6,8 @@ const messageCache = new Map<string, Record<string, unknown>>();
 
 const COMPILED_MESSAGES = {
     en: () => import("../messages/en/compiled.json"),
-    zh: () => import("../messages/zh/compiled.json"),
     tk: () => import("../messages/tk/compiled.json"),
+    ru: () => import("../messages/ru/compiled.json"),
 } as const;
 
 async function loadMessages(locale: string) {

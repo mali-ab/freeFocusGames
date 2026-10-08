@@ -4,7 +4,7 @@ excerpt: "Learn how ASRS-v1.1 scoring works, what adult ADHD assessment results 
 date: "2025-09-10"
 coverImage: "/blog/adult-adhd-asrs-cover.png"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 tags: ["Adult ADHD", "ASRS", "Adult ADHD Assessment", "Mental Health", "ADHD Diagnosis", "Adult Psychology", "ADHD Screening"]
 keywords: ["adult adhd assessment", "asrs scale", "adult adhd self report scale", "adult adhd diagnosis", "asrs-v1.1", "who adult adhd", "adult attention deficit", "adhd symptoms adults", "adult adhd screening test", "how to test for adhd in adults", "adult adhd symptoms checklist", "free adult adhd assessment online", "adult adhd evaluation tool", "asrs adhd questionnaire", "adult adhd rating scale", "adhd assessment for adults over 18", "adult attention deficit disorder test", "who asrs screening tool", "adult adhd diagnostic criteria", "signs of adhd in adults", "adult adhd self evaluation", "online adult adhd screening", "adult hyperactivity assessment", "adhd in adults symptoms and treatment", "adult inattention symptoms test", "asrs assessment", "asrs scoring", "asrs v1.1 scoring", "adhd test score meaning"]
@@ -380,9 +380,9 @@ Are you experiencing attention difficulties, impulsiveness, or hyperactivity sym
 Understanding your attention patterns is the foundation for improvement. Complement your assessment with our scientifically-backed cognitive training games designed to enhance attention, working memory, and executive function:
 
 - **[Dual N-Back Training](/games/dual-n-back)**: Strengthen working memory and sustained attention through progressive cognitive challenges
-- **[Stroop Effect Training](/games/stroop-effect-test)**: Enhance cognitive flexibility and selective attention control
-- **[Schulte Table Practice](/games/schulte-table)**: Improve visual attention, processing speed, and concentration
-- **[Reaction Time Testing](/games/reaction-time)**: Develop focused attention and rapid response capabilities
+- **[Stroop Effect Training](/stroop-effect-test)**: Enhance cognitive flexibility and selective attention control
+- **[Schulte Table Practice](/schulte-table)**: Improve visual attention, processing speed, and concentration
+- **[Reaction Time Testing](/reaction-time)**: Develop focused attention and rapid response capabilities
 
 These evidence-based training tools can be valuable complements to traditional ADHD treatments and professional interventions.
 

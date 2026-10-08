@@ -5,7 +5,7 @@ excerpt: "Gowy CPS test baly hasaplanýan näme? 1s, 5s we 10s režimleri üçin
 coverImage: "/games/cps-test.png"
 keywords: "gowy cps test baly, cps test, klik tizligi synagy, süýsüň klik tizligi synagy, sekuntdaky klikler, gowy cps näme, 5 sekuntlyk cps test, klik tizligini gowulandyrmak, süýsüň klik synagy, cps ölçeg"
 author:
-  name: "FreeFocusGames Topary"
+  name: "Üns Oýunlary Topary"
   picture: "/authors/team.png"
 ---
 
@@ -105,7 +105,7 @@ Onlaýn CPS synaglary gysga maşk üçin gowy, ýöne agyry maşk signaly däl. 
 
 Doly däl. CPS gaýtalanýan klik çykyşyny ölçýär. Reaksiýa wagty bolsa stimula nähili çalt jogap berýändigiňizi ölçýär.
 
-Ikisi hem koordinasiýa we ünsi öz içine alýandygy sebäpli birneme gabat gelýär, ýöne olar dürli ussatlyklardyr. Ikisini hem öwretmek isleýän bolsaňyz, [CPS testini](/games/cps-test) [reaksiýa wagty synagy](/games/reaction-time) bilen bileleşdiriň.
+Ikisi hem koordinasiýa we ünsi öz içine alýandygy sebäpli birneme gabat gelýär, ýöne olar dürli ussatlyklardyr. Ikisini hem öwretmek isleýän bolsaňyz, [CPS testini](/games/cps-test) [reaksiýa wagty synagy](/reaction-time) bilen bileleşdiriň.
 
 ## Haýsy bala tarap ymtylmaly?
 

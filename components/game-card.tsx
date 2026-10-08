@@ -27,7 +27,7 @@ export default function GameCard({ game, preview, className }: GameCardProps) {
             {/* 预览区域 - 如果提供了预览组件则显示 */}
             {preview && (
                 <Link
-                    href={`/games/${game.slug}`}
+                    href={`/${game.slug}`}
                     aria-label={`${t('play')} ${t(`${camelCaseId}.title`)}`}
                 >
                     <div className="w-full aspect-4/3 overflow-hidden bg-muted/20 flex items-center justify-center rounded-lg">
@@ -37,7 +37,7 @@ export default function GameCard({ game, preview, className }: GameCardProps) {
             )}
             <div className="block p-4">
                 <Link
-                    href={`/games/${game.slug}`}
+                    href={`/${game.slug}`}
                     aria-label={`${t('play')} ${t(`${camelCaseId}.title`)}`}
                 >
                     <h2 className="text-xl font-semibold text-primary">

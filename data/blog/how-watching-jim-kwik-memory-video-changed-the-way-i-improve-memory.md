@@ -5,7 +5,7 @@ excerpt: "Discover how Jim Kwik's memory techniques and body memory palace metho
 coverImage: "https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Mjc2NjN8MHwxfHNlYXJjaHwzfHxtZW1vcnklMjB0cmFuc2Zvcm1hdGlvbiUyMGJyYWluJTIwcHV6emxlJTIwc29sdmVkfGVufDB8fHx8MTc0Mzk1MzU2MXww&ixlib=rb-4.0.3&q=80&w=2000"
 keywords: "Jim Kwik, memory techniques, memory improvement, body memory palace, memory training, brain food, memory methods, improve memory, memory visualization, memory challenges, memory confidence, memory practice, memory lists, food memory, memory motivation, memory attention, memory tricks, personal memory journey, memory transformation, practical memory techniques"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -95,13 +95,13 @@ Ready to put these memory techniques into practice? These science-backed games a
 ### [Dual N-Back](/games/dual-n-back)
 Challenge your working memory with this gold-standard training exercise that builds both visual and auditory memory simultaneously.
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 Test and expand your visual memory capacity with increasingly complex sequences that strengthen spatial recall.
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 Enhance your information processing speed and attention—key components of effective memory formation.
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 Train your brain to make quick decisions while holding information in mind, strengthening the neural pathways essential for efficient memory.
 
 Build your own memory palace with just 15 minutes of practice daily! 🧠 

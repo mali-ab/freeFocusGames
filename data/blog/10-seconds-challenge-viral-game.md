@@ -4,7 +4,7 @@ date: '2026-01-27'
 excerpt: 'In China, restaurants are offering free meals if you can stop a stopwatch exactly at 10.0000s. This viral "10 Seconds Challenge" is harder than it looks. Test your internal clock with our online version!'
 coverImage: '/games/challenge-10-seconds.png'
 author:
-  name: 'FreeFocusGames Team'
+  name: 'Üns Oýunlary Team'
   picture: "/authors/team.png"
 keywords: '10 seconds challenge, stopwatch game, viral tiktok game, time perception test, brain games, focus training'
 ---
@@ -18,9 +18,9 @@ If they stop between 9.99 and 10.01? Maybe a 50% discount.
 
 It sounds incredibly easy, right? 10 seconds is just... 10 seconds. But watch the videos, and you will see confident challengers failing time and time again, stopping at 10.05, 9.97, or getting completely thrown off by the pressure.
 
-We have brought this viral challenge to **FreeFocusGames** so you can test your skills (and patience) without the pressure of a restaurant bill.
+We have brought this viral challenge to **Üns Oýunlary** so you can test your skills (and patience) without the pressure of a restaurant bill.
 
-## [Click Here to Play the 10 Seconds Challenge Now](/games/challenge-10-seconds)
+## [Click Here to Play the 10 Seconds Challenge Now](/challenge-10-seconds)
 
 ## Why Is It So Hard?
 
@@ -52,4 +52,4 @@ Yes! While it's a fun party trick, it essentially trains **Time Perception** and
 
 Ready to try?
 
-**[Play the 10 Seconds Challenge](/games/challenge-10-seconds)**
+**[Play the 10 Seconds Challenge](/challenge-10-seconds)**

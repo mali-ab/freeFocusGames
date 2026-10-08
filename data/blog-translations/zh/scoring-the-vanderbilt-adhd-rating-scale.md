@@ -4,7 +4,7 @@ excerpt: "用更好懂的方式解释 Vanderbilt ADHD 评定量表怎么打分�
 date: "2026-03-30"
 coverImage: "/blog/vanderbilt-adhd-scale-cover.png"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 tags: ["儿童ADHD", "范德比尔特量表", "ADHD评估", "ADHD筛查", "儿科评估"]
 keywords: ["vanderbilt量表评分", "范德比尔特adhd评定量表评分", "如何给vanderbilt打分", "vanderbilt adhd rating scale", "vanderbilt adhd assessment", "nichq vanderbilt量表", "教师版vanderbilt评分", "家长版vanderbilt评分", "vanderbilt随访评分", "vanderbilt结果解读"]

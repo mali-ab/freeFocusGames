@@ -4,7 +4,7 @@ date: "2026-03-06"
 excerpt: "Biz ýakynda meşhur kognitiw oýunlarymyz, Glowing Fish Trace we Frog Memory Leap-iň uly tehniki täzelenişini tamamladyk. Agir oýun dwigatellerinden (Phaser ýaly) arassa React we SVG arhitekturasyna geçmek bilen, öndürijiligi, mobil jogapkärçiligi we SEO tapylmagyny düýpli gowulandyrdyk."
 coverImage: "/games/fish-trace.png"
 author:
-  name: "FreeFocusGames Inženerçilik Topary"
+  name: "Üns Oýunlary Inženerçilik Topary"
   picture: "/authors/team.png"
 keywords: "react oýun ösdürmek, svg animasiýa, phaser alternatiwasy, köp obýekt yzarlama oýuny, web öndürijiligini optimizirlemek, nextjs oýunlary, kognitiw öwretme oýunlary tehniki topluma, adhd web programmalary"
 ---
@@ -49,7 +49,7 @@ Bu ylmy esaslar kognitiw gowulaşma gözleýän ulanyjylara mugt gurallarymyzy h
 
 Bu oýunlaryň has çeýe, çalt we has jogapkär wersiýalaryny tejribe etmäge çagyrýarys:
 
-*   [Glowing Fish Trace oýnaň](/games/fish-trace) - Wizual yzarmaňyzy we dowamly ünsüňizi gowulandyryň.
-*   [Frog Memory Leap oýnaň](/games/frog-memory-leap) - Giňişlik işjeň ýadyňyzy synap görüň.
+*   [Glowing Fish Trace oýnaň](/fish-trace) - Wizual yzarmaňyzy we dowamly ünsüňizi gowulandyryň.
+*   [Frog Memory Leap oýnaň](/frog-memory-leap) - Giňişlik işjeň ýadyňyzy synap görüň.
 
-Biz FreeFocusGames platformasyny iň gowy kognitiw öwretme gurallaryny üpjün etmek üçin yzygiderli gowulandyrmaga ygrarly. Täze täzelikler üçin gözlegde boluň!
+Biz Üns Oýunlary platformasyny iň gowy kognitiw öwretme gurallaryny üpjün etmek üçin yzygiderli gowulandyrmaga ygrarly. Täze täzelikler üçin gözlegde boluň!

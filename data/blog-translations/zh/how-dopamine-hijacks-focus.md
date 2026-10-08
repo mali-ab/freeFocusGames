@@ -17,7 +17,7 @@ keywords: >-
   triggers and brain, tips to improve focus management, daily habits for better
   concentration, train your brain to avoid distractions
 author:
-  name: FreeFocusGames Team
+  name: Üns Oýunlary Team
   picture: /authors/team.png
 ---
 嘿，有没有试过本来打算大干一场，结果手机一响，就刷视频刷了好几个小时？别担心——不是你意志力不行，是多巴胺“劫持”了你的大脑！今天，我们就来深入了解多巴胺是怎么回事，为什么它老是分散你的注意力，以及如何驯服它，来提高你的专注力，搞定你正在做的任何事情！
@@ -78,16 +78,16 @@ App和游戏？它们在这方面是专家，它们被设计成恰到好处地�
 
 准备好锻炼你的专注力肌肉了吗？看看这些旨在提高你注意力的科学游戏：
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 通过按顺序查找数字来增强你的周边视觉和注意力。这是专业人士用来训练持续注意力和视觉处理速度的经典工具。
 
 ### [Dual N-Back](/games/dual-n-back)
 通过这款高级认知训练游戏挑战你的工作记忆和注意力控制。非常适合培养对干扰的抵抗力并加强你的注意力。
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 通过越来越复杂的序列测试和提高你的视觉记忆。非常适合培养处理详细任务和记住重要信息所需的专注力。
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 通过快速的数字比较来训练你的处理速度和注意力。一种在时间压力下练习保持专注的绝佳方式。
 
 试试这些游戏——它们比无休止的滚动更有成效，而且它们实际上有助于训练你的大脑保持专注！🎮🧠

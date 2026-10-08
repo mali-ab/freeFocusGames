@@ -20,13 +20,13 @@ export function generateAlternates(locale: string, pagePath: string = '') {
   
   // 为所有支持的语言创建备选语言链接
   const alternateLanguages = routing.locales.reduce((acc, lang) => {
-    acc[lang] = `${baseUrl}${lang === 'en' ? '' : `/${lang}`}${normalizePage}`;
+    acc[lang] = `${baseUrl}${lang === routing.defaultLocale ? '' : `/${lang}`}${normalizePage}`;
     return acc;
   }, {} as Record<string, string>);
   alternateLanguages['x-default'] = `${baseUrl}${normalizePage}`;
   
   return {
-    canonical: `${baseUrl}${locale === 'en' ? '' : `/${locale}`}${normalizePage}`,
+    canonical: `${baseUrl}${locale === routing.defaultLocale ? '' : `/${locale}`}${normalizePage}`,
     languages: alternateLanguages,
   };
 }

@@ -5,7 +5,7 @@ excerpt: "Discover the neuroscience research that reveals how N-back training ca
 coverImage: "/dual-n-back-science-cover.jpg"
 keywords: "n-back training, working memory improvement, dual n-back science, cognitive training research, fluid intelligence, brain training effectiveness, working memory capacity, neural plasticity, cognitive control, attention training, Jaeggi study, working memory neural networks, cognitive enhancement, brain plasticity training, executive function improvement"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -204,7 +204,7 @@ Experience the exact task used in Jaeggi's groundbreaking research. Our implemen
 ### [Mahjong Dual N-Back](/games/mahjong-dual-n-back)
 Enjoy the proven benefits of dual n-back training with engaging mahjong tiles and sounds—maintaining scientific effectiveness while enhancing visual appeal.
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 Strengthen spatial working memory with progressive sequence training designed to complement your n-back practice.
 
 ### [The Ultimate Guide to Working Memory](/working-memory-guide)

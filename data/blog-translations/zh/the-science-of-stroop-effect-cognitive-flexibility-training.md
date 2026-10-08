@@ -5,7 +5,7 @@ excerpt: "了解经典的 Stroop 实验为何会成为心理学里最著名的�
 coverImage: "/games/stroop-effect.png"
 keywords: "斯特鲁普效应测试, stroop experiment, stroop paradigm, 色词测试, stroop effect, stroop task, 选择性注意力, 认知控制, 抑制控制, 执行功能, 心理学注意力测试, 在线stroop测试"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -13,7 +13,7 @@ author:
 
 在这篇深度解析中，我们会回到最初的 Stroop 实验，解释为什么 Stroop paradigm 至今仍是心理学研究中的经典任务，并说明免费的在线斯特鲁普效应测试如何帮助你练习选择性注意力、记录反应时间，并观察自己的干扰效应变化。
 
-如果你想先亲自体验这项任务，可以先试试我们的 [斯特鲁普效应测试](/games/stroop-effect-test)。你可以直接比较平均反应时间、整局用时，以及一致与不一致试验之间的差距。
+如果你想先亲自体验这项任务，可以先试试我们的 [斯特鲁普效应测试](/stroop-effect-test)。你可以直接比较平均反应时间、整局用时，以及一致与不一致试验之间的差距。
 
 ## 改变心理学的经典 Stroop 实验
 
@@ -201,12 +201,12 @@ author:
 
 准备亲身体验斯特鲁普效应并开始训练你的执行控制？试试我们科学设计的斯特鲁普效应测试：
 
-### [斯特鲁普效应测试](/games/stroop-effect-test)
+### [斯特鲁普效应测试](/stroop-effect-test)
 用这个经典心理学测试挑战你的认知灵活性。识别颜色的同时忽略冲突的词汇含义，观察你的执行控制随着练习而增强。
 
 ### 相关认知训练
 - **[双N-Back](/games/dual-n-back)**：高级工作记忆训练
-- **[舒尔特方格](/games/schulte-table)**：视觉注意力和处理速度增强
-- **[反应时间](/games/reaction-time)**：锐化你的心理处理速度
+- **[舒尔特方格](/schulte-table)**：视觉注意力和处理速度增强
+- **[反应时间](/reaction-time)**：锐化你的心理处理速度
 
 今天就开始你的认知训练之旅，发现更灵活、更专注的大脑的力量！

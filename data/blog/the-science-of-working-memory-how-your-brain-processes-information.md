@@ -5,7 +5,7 @@ excerpt: "Discover how your brain processes visual and verbal information throug
 coverImage: "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Mjc2NjN8MHwxfHNlYXJjaHwxfHxtZWRpdGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBmb2N1cyUyMGJyYWluJTIwdHJhaW5pbmd8ZW58MHx8fHwxNzQ0NjI0MzAwfDA&ixlib=rb-4.0.3&q=80&w=2000"
 keywords: "working memory, cognitive load, information processing, dual channel processing, mental models, visual learning, verbal learning, learning strategies, brain information processing, memory capacity limitations, cognitive science, learning efficiency, visual information processing, verbal information processing, memory encoding, information selection, memory organization, memory integration, multimedia learning, Richard Mayer, memory optimization, cognitive constraints, learning theory, memory alignment, memory construction"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -174,13 +174,13 @@ Ready to strengthen your working memory capacity? These science-backed games are
 ### [Dual N-Back](/games/dual-n-back)
 Challenge your working memory's dual-channel processing with this gold-standard training exercise that builds both visual and auditory memory simultaneously.
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 Test and expand your visual working memory with increasingly complex sequences that strengthen your ability to select and organize visual information.
 
-### [Schulte Table](/games/schulte-table)
+### [Schulte Table](/schulte-table)
 Enhance your information processing speed and attention distribution—key components of effective working memory performance.
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 Train your brain to make quick decisions while holding information in mind, strengthening the neural pathways essential for efficient working memory.
 
 Just 15 minutes of targeted practice daily can help expand your working memory capacity and enhance your learning efficiency! 🧠 

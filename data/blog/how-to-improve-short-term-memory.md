@@ -5,7 +5,7 @@ excerpt: "Discover how to repair and regenerate your hippocampus to dramatically
 coverImage: "/blog/cover1.png"
 keywords: "short term memory, hippocampus repair, improve short term memory, fix hippocampus, short term memory loss, hippocampus regeneration, memory improvement, brain health, neurogenesis, hippocampus damage, short term memory problems, memory recovery, brain repair, cognitive enhancement, hippocampus function, memory training, brain regeneration, short term memory exercises, hippocampus health, ketones for brain, vitamin D hippocampus, zinc deficiency memory, vitamin B1 memory, intermittent fasting brain, exercise hippocampus, stress hippocampus damage"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -52,7 +52,7 @@ When people ask "Why is my memory so bad?" the answer often lies in hippocampus 
 
 **Yes, memory can be restored.** Unlike most brain regions, the hippocampus retains neurogenesis capacity — the ability to grow new neurons throughout life. 
 
-**Before we dive into solutions, assess your current memory capacity:** Take our [Free Short Term Memory Test](/games/free-short-term-memory-test) to establish a baseline. This scientifically-based assessment will help you track your improvement as you implement the strategies below.
+**Before we dive into solutions, assess your current memory capacity:** Take our [Free Short Term Memory Test](/free-short-term-memory-test) to establish a baseline. This scientifically-based assessment will help you track your improvement as you implement the strategies below.
 
 Research shows:
 
@@ -211,16 +211,16 @@ Start with the foundation interventions and add strategies gradually. Consistenc
 ### [Dual N-Back Training](/games/dual-n-back)
 The gold standard for working memory enhancement. Simultaneously challenges visual and auditory memory systems, directly targeting hippocampus function for measurable memory improvements.
 
-### [Block Memory Challenge](/games/block-memory-challenge)
+### [Block Memory Challenge](/block-memory-challenge)
 Strengthen spatial memory with progressive visual sequence training. Specifically designed to challenge hippocampus spatial processing abilities that decline with age and stress.
 
-### [Frog Memory Leap](/games/frog-memory-leap)
+### [Frog Memory Leap](/frog-memory-leap)
 Navigate spatial memory challenges that mirror natural hippocampus function. Combines spatial awareness with memory formation for comprehensive cognitive training.
 
-### [Fish Trace](/games/fish-trace)
+### [Fish Trace](/fish-trace)
 Enhance visual tracking and dynamic memory formation. Trains hippocampus systems responsible for processing moving information and forming real-time memories.
 
-### [Larger Number](/games/larger-number)
+### [Larger Number](/larger-number)
 Rapidly process numerical information to strengthen memory under time pressure. Develops hippocampus capacity for quick memory formation and retrieval in challenging conditions.
 
 **Recommended usage:** 15-20 minutes daily combined with lifestyle interventions for maximum memory recovery. These games are designed by cognitive scientists to specifically target hippocampus function and memory enhancement. 

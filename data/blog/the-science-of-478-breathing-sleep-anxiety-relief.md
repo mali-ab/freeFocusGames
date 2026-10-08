@@ -5,7 +5,7 @@ excerpt: "Learn why the 4-7-8 breathing technique is called 'nature's tranquiliz
 coverImage: "/blog/resonance-breathing-cover.png"
 keywords: "4-7-8 breathing, 478 breathing, 4 7 8 breathing technique, breathing exercise for sleep, how to fall asleep fast, dr weil breathing, breathing for insomnia, 4-7-8 breathing for anxiety, breathing technique for sleep, natural sleep aid, relaxation breathing, breathing to calm down, 4-7-8 breathing method, deep breathing for sleep, anxiety breathing exercise, how to do 4-7-8 breathing"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 

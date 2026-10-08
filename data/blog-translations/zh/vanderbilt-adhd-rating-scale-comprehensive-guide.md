@@ -4,7 +4,7 @@ excerpt: "范德比尔特ADHD评定量表是儿童注意力缺陷多动障碍评
 date: "2025-09-10"
 coverImage: "/blog/vanderbilt-adhd-scale-cover.png"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 tags: ["儿童ADHD", "ADHD评估", "范德比尔特量表", "心理健康", "ADHD诊断", "儿童心理学", "儿科评估"]
 keywords: ["儿童adhd评估", "范德比尔特adhd评定量表", "儿童adhd诊断", "儿科adhd评估", "范德比尔特adhd诊断评定量表", "儿童注意力缺陷", "adhd症状儿童", "vadprs儿童", "学龄儿童adhd", "儿童adhd筛查"]
@@ -349,9 +349,9 @@ BASC提供更广泛的行为评估，但可能比专注、高效的范德比尔�
 了解您的注意力模式只是第一步。改善专注力需要有针对性的训练和练习。探索我们基于科学的认知训练游戏，旨在增强注意力、工作记忆和执行功能：
 
 - **[双N-Back训练](/games/dual-n-back)**：通过这个具有挑战性的认知练习增强工作记忆和持续注意力
-- **[舒尔特表练习](/games/schulte-table)**：改善视觉注意力、周边视觉和处理速度
-- **[Stroop效应训练](/games/stroop-effect-test)**：加强认知灵活性和选择性注意技能
-- **[反应时间测试](/games/reaction-time)**：发展专注注意力和快速反应能力
+- **[舒尔特表练习](/schulte-table)**：改善视觉注意力、周边视觉和处理速度
+- **[Stroop效应训练](/stroop-effect-test)**：加强认知灵活性和选择性注意技能
+- **[反应时间测试](/reaction-time)**：发展专注注意力和快速反应能力
 
 这些基于证据的训练工具补充传统的ADHD干预措施，可以成为综合注意力改善计划的宝贵补充。
 

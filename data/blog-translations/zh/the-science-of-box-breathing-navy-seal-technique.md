@@ -5,7 +5,7 @@ excerpt: "揭秘海豹突击队、急救人员和精英运动员为什么都依�
 coverImage: "/blog/resonance-breathing-cover.png"
 keywords: "箱式呼吸法, 方块呼吸法, 4-4-4-4呼吸法, 海豹突击队呼吸法, 战术呼吸, 正方形呼吸, 箱式呼吸减压, 箱式呼吸法怎么做, 箱式呼吸好处, 减压呼吸法, 专注呼吸法, 缓解焦虑的呼吸技巧, 箱式呼吸科学原理, 初学者呼吸练习, 快速减压方法"
 author:
-  name: "FreeFocusGames 团队"
+  name: "Üns Oýunlary 团队"
   picture: "/authors/team.png"
 ---
 

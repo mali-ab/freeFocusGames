@@ -5,7 +5,7 @@ excerpt: "Learn how the classic Stroop experiment became one of psychology's bes
 coverImage: "/games/stroop-effect.png"
 keywords: "stroop effect test, stroop experiment, stroop paradigm, color word test, stroop effect, stroop task, selective attention, cognitive control, inhibition control, executive function, psychology attention test, online stroop test"
 author:
-  name: "FreeFocusGames Team"
+  name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 ---
 
@@ -13,7 +13,7 @@ What happens when your brain encounters conflicting information? The answer lies
 
 In this deep dive, we'll unpack the original Stroop experiment, explain why the Stroop paradigm is still used in psychology research, and show how a free online Stroop effect test can help you practice selective attention and track your reaction time over repeated sessions.
 
-If you want to try the task before reading further, start with our [Stroop Effect Test](/games/stroop-effect-test). It lets you compare average reaction time, total test time, and the interference gap between congruent and incongruent trials.
+If you want to try the task before reading further, start with our [Stroop Effect Test](/stroop-effect-test). It lets you compare average reaction time, total test time, and the interference gap between congruent and incongruent trials.
 
 ## The Stroop Experiment That Changed Psychology
 
@@ -201,12 +201,12 @@ As we continue to understand more about the brain's remarkable plasticity, the S
 
 Ready to experience the Stroop Effect firsthand and start training your executive control? Try our scientifically-designed Stroop Effect Test:
 
-### [Stroop Effect Test](/games/stroop-effect-test)
+### [Stroop Effect Test](/stroop-effect-test)
 Challenge your cognitive flexibility with this classic psychology test. Identify colors while ignoring conflicting word meanings, and watch your executive control strengthen with practice.
 
 ### Related Cognitive Training
 - **[Dual N-Back](/games/dual-n-back)**: Advanced working memory training
-- **[Schulte Table](/games/schulte-table)**: Visual attention and processing speed enhancement
-- **[Reaction Time](/games/reaction-time)**: Sharpen your mental processing speed
+- **[Schulte Table](/schulte-table)**: Visual attention and processing speed enhancement
+- **[Reaction Time](/reaction-time)**: Sharpen your mental processing speed
 
 Start your cognitive training journey today and discover the power of a more flexible, focused mind!

@@ -1,14 +1,14 @@
 {
   "games": {
     "challenge10Seconds": {
-      "title": "10 Sekundyň Synagyny Onlaýn Okuň",
+      "title": "10 Sekundyň Synagyny Onlaýn Atyň",
       "subtitle": "Sagat 10.0000 sekunda takyk saklaň",
       "description": "Bu 10 sekundyň synag oýnyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň we siziň wagtyňyzyň içki sagady näçe ýakyn bolup bilýändigini görüň.",
       "metadata": {
-        "title": "10 Sekundyň Synagyny Onlaýn Okuň: Sagady 10s Saklaň",
+        "title": "10 Sekundyň Synagyny Onlaýn Atyň: Sagady 10s Saklaň",
         "description": "10 sekundyň sagat synagyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň, netijäňizi deňeşdiriň we nädip ýeňip biljekdigiňizi öwreniň.",
         "keywords": "10 sekundyň synagy onlaýn, 10 sekundyň synagy, 10 sekunt synagy, on sekunt synagy, 10 sek synagy, 10 sekundyň sagat synag oýny, sagady takyk 10 sekunda saklaň, 10 sekunda saklaň oýny, wagtyňy sakla synag oýny, 10 sekundyň synag sagady, 10 sekundyň synag maşyny, 10 sekundyň synagyny nädip ýeňmeli, 10 sekunt oýny",
-        "ogTitle": "10 Sekundyň Synagyny Onlaýn Okuň: Sagady 10s Saklaň",
+        "ogTitle": "10 Sekundyň Synagyny Onlaýn Atyň: Sagady 10s Saklaň",
         "ogDescription": "10 sekundyň sagat synagyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň, netijäňizi deňeşdiriň we nädip ýeňip biljekdigiňizi öwreniň."
       },
       "howToPlay": {
@@ -488,7 +488,7 @@
     "breadcrumbHome": "Baş sahypa",
     "play": "Oýun oýna",
     "eyebrow": "Mugt onlaýn oýun kitaphanasy",
-    "heading": "Mugt onlaýn beyin öwretme oýunlary",
+    "heading": "Mugt onlaýn üns oýunlary",
     "description": "Üns, ýat, reaksiýa wagty, wizual üns we akyl çeýeligi üçin mugt onlaýn beyin oýunlaryndan saýlaň. Her oýun brauzeriňizde işleýär, ýüklemek talap edilmeýär.",
     "categoryNav": {
       "ariaLabel": "Beyin oýunlaryna endik boýunça göz aýlaň",
@@ -496,7 +496,7 @@
       "all": "Ähli kategoriýalary gör"
     },
     "library": {
-      "title": "Ähli beyin öwretme oýunlary",
+      "title": "Ähli üns oýunlary",
       "count": "{count} mugt onlaýn oýun"
     },
     "chooseGame": {
@@ -577,7 +577,7 @@
     },
     "aboutBrainTraining": {
       "title": "Beyin öwretme hakda",
-      "paragraph1": "Kognitiw öwretme, köplenç beyin öwretme diýilýän, ýat, üns, gaýtadan işleme tizligi we mesele çözmek ukyplary ýaly aýratyn kognitiw funksiýalary gowulandyrmak üçin niýetlenen yzygiderli akyl maşklaryny öz içine alýar.",
+      "paragraph1": "Kognitiw öwretme, köplenç üns diýilýän, ýat, üns, gaýtadan işleme tizligi we mesele çözmek ukyplary ýaly aýratyn kognitiw funksiýalary gowulandyrmak üçin niýetlenen yzygiderli akyl maşklaryny öz içine alýar.",
       "paragraph2": "Oýunlarymyz kognitiw psihologiýa we newroşynas ýörelgelerine esaslanýar. Her oýun gündelik işleýiş, akademiki üstünlik we hünär öndürijiligi üçin möhüm aýratyn kognitiw endiklere gönükdirilen.",
       "paragraph3": "Iň gowy netijeler üçin dürli kognitiw ugurlarda yzygiderli maşk etmegi maslahat berýäris. Günde diňe 15-20 minut, hepde 3-4 gezek öwretmek wagtyň geçmegi bilen kognitiw ukyplaryňyzda aýdyň gowulandyrmalara getirip biler."
     },
@@ -606,9 +606,9 @@
       }
     },
     "metaTitle": "Üns Oýunlary",
-    "metaDescription": "Üns, ýat, reaksiýa wagty, wizual üns we akyl çeýeligi üçin mugt onlaýn beyin öwretme oýunlaryny oýnaň. Ýüklemek ýa-da hasaba almak talap edilmeýär.",
-    "metaKeywords": "mugt onlaýn beyin öwretme oýunlary, üns oýunlary, ýat oýunlary, reaksiýa wagty oýunlary, wizual üns oýunlary, işjeň ýat oýunlary, jemlenme oýunlary, kognitiw oýunlar",
-    "ogTitle": "Mugt onlaýn beyin öwretme oýunlary",
+    "metaDescription": "Üns, ýat, reaksiýa wagty, wizual üns we akyl çeýeligi üçin mugt onlaýn üns oýunlaryny oýnaň. Ýüklemek ýa-da hasaba almak talap edilmeýär.",
+    "metaKeywords": "mugt onlaýn üns oýunlary, üns oýunlary, ýat oýunlary, reaksiýa wagty oýunlary, wizual üns oýunlary, işjeň ýat oýunlary, jemlenme oýunlary, kognitiw oýunlar",
+    "ogTitle": "Mugt onlaýn üns oýunlary",
     "ogDescription": "Üns, ýat, reaksiýa wagty, wizual üns we akyl çeýeligi üçin mugt brauzer oýunlaryny öwreniň.",
     "schulteTable": {
       "title": "Schulte tablisasy",
@@ -1391,10 +1391,10 @@
       "description": "Barha çylşyrymly blok yzygiderliliklerini ýatdan çykarmak bilen wizual ýadyňyzy synag ediň.",
       "subtitle": "Wizual ýadyňyzy we desgar tanymalyňyzy öwrediň",
       "metaTitle": "Blok Ýat Synagy: Wizual Yzygiderlilik we Işjeň Ýat Oýuny",
-      "metaDescription": "Barha çylşyrymly blok yzygiderliliklerini ýatdan çykarmak bilen wizual ýat kuwwatyňyzy synag ediň. Bu beyin öwretme synagy gysga möhletli ýady, desgar tanymaly we kognitiw çeýeligi gowulandyrmaga kömek edýär.",
+      "metaDescription": "Barha çylşyrymly blok yzygiderliliklerini ýatdan çykarmak bilen wizual ýat kuwwatyňyzy synag ediň. Bu üns synagy gysga möhletli ýady, desgar tanymaly we kognitiw çeýeligi gowulandyrmaga kömek edýär.",
       "metaKeywords": "onlaýn wizual ýat yzygiderlilik synagy, giňişleýin ýatdan çykarma öwretme oýunlary, işjeň ýady gowulandyrmak, desgar tanymal synagy, beyin çeýeligi maşklary, gysga möhletli ýat tejribesi",
       "ogTitle": "Blok Ýat Synagy: Wizual Yzygiderlilik we Işjeň Ýat Oýuny",
-      "ogDescription": "Barha çylşyrymly blok yzygiderliliklerini ýatdan çykarmak bilen wizual ýat kuwwatyňyzy synag ediň. Bu beyin öwretme synagy gysga möhletli ýady, desgar tanymaly we kognitiw çeýeligi gowulandyrmaga kömek edýär.",
+      "ogDescription": "Barha çylşyrymly blok yzygiderliliklerini ýatdan çykarmak bilen wizual ýat kuwwatyňyzy synag ediň. Bu üns synagy gysga möhletli ýady, desgar tanymaly we kognitiw çeýeligi gowulandyrmaga kömek edýär.",
       "howToPlay": {
         "intro": "Bu kyn ýat oýnunda yşyldap duran blok yzygiderliliklerini ýatda saklaň we täzeden guruň:",
         "step1": "Bloklar belli bir yzygiderlikde bir-birden yşyldap durar",
@@ -1842,7 +1842,7 @@
       }
     },
     "babyAnimalMatching": {
-      "title": "Soňkyjyk haýwanlary deňleşdirme oýny",
+      "title": "Haýwanlaryň çagalaryny tapmak oýny",
       "subtitle": "Ähli ýaşlar üçin ýakymly ýat maşky",
       "description": "Bu nusgawy ýat kartoçka oýnunda ýakymly haýwan çagalarynyň jübütlerini deňleşdiriň. Ähli ýaşlar üçin wizual ýady we jemlenmäni gowulandyrýar.",
       "howToPlayIntro": "Bu ýat kartoçka oýnunda haýwan çagalarynyň ähli gabat gelýän jübütlerini tapyň!",
@@ -1885,12 +1885,12 @@
         "shareTitle": "Soňkyjyk haýwanlary deňleşdirme netijämi görüň!",
         "shareText": "Soňkyjyk haýwanlaryň hemmesini {difficulty} kynçylykda {moves} hereketde we {time} sekuntda deňleşdirdim!"
       },
-      "metaTitle": "Soňkyjyk haýwanlary deňleşdirme oýny: Çagalar we ýaşulular üçin ýat maşky",
+      "metaTitle": "Haýwanlaryň çagalaryny tapmak oýny: Çagalar we ýaşulular üçin ýat maşky",
       "metaDescription": "Ýakymly haýwan çagalary bolan bu nusgawy kartoçka öwürme ýat oýnuny oýnaň. Kiçi çagalaryň, mekdep ýaşlylaryň we ýaşulularyň beýni saglygyny goldamak üçin ajaýyp jemlenme we wizual ýat maşky.",
       "metaKeywords": "kiçi çagalar üçin ýat deňleşdirme oýunlary, onlaýn jemlenme tagta oýny, ýaşulular üçin beýni maşky, wizual ýat deňleşdirmesi, demensiýanyň öňüni alyş oýunlary, çaganyň kognitiw ösüşi, surat deňleşdirme kartoçka oýny",
-      "ogTitle": "Soňkyjyk haýwanlary deňleşdirme oýny: Çagalar we ýaşulular üçin ýat maşky",
+      "ogTitle": "Haýwanlaryň çagalaryny tapmak oýny: Çagalar we ýaşulular üçin ýat maşky",
       "ogDescription": "Ýakymly haýwan çagalary bolan bu nusgawy kartoçka öwürme ýat oýnuny oýnaň. Kiçi çagalaryň, mekdep ýaşlylaryň we ýaşulularyň beýni saglygyny goldamak üçin ajaýyp jemlenme we wizual ýat maşky.",
-      "twitterTitle": "Soňkyjyk haýwanlary deňleşdirme oýny | Ýadyňyzy öwrediň",
+      "twitterTitle": "Haýwanlaryň çagalaryny tapmak oýny | Ýadyňyzy öwrediň",
       "twitterDescription": "Bu mugt onlaýn oýunda ýakymly haýwan çagalarynyň jübütlerini deňleşdirip, ýat endikleriňizi synaň."
     },
     "memoryMatchingGame": {
@@ -2796,7 +2796,7 @@
     "currentArticle": "Häzirki Makala",
     "meta": {
       "title": "Blog",
-      "description": "Iň oňyn öndürijilik üçin üns, jemlenme, kognitiw gowulandyrma usullary we beyin öwretme strategiýalary barada çuňňur makalalar we ylmy beýanyny açyň."
+      "description": "Iň oňyn öndürijilik üçin üns, jemlenme, kognitiw gowulandyrma usullary we üns strategiýalary barada çuňňur makalalar we ylmy beýanyny açyň."
     },
     "previousPost": "Öňki Ýazgy",
     "nextPost": "Indiki Ýazgy",
@@ -2814,12 +2814,12 @@
   "categories": {
     "title": "Kategoriýalar",
     "heading": "Beyni öwrediji oýun kategoriýalaryny gözden geçiriň",
-    "description": "Işjeň ýat, reaksiýa wagty, üns, ADHD-amatly tejribe we rahatlama ýaly endik meýdanlary boýunça mugt beyin öwretme oýunlaryny öwreniň. Hakykatdan öwrenmek isleýän tejribe görnüşini tapmak üçin kategoriýalary ulanyň.",
+    "description": "Işjeň ýat, reaksiýa wagty, üns, ADHD-amatly tejribe we rahatlama ýaly endik meýdanlary boýunça mugt üns oýunlaryny öwreniň. Hakykatdan öwrenmek isleýän tejribe görnüşini tapmak üçin kategoriýalary ulanyň.",
     "metaTitle": "Beyin oýun kategoriýalary: ýat, üns, reaksiýa wagty we ADHD",
     "metaDescription": "Işjeň ýat, üns, reaksiýa wagty, ADHD-amatly öwretme, wizual yzarlama we rahatlama üçin mugt beyin oýun kategoriýalaryny gözden geçiriň. Dogry oýunlary has çalt tapyň.",
-    "metaKeywords": "beyin oýun kategoriýalary, beyin öwretme oýunlary, ýat oýunlary, üns oýunlary, reaksiýa wagty oýunlary, uly adamlar üçin adhd oýunlary, işjeň ýat oýunlary, rahatlama maşklary",
+    "metaKeywords": "beyin oýun kategoriýalary, üns oýunlary, ýat oýunlary, üns oýunlary, reaksiýa wagty oýunlary, uly adamlar üçin adhd oýunlary, işjeň ýat oýunlary, rahatlama maşklary",
     "ogTitle": "Ýat, üns, reaksiýa wagty we ADHD üçin beyin oýun kategoriýalary",
-    "ogDescription": "Mugt beyin öwretme oýun kategoriýalaryny öwreniň we işjeň ýat, üns, reaksiýa wagty, ADHD-amatly we rahatlama maşklaryny çalt tapyň.",
+    "ogDescription": "Mugt üns oýun kategoriýalaryny öwreniň we işjeň ýat, üns, reaksiýa wagty, ADHD-amatly we rahatlama maşklaryny çalt tapyň.",
     "popularTitle": "Meşhur kategoriýalar",
     "popularDescription": "Ilkinji gözleýän kategoriýalardan başlaň, soňra aşakdaky doly sanawy gözden geçiriň.",
     "allCategoriesTitle": "Ähli kategoriýalar",
@@ -2850,7 +2850,7 @@
       "cognitive-flexibility": "Dürli düşünjeleriň arasynda geçmek ýa-da üýtgeýän düzgünlere uýgunlaşmak ukybyny gowulandyrmak üçin oýunlar. Has uly kognitiw çeýeligi talyblara bilimi dürli derslere ulanmagyna, hünärmenlere üýtgeýän iş talaplaryna uýgunlaşmagyna we hemmelere jemgyýetçilik ýagdaýlarynda has netijeli hereket etmegine kömek edýär.",
       "spatial-memory": "Giňişleýin maglumaty ýatda saklamak we dolandyrmak ukybyny pugtlandyrýan oýunlar. Güýçli giňişleýin ýat nawigasiýa, zatlaryň ýerini ýatda saklamak, kartalary düşünmek we 3D gurluşlary göz öňüne getirmek bilen kömek edýär. Bu endik awtoulag sürmek, zatlary tapmak, görkezmelere eýerýäris ýaly işler we STEM ugurlarynda üstünlik gazanmak üçin zerurdyr.",
       "adhd-games": "ADHD alamatlaryny dolandyrmaga ylmy taýdan subut edilen oýunlaryň saýlanan toplumy. Bu maşklar işjeň ýady, togtadyş gözegçiligini we dowamly üns — ADHD-de köplenç ejizelenýän esasy ýerine ýetiriji funksiýalary gönükdirýär.",
-      "brain-games-for-kids": "Çagalaryň kognitiw ösüşi üçin niýetlenen gyzykly we barlanyp bilinýän beyin öwretme oýunlary. Bu oýunlar üns aralygyny gowulandyrmaga, görkezmeleri ýerine ýetirmäge we hereket gözegçiligini gyzykly, oýun görnüşinde gowulandyrmaga kömek edýär.",
+      "brain-games-for-kids": "Çagalaryň kognitiw ösüşi üçin niýetlenen gyzykly we barlanyp bilinýän üns oýunlary. Bu oýunlar üns aralygyny gowulandyrmaga, görkezmeleri ýerine ýetirmäge we hereket gözegçiligini gyzykly, oýun görnüşinde gowulandyrmaga kömek edýär.",
       "relaxation": "Gollanma demgysma we üns merkezleşdirme maşklary arkaly rahatladyrma we stresi azaltmak üçin oýunlar. Bu tejribeler vagus nerwini oýarýar, ýürek urşy üýtgeýjiligini (HRV) gowulandyrýar we bedene asuda, dikeldiji ýagdaýa geçmäge kömek edýär.",
       "personality-tests": "Paýlaşylýan, ilkinji nobatda gyzykly onlaýn şahsyýet synaglary we wizual synag tejribeleri. Bu kategoriýa adamlar sbti synag, şahsyýet synagy ýa-da mbti stili wirusly wizual synaglary ýaly çalt, gyzykly netijeleri gözleýänlerinde peýdalydyr."
     },
@@ -2955,7 +2955,7 @@
         "ADHD games for adults": "Uly adamlar üçin ADHD oýunlary",
         "games for adhd adults": "adhd uly adamlar üçin oýunlar",
         "concentration games for adhd": "ADHD üçin jemlenme oýunlary",
-        "adhd brain training": "ADHD beyin öwretme",
+        "adhd brain training": "ADHD üns",
         "focus games for adults with adhd": "ADHD-li uly adamlar üçin üns oýunlary",
         "adhd memory games": "ADHD ýat oýunlary",
         "executive function training adhd": "ADHD ýerine ýetiriji funksiýa öwretme",
@@ -3005,7 +3005,7 @@
     "categoryMetaTitle": "Onlaýn mugt {categoryName} oýunlary | Beyin öwretme kategoriýalary",
     "categoryMetaDescription": "Onlaýn mugt {categoryName} oýunlaryny öwreniň. {categoryDescription}",
     "categoryOgTitle": "{categoryName} onlaýn oýunlary",
-    "categoryOgDescription": "Bu endigi gaýtalanýan tejribe bilen pugtlandyrmak üçin niýetlenen mugt {categoryName} oýunlaryny we beyin öwretme maşklaryny gözden geçiriň.",
+    "categoryOgDescription": "Bu endigi gaýtalanýan tejribe bilen pugtlandyrmak üçin niýetlenen mugt {categoryName} oýunlaryny we üns maşklaryny gözden geçiriň.",
     "categoryGamesHeading": "{categoryName} onlaýn oýunlary",
     "categoryIntro": "Bu kategoriýa esasan {categoryName} öwredýän oýunlary birleşdirýär. Ähli kitaphana gözden geçirmek ýerine, has jemlenen tejribe ýoluny islände ony ulanyň.",
     "backToAll": "Ähli kategoriýalary gör"
@@ -3094,11 +3094,11 @@
   },
   "getStarted": {
     "meta": {
-      "title": "Başla - Siziň üçin ideal beyin öwretme oýunyňyzy tapyň",
-      "description": "Maksatlaryňyza laýyk şahsyýetleşdirilen beyin öwretme oýunlaryny açmak üçin 2 minutlyk kognitiw synagymyzy geçiň. Gowy üns we ýat ugrundaky syýahatňyzy şu gün başladyň.",
-      "keywords": "beyin öwretme synagy, kognitiw synag, şahsyýetleşdirilen beyin oýunlary, üns öwretme, ýady gowulandyrmak, onlaýn kognitiw synag, mugt kognitiw synag, kognitiw synag mysaly, üns öwretme programmasy, üns öwretme maşklary, cogmed işjeň ýat öwretme, işjeň ýat synagy, mugt işjeň ýat synagy",
+      "title": "Başla - Siziň üçin ideal üns oýunyňyzy tapyň",
+      "description": "Maksatlaryňyza laýyk şahsyýetleşdirilen üns oýunlaryny açmak üçin 2 minutlyk kognitiw synagymyzy geçiň. Gowy üns we ýat ugrundaky syýahatňyzy şu gün başladyň.",
+      "keywords": "üns synagy, kognitiw synag, şahsyýetleşdirilen beyin oýunlary, üns öwretme, ýady gowulandyrmak, onlaýn kognitiw synag, mugt kognitiw synag, kognitiw synag mysaly, üns öwretme programmasy, üns öwretme maşklary, cogmed işjeň ýat öwretme, işjeň ýat synagy, mugt işjeň ýat synagy",
       "ogTitle": "Beyin öwretme syýahatyňyzy başladyň - şahsyýetleşdirilen synag",
-      "ogDescription": "Çalt 2 minutlyk synagymyz bilen siziň üçin ideal beyin öwretme oýunlaryny açyň. Ünsi, ýady we kognitiw ukyplary gowulandyryň."
+      "ogDescription": "Çalt 2 minutlyk synagymyz bilen siziň üçin ideal üns oýunlaryny açyň. Ünsi, ýady we kognitiw ukyplary gowulandyryň."
     },
     "title": "Siziň üçin ideal beyin oýunyňyzy tapalyň!",
     "stepTitle": "{step} ädim / 3-den",
@@ -3180,7 +3180,7 @@
         "general": {
           "1": "Birnäçe kognitiw ukyplary topleýin maşk ediň",
           "2": "Beyniň köptasks netijeliligini gowulandyryň",
-          "3": "Çylşyrymly we gyzykly beyin öwretmeden lezzet alyň"
+          "3": "Çylşyrymly we gyzykly üns oýunlaryndan lezzet alyň"
         }
       }
     },
@@ -3371,8 +3371,8 @@
   },
   "guides": {
     "metaTitle": "Mugt Beyin Öwretme Gollanmalary | Işjeň Ýat Öwretmesi | Kognitiw Gowulandyrma Usullary | Üns Oýunlary",
-    "metaDescription": "Doly gollanmalarymyz bilen subutlara esaslanýan beyin öwretme usullaryny öwreniň. Dual n-back öwretmesini, işjeň ýady gowulandyrmagy, üns güýçlendirme usullaryny we newroşynas barlaglary bilen goldan kognitiw öwretme strategiýalaryny öwreniň.",
-    "metaKeywords": "beyin öwretme gollanmasy, işjeň ýat öwretmesi, kognitiw gowulandyrma gollanmasy, dual n-back öwretmesi, üns öwretme usullary, ýaty gowulandyrmak usullary, kognitiw öwretme strategiýalary, newroplastiklik öwretmesi, beyin maşklary gollanmasy, akyl maşklary usullary, üns öwretme gollanmasy, jemlenmäni gowulandyrmak, ýerine ýetiriji funksiýa öwretmesi, kognitiw endikleri ösüşi, beyin fizika gollanmasy",
+    "metaDescription": "Doly gollanmalarymyz bilen subutlara esaslanýan üns usullaryny öwreniň. Dual n-back öwretmesini, işjeň ýady gowulandyrmagy, üns güýçlendirme usullaryny we newroşynas barlaglary bilen goldan kognitiw öwretme strategiýalaryny öwreniň.",
+    "metaKeywords": "üns gollanmasy, işjeň ýat öwretmesi, kognitiw gowulandyrma gollanmasy, dual n-back öwretmesi, üns öwretme usullary, ýaty gowulandyrmak usullary, kognitiw öwretme strategiýalary, newroplastiklik öwretmesi, beyin maşklary gollanmasy, akyl maşklary usullary, üns öwretme gollanmasy, jemlenmäni gowulandyrmak, ýerine ýetiriji funksiýa öwretmesi, kognitiw endikleri ösüşi, beyin fizika gollanmasy",
     "title": "Öwretme Gollanmalary",
     "subtitle": "Inçe, barlag bilen goldan öwretme gollanmalarymyz bilen kognitiw gowulandyrmanyň ylmy bilen öwreniň.",
     "workingMemory": {
@@ -3390,7 +3390,7 @@
   "home": {
     "title": "Uly Adamlar, Çagalar we ADHD Üçin Mugt Üns Oýunlary Onlaýn",
     "subtitle": "Mugt onlaýn ylma esaslanýan üns oýunlaryny oýnaň. Günde diňe 5 minut bilen üns, işjeň ýat, reaksiýa wagty we jemlenmäni öwrediň.",
-    "heroImageAlt": "Mugt Üns Oýunlary Platformasy - Jemlenme we ýaty gowulandyrmak üçin beyin öwretme oýunlaryny oýnaň",
+    "heroImageAlt": "Mugt Üns Oýunlary Platformasy - Jemlenme we ýaty gowulandyrmak üçin üns oýunlaryny oýnaň",
     "heroFeatures": [
       "Ýükleme Talap Edilmeýär",
       "Mugt Oýnalýar",
@@ -3521,8 +3521,8 @@
       }
     },
     "metaTitle": "Uly Adamlar, Çagalar we ADHD Üçin Mugt Üns Oýunlary Onlaýn",
-    "metaDescription": "Üns, jemlenme, reaksiýa wagty we işjeň ýaty öwretmek üçin mugt üns oýunlaryny onlaýn oýnaň. Uly adamlar, çagalar we ADHD üçin ylma esaslanýan beyin öwretmesi. Ýükleme talap edilmeýär.",
-    "metaKeywords": "üns oýunlary, mugt üns oýunlary, üns oýunlary onlaýn, adhd oýunlary onlaýn mugt, üns oýunlary, jemlenme oýunlary, ýat oýunlary, beyin öwretme oýunlary, reaksiýa wagty oýunlary",
+    "metaDescription": "Üns, jemlenme, reaksiýa wagty we işjeň ýaty öwretmek üçin mugt üns oýunlaryny onlaýn oýnaň. Uly adamlar, çagalar we ADHD üçin ylma esaslanýan üns oýunlary. Ýükleme talap edilmeýär.",
+    "metaKeywords": "üns oýunlary, mugt üns oýunlary, üns oýunlary onlaýn, adhd oýunlary onlaýn mugt, üns oýunlary, jemlenme oýunlary, ýat oýunlary, üns oýunlary, reaksiýa wagty oýunlary",
     "ogTitle": "Uly Adamlar, Çagalar we ADHD Üçin Mugt Üns Oýunlary Onlaýn",
     "ogDescription": "Üns, işjeň ýat, reaksiýa wagty we ADHD-amatly beyin öwretmesi üçin mugt üns oýunlaryny onlaýn oýnaň. Ýükleme talap edilmeýär.",
     "scienceBehind": {
@@ -3610,7 +3610,7 @@
       },
       "description": {
         "title": "Hyzmat Beýany",
-        "content": "Üns Oýunlary ýat, üns we jemlenme ýaly kognitiw ukyplary gowulandyrmak üçin niýetlenen beyin öwretme oýunlaryny hödür edýän mugt onlaýn platformadyr.",
+        "content": "Üns Oýunlary ýat, üns we jemlenme ýaly kognitiw ukyplary gowulandyrmak üçin niýetlenen üns oýunlaryny hödür edýän mugt onlaýn platformadyr.",
         "purpose": "Oýunlarymyz bilim we güýmenje maksady üçindir we lukmançylyk bejergisi ýa-da hünär kognitiw bahalandyrmasy hökmünde niýetlenmändir."
       },
       "usage": {
@@ -3675,7 +3675,7 @@
   "metadata": {
     "title": "Mugt Üns we Ýat Oýunlary | Beyin Öwretme | Üns Oýunlary",
     "description": "Ähli ýaşlar üçin mugt ylma esaslanýan beyin oýunlary bilen ýaty, jemlenmäni we kognitiw endikleri gowulandyryň.",
-    "keywords": "mugt üns oýunlary, ýat oýunlary, beyin öwretme oýunlary, jemlenme oýunlary, üns gowulandyrma oýunlary, kognitiw oýunlar onlaýn"
+    "keywords": "mugt üns oýunlary, ýat oýunlary, üns oýunlary, jemlenme oýunlary, üns gowulandyrma oýunlary, kognitiw oýunlar onlaýn"
   },
   "sbtiTest": {
     "title": "SBTI şahsyýet synagy",
@@ -3836,7 +3836,7 @@
   },
   "tests": {
     "metaTitle": "Mugt Kognitiw Bahalandyrma Synaglary | ADHD Synagy | Işjeň Ýat Bahalandyrmasy | Üns Oýunlary",
-    "metaDescription": "Mugt çalt kognitiw bahalandyrma synaglaryny geçiň: çagalar we uly adamlar üçin ADHD bahalandyrmalary, işjeň ýat synaglary, üns bahalandyrmalary. Ylmy netijelere esaslanýan şahsyýetleşdirilen beyin öwretme maslahatlaryny alyň.",
+    "metaDescription": "Mugt çalt kognitiw bahalandyrma synaglaryny geçiň: çagalar we uly adamlar üçin ADHD bahalandyrmalary, işjeň ýat synaglary, üns bahalandyrmalary. Ylmy netijelere esaslanýan şahsyýetleşdirilen üns maslahatlaryny alyň.",
     "metaKeywords": "kognitiw bahalandyrma synagy, mugt ADHD synagy, işjeň ýat bahalandyrmasy, üns synagy, kognitiw bahalandyrma, beyin bahalandyrmasy, ADHD synagy çagalar, uly adam ADHD synagy, kognitiw ukyplar synagy, akyl öndürijiligini bahalandyrmak, üns bahalandyrma, jemlenme synagy, ýerine ýetiriji funksiýa synagy, kognitiw ekranlaşdyrma onlaýn, beyin funksiýasyny bahalandyrmak",
     "title": "Bahalandyrma Synaglary",
     "subtitle": "Ylmy taýdan dizaýn edilen bahalandyrma synaglarymyz bilen kognitiw güýçlilikleriňizi we gowulandyrmak zerur sebitleriňizi açyň.",
@@ -3857,7 +3857,7 @@
     },
     "whyTest": {
       "title": "Näme Üçin Bu Synaglary Geçmeli?",
-      "description": "Bahalandyrma synaglarymyz siziň akyl ukyplaryňyz barada takyk beýany bermek üçin kognitiw alymlar tarapyndan dizaýn edildi. Netijeleri ulanyp öz mätäçlikleriňiz üçin iň netijeli beyin öwretme oýunlaryny saýlaň we kognitiw gowulandyrmanyňyzy wagt üzre yzarladyň."
+      "description": "Bahalandyrma synaglarymyz siziň akyl ukyplaryňyz barada takyk beýany bermek üçin kognitiw alymlar tarapyndan dizaýn edildi. Netijeleri ulanyp öz mätäçlikleriňiz üçin iň netijeli üns oýunlaryny saýlaň we kognitiw gowulandyrmanyňyzy wagt üzre yzarladyň."
     }
   },
   "typesOfGames": {
@@ -3883,7 +3883,7 @@
   "workingMemoryGuide": {
     "metaTitle": "Işjeň ýat boýunça iň soňky gollanma: Ylmy öwretme we kognitiw gowulandyrma",
     "metaDescription": "Işjeň ýadyň newroşynasyna çuňňur aralaşyň, Dual N-Back ýaly ylmy taýdan barlanan öwretme usullaryny öwreniň we ýadyňyzy, ünsüňizi we suwuk zehiniňizi gowulandyrmak üçin giňişleýin meýilnamany alyň.",
-    "metaKeywords": "işjeň ýat, kognitiw öwretme, dual n-back, schulte tablisa, ýady gowulandyrmak, üns öwretme, newroplastiklik, suwuk zehin, kognitiw gowulandyrma, beyin öwretme",
+    "metaKeywords": "işjeň ýat, kognitiw öwretme, dual n-back, schulte tablisa, ýady gowulandyrmak, üns öwretme, newroplastiklik, suwuk zehin, kognitiw gowulandyrma, üns",
     "ogTitle": "Işjeň ýat boýunça iň soňky gollanma: Ylmdan amala çenli doly kognitiw gowulandyrma meýilnamasy",
     "ogDescription": "Işjeň ýadyň syrlaryny öwreniň, Jaeggi we beýlekileriň döwrebap barlaglary bilen goldanylýan öwretme usullaryny öwreniň we ylma esaslanýan oýunlar we durmuş stili optimallaşdyrmalary arkaly kognitiw ukyplaryňyzy ulgamlaýyn güýçlendiriň.",
     "title": "Işjeň ýat boýunça iň soňky gollanma: Kognitiw ukyplaryňyzy ylmy taýdan gowulandyryň",

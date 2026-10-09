@@ -1,11 +1,11 @@
 {
   "getStarted": {
     "meta": {
-      "title": "Başla - Siziň üçin ideal beyin öwretme oýunyňyzy tapyň",
-      "description": "Maksatlaryňyza laýyk şahsyýetleşdirilen beyin öwretme oýunlaryny açmak üçin 2 minutlyk kognitiw synagymyzy geçiň. Gowy üns we ýat ugrundaky syýahatňyzy şu gün başladyň.",
-      "keywords": "beyin öwretme synagy, kognitiw synag, şahsyýetleşdirilen beyin oýunlary, üns öwretme, ýady gowulandyrmak, onlaýn kognitiw synag, mugt kognitiw synag, kognitiw synag mysaly, üns öwretme programmasy, üns öwretme maşklary, cogmed işjeň ýat öwretme, işjeň ýat synagy, mugt işjeň ýat synagy",
+      "title": "Başla - Siziň üçin ideal üns oýunyňyzy tapyň",
+      "description": "Maksatlaryňyza laýyk şahsyýetleşdirilen üns oýunlaryny açmak üçin 2 minutlyk kognitiw synagymyzy geçiň. Gowy üns we ýat ugrundaky syýahatňyzy şu gün başladyň.",
+      "keywords": "üns synagy, kognitiw synag, şahsyýetleşdirilen beyin oýunlary, üns öwretme, ýady gowulandyrmak, onlaýn kognitiw synag, mugt kognitiw synag, kognitiw synag mysaly, üns öwretme programmasy, üns öwretme maşklary, cogmed işjeň ýat öwretme, işjeň ýat synagy, mugt işjeň ýat synagy",
       "ogTitle": "Beyin öwretme syýahatyňyzy başladyň - şahsyýetleşdirilen synag",
-      "ogDescription": "Çalt 2 minutlyk synagymyz bilen siziň üçin ideal beyin öwretme oýunlaryny açyň. Ünsi, ýady we kognitiw ukyplary gowulandyryň."
+      "ogDescription": "Çalt 2 minutlyk synagymyz bilen siziň üçin ideal üns oýunlaryny açyň. Ünsi, ýady we kognitiw ukyplary gowulandyryň."
     },
     "title": "Siziň üçin ideal beyin oýunyňyzy tapalyň!",
     "stepTitle": "{step} ädim / 3-den",
@@ -87,7 +87,7 @@
         "general": {
           "1": "Birnäçe kognitiw ukyplary topleýin maşk ediň",
           "2": "Beyniň köptasks netijeliligini gowulandyryň",
-          "3": "Çylşyrymly we gyzykly beyin öwretmeden lezzet alyň"
+          "3": "Çylşyrymly we gyzykly üns oýunlaryndan lezzet alyň"
         }
       }
     },

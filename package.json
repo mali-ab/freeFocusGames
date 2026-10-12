@@ -6,7 +6,7 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "dev": "next dev --turbopack -p 3003",
+    "dev": "next dev --turbopack -H 0.0.0.0 -p 3003",
     "generate-i18n": "node scripts/build-i18n-compiled.js",
     "generate-blog": "node build-scripts/generate-blog-data.js",
     "verify:sudoku": "node build-scripts/verify-sudoku-unique.js all 10",

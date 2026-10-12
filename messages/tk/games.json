@@ -2,10 +2,10 @@
   "games": {
     "title": "Oýunlar",
     "breadcrumbHome": "Baş sahypa",
-    "play": "Oýun oýna",
+    "play": "Oýna",
     "eyebrow": "Mugt onlaýn oýun kitaphanasy",
     "heading": "Mugt onlaýn üns oýunlary",
-    "description": "Üns, ýat, reaksiýa wagty, wizual üns we akyl çeýeligi üçin mugt onlaýn beyin oýunlaryndan saýlaň. Her oýun brauzeriňizde işleýär, ýüklemek talap edilmeýär.",
+    "description": "Üns, ýat, reaksiýa wagty, wizual üns we akyl çeýeligi üçin mugt onlaýn oýunlaryndan saýlaň. Her oýun brauzeriňizde işleýär, ýüklemek talap edilmeýär.",
     "categoryNav": {
       "ariaLabel": "Beyin oýunlaryna endik boýunça göz aýlaň",
       "label": "Endik boýunça göz aýlaň",
@@ -358,7 +358,7 @@
         "findNumber": "Sany tap",
         "number": "Sany",
         "finished": "Tamamlandy",
-      "boardLabel": "Özbaşdak aýlanýan üç san halkaly aýlanýan Schulte tablisasy",
+        "boardLabel": "Özbaşdak aýlanýan üç san halkaly aýlanýan Schulte tablisasy",
         "bestTime": "Iň gowy wagt",
         "startGame": "Oýuny başla",
         "playAgain": "Gaýtadan oýna",
@@ -514,13 +514,13 @@
       "gameUI": {
         "dual": "Iki",
         "position": "Pozisiýa",
-      "audio": "Ses",
+        "audio": "Ses",
         "sound": "Ses",
         "back": "{level}-back",
         "challenge": "Dual N-Back çäklendirmesi",
         "trackInfo": "{types}-ni {level} ädim yzarladyň.",
         "starting": "Başlanýar...",
-        "startChallenge": "Çäklendirmäni başla",
+        "startChallenge": "Başla",
         "trial": "{total}-dan {current} synag",
         "positionMatch": "A: Pozisiýa gabat gelmesi",
         "soundMatch": "L: Ses gabat gelmesi",
@@ -530,7 +530,7 @@
         "missed": "Gaçyryldy",
         "falseAlarms": "Ýalňyş duýduryşlar",
         "overallPerformance": "Umumy öndürijilik",
-      "level": "Dereje:",
+        "level": "Dereje:",
         "trials": "Synaglar: {count}",
         "playAgain": "Gaýtadan oýna",
         "shareResults": "Netijeleri paýlaş",
@@ -640,29 +640,29 @@
         "settings": "Sazlamalar",
         "gameSettings": "Oýun sazlamalary",
         "nBackLevel": "N-Back derejesi",
-      "back": "{level}-back",
+        "back": "{level}-back",
         "voiceType": "Ses görnüşi",
-      "male": "Iňlis erkek sesi",
-      "female": "Iňlis aýal sesi",
-      "chineseFemale": "Hytaý aýal sesi",
+        "male": "Iňlis erkek sesi",
+        "female": "Iňlis aýal sesi",
+        "chineseFemale": "Hytaý aýal sesi",
         "trainingMode": "Öwretme režimi",
-      "tile": "Daş",
+        "tile": "Daş",
         "sound": "Ses",
-      "tileMatch": "Daş gabat gelmesi",
+        "tileMatch": "Daş gabat gelmesi",
         "soundMatch": "Ses gabat gelmesi",
         "keyA": "A",
         "keyL": "L",
         "trialsPerRound": "Raunt başyna synaglar",
-      "trials": "{count} synag",
+        "trials": "{count} synag",
         "trialSpeed": "Synag tizligi",
         "seconds": "{seconds}s",
         "saveChanges": "Üýtgeşmeleri sakla",
         "keepOneMode": "Iň az bir režimi işjeň saklamaly",
-      "challenge": "Mahjong Dual N-Back synagy",
+        "challenge": "Mahjong Dual N-Back synagy",
         "trackInfo": "{types}-ni {level} ädim yzarladyň.",
-      "loading": "Ýüklenýär...",
-      "loadingStatus": "Ýüklenýär... ({loadedAudio}/{totalAudio} ses, {loadedImages}/{totalImages} şekil)",
-      "startTraining": "Maşga başla",
+        "loading": "Ýüklenýär...",
+        "loadingStatus": "Ýüklenýär... ({loadedAudio}/{totalAudio} ses, {loadedImages}/{totalImages} şekil)",
+        "startTraining": "Maşga başla",
         "restart": "Täzele",
         "trial": "{total}-dan {current} synag",
         "trainingResults": "Öwretme netijeleri",
@@ -675,15 +675,15 @@
         "playAgain": "Gaýtadan oýna",
         "share": "Paýlaş"
       },
-    "metaTitle": "Mahjong Dual N-Back: Ösen wizual ýat tagta oýny",
-    "metaDescription": "Adaty Mahjong daşlary bilen nusgawy Dual N-back kognitiw tabşyrygyny synap görüň. Bu çeper we çylşyrymly beýni oýny arkaly giňişlik işjeň ýadyňyzy we wizual nagyşlary tanamagyňyzy öwrediň.",
-    "metaKeywords": "mahjong dual n-back, daş gabat getirme ýat oýny, wizual giňişlik işjeň ýady, adaty mahjong beýni maşky, ösen ýat göwrümi synagy, kognitiw çeýelik oýunlary",
-    "ogTitle": "Mahjong Dual N-Back: Ösen wizual ýat tagta oýny",
-    "ogDescription": "Adaty Mahjong daşlary bilen nusgawy Dual N-back kognitiw tabşyrygyny synap görüň. Bu çeper we çylşyrymly beýni oýny arkaly giňişlik işjeň ýadyňyzy we wizual nagyşlary tanamagyňyzy öwrediň."
+      "metaTitle": "Mahjong Dual N-Back: Ösen wizual ýat tagta oýny",
+      "metaDescription": "Adaty Mahjong daşlary bilen nusgawy Dual N-back kognitiw tabşyrygyny synap görüň. Bu çeper we çylşyrymly beýni oýny arkaly giňişlik işjeň ýadyňyzy we wizual nagyşlary tanamagyňyzy öwrediň.",
+      "metaKeywords": "mahjong dual n-back, daş gabat getirme ýat oýny, wizual giňişlik işjeň ýady, adaty mahjong beýni maşky, ösen ýat göwrümi synagy, kognitiw çeýelik oýunlary",
+      "ogTitle": "Mahjong Dual N-Back: Ösen wizual ýat tagta oýny",
+      "ogDescription": "Adaty Mahjong daşlary bilen nusgawy Dual N-back kognitiw tabşyrygyny synap görüň. Bu çeper we çylşyrymly beýni oýny arkaly giňişlik işjeň ýadyňyzy we wizual nagyşlary tanamagyňyzy öwrediň."
     },
     "fishTrace": {
       "title": "Ýalpyldaýan balygy yzarla",
-      "subtitle": "Wizual yzarlaýşyňyzy we durnukly ünsüňizi öwrediň",
+      "subtitle": "Wizual yzarlaýşyňyzy we durnukly ünsüňizi kämilleşdiriň",
       "description": "Dinamiki suwasty gurşawda ýalpyldaýan balyklary yzarlap, wizual yzarlaýyş ukybyňyzy gowulandyryň.",
       "start": "Ýalpyldaýan balyklary ýatda saklaň!",
       "glowEnding": "Ýalpyldy azalýar...",
@@ -701,7 +701,7 @@
       "confirmSelection": "Saýlawy tassyklamak",
       "tryAgain": "Gaýtadan synanyş",
       "settings": "Sazlamalar",
-      "difficultyLabel": "Kynçylyk",
+      "difficultyLabel": "Kynlyk derejesi",
       "difficultyEasy": "Aňsat",
       "difficultyMedium": "Orta",
       "difficultyHard": "Kyn",
@@ -756,7 +756,7 @@
       }
     },
     "frogMemoryLeap": {
-      "title": "Gurbaganyň ýat böküşi",
+      "title": "Gurbaganyň böküşi",
       "subtitle": "Yzygiderli ýadyňyzy we nagyşlary tanamagy öwrediň",
       "description": "Gurbaganyň nilüfer ýapraklarynyň üstündäki böküş tertibini ýatda saklap, yzygiderli ýadyňyzy synaň.",
       "gameUI": {
@@ -774,7 +774,7 @@
         "nextLevel": "Indiki dereje",
         "success": "Ajaýyp! Utuk: {score}\n{level}-dereje tamamlandy! 🎉",
         "settings": "Sazlamalar",
-        "difficultyLabel": "Kynçylyk",
+        "difficultyLabel": "Kynlyk derejesi",
         "difficultyEasy": "Aňsat",
         "difficultyMedium": "Orta",
         "difficultyHard": "Kyn",
@@ -783,10 +783,10 @@
         "save": "Sakla"
       },
       "metadata": {
-        "title": "Gurbaganyň ýat böküşi: Giňişlik we işjeň ýat beýni oýny",
+        "title": "Gurbaganyň böküşi: Giňişlik we işjeň ýat beýni oýny",
         "description": "Bu mugt Corsi blok görnüşindäki beýni oýny bilen giňişlik ýadyňyzy we ünsüňizi synaň. Işjeň ýadyňyzy, üns aralygyňyzy we kognitiw çeýeligiňizi gowulandyrmak üçin her gün oýnaň. Akyl taýdan sagdyn bolmak isleýän uly adamlar we ünsi ösdürýän çagalar üçin amatly.",
         "keywords": "onlaýn Corsi blok basma synagy, Simon ýat oýnuna alternatiwa, işjeň ýat maşky, giňişlik ýady synagy, yzygiderli ýat oýny, ADHD beýni maşky, kognitiw pese düşmegiň öňüni almak, ýaşulular üçin beýni maşklary, uly adamlar üçin ýady gowulandyrma oýunlary, çagalar üçin üns oýunlary, mugt onlaýn beýni oýunlary, gündelik akyl maşky, gysga möhletli ýat maşklary, kognitiw çeýelik maşky, wizual yzygiderlilik ýatdan getirmesi, mugt Lumosity alternatiwasy, neýroplastiklik oýunlary, beýni dumanlygy üçin maşklar, giňişlik yzygiderlilik synagy, ýat ýatdan getirme synagy, akyl saglygy maşky",
-        "ogTitle": "Gurbaganyň ýat böküşi: Giňişlik we işjeň ýat beýni oýny",
+        "ogTitle": "Gurbaganyň böküşi: Giňişlik we işjeň ýat beýni oýny",
         "ogDescription": "Bu mugt Corsi blok görnüşindäki beýni oýny bilen giňişlik ýadyňyzy we ünsüňizi synaň. Işjeň ýadyňyzy, üns aralygyňyzy we kognitiw çeýeligiňizi gowulandyrmak üçin her gün oýnaň. Akyl taýdan sagdyn bolmak isleýän uly adamlar we ünsi ösdürýän çagalar üçin amatly."
       },
       "howToPlay": {
@@ -831,7 +831,7 @@
     },
     "largerNumber": {
       "title": "Uly san synagy",
-      "subtitle": "Gaýtadan işleme tizligiňizi we sanlary deňeşdirme endikleriňizi öwrediň",
+      "subtitle": "Hasaplama tizligiňizi we sanlary deňeşdirme endikleriňizi kämilleşdiriň",
       "description": "Gaýtadan işleme tizligini we ünsi öwretmek üçin iki sanynyň ulusyny çalt kesgitläň.",
       "howToPlayIntro": "Bu çalt depginli synagda haýsy sanyň uludygyny tiz kesgitläň:",
       "howToPlay1": "Ekranda iki san peýda bolar",
@@ -878,7 +878,7 @@
       "gameUI": {
         "challenge": "Üstünlik üçin {accuracy}% takyklyk bilen {attempts} synagy tamamlaň",
         "starting": "Başlanýar...",
-        "startChallenge": "Çäklendirmäni başla",
+        "startChallenge": "Başla",
         "whichIsLarger": "Haýsy san uly?",
         "correct": "Dogry",
         "total": "Jemi",
@@ -905,7 +905,7 @@
     "blockMemoryChallenge": {
       "title": "Blok Ýat Synagy",
       "description": "Barha çylşyrymly blok yzygiderliliklerini ýatdan çykarmak bilen wizual ýadyňyzy synag ediň.",
-      "subtitle": "Wizual ýadyňyzy we desgar tanymalyňyzy öwrediň",
+      "subtitle": "Wizual ýadyňyzy we nagyş tanamaklygyňyzy kämilleşdiriň",
       "metaTitle": "Blok Ýat Synagy: Wizual Yzygiderlilik we Işjeň Ýat Oýuny",
       "metaDescription": "Barha çylşyrymly blok yzygiderliliklerini ýatdan çykarmak bilen wizual ýat kuwwatyňyzy synag ediň. Bu üns synagy gysga möhletli ýady, desgar tanymaly we kognitiw çeýeligi gowulandyrmaga kömek edýär.",
       "metaKeywords": "onlaýn wizual ýat yzygiderlilik synagy, giňişleýin ýatdan çykarma öwretme oýunlary, işjeň ýady gowulandyrmak, desgar tanymal synagy, beyin çeýeligi maşklary, gysga möhletli ýat tejribesi",
@@ -918,7 +918,7 @@
         "step3": "Yzygiderlilik görkezilenden soň, bloklary şol bir tertipde basyň",
         "step4": "Derejeler artansoň, yzygiderlilikler has uzyn we ýatda saklamak has kyn bolýar",
         "watchDemo": "Demo görmek",
-      "demo": "Görkeziliş"
+        "demo": "Görkeziliş"
       },
       "benefits": {
         "workingMemory": {
@@ -1008,7 +1008,7 @@
       "howToPlay": {
         "description": "Bu ýönekeý reaksiýa wagty synagy ekranyň reňki üýtgände näçe çalt reaksiýa berýändigiňizi ölçeýär.",
         "step1": "Ekranyň ýaşyl bolmagyna garaşyň",
-        "step2": "Reňk üýtgände mümkin boldugyça çalt basyň ýa-da degiň",
+        "step2": "Reňk üýtgände mümkin boldugyça çalt basyň",
         "step3": "Reaksiýa wagtyňyzy millisekuntda görüň",
         "step4": "Has takyk netijeler üçin birnäçe gezek gaýtalaň"
       },
@@ -1099,17 +1099,17 @@
     },
     "countingBoxes": {
       "title": "Gutulary sanamak",
-      "subtitle": "3D kub sanamak arkaly giňişlik ýadyny kämilleşdiriň",
+      "subtitle": "3D kub sanamak arkaly ýadyňyzy kämilleşdiriň",
       "description": "3D kublaryň peýda bolup, ýitip gidişine serediň, soň olary takyk sanaň. Giňişlik ýadyňyzy we wizual gaýtadan işleme endikleriňizi öwrediň.",
       "metaTitle": "Gutulary sanamak: 3D giňişlik ýady we Mensa IQ taýýarlyk oýny",
       "metaDescription": "3D kublary sanap, giňişlik pikirlenmäňizi we wizual işjeň ýadyňyzy synaň. Geometriýa endikleri, binagärlik göz öňüne getirmesi we Mensa giňişlik synagyna taýýarlyk üçin ajaýyp kognitiw maşk guraly.",
       "metaKeywords": "3D kub sanamak synagy, onlaýn giňişlik pikirlenme oýny, Mensa synagyna taýýarlyk maşklary, wizual giňişlik işjeň ýady, akyl taýdan aýlamak maşky, geometriýa beýni oýunlary, binagärlik göz öňüne getirme synagy",
       "ogTitle": "Gutulary sanamak: 3D giňişlik ýady we Mensa IQ taýýarlyk oýny",
       "ogDescription": "3D kublary sanap, giňişlik pikirlenmäňizi we wizual işjeň ýadyňyzy synaň. Geometriýa endikleri, binagärlik göz öňüne getirmesi we Mensa giňişlik synagyna taýýarlyk üçin ajaýyp kognitiw maşk guraly.",
-      "howToPlayIntro": "Bu giňişlik ýady synagynda gözenekde peýda bolan 3D kublara seredip, näçesini görendigiňizi sanaň:",
+      "howToPlayIntro": "Bu oýun synagynda gözenekde peýda bolan 3D kublara seredip, näçesini görendigiňizi aýdyň:",
       "howToPlay1": "3D gutularyň gözenekde gysga wagtlyk peýda bolşuna ünsli serediň",
       "howToPlay2": "Gören gutularyňyzyň sanyny ýatda saklaň",
-      "howToPlay3": "Gutular ýitenden soň soralanda sany giriziň",
+      "howToPlay3": "Gutular ýitenden soň sanyny giriziň",
       "howToPlay4": "Has köp gutuly we çylşyrymly nagyşly barha kynlaşýan derejelerden geçiň",
       "benefits": {
         "workingMemory": {
@@ -1131,7 +1131,7 @@
           "answer": "3D kublaryň gözenekde gysga wagtlyk peýda bolşuna serediň, näçesini görendigiňizi ýatda saklaň we dogry sany giriziň. Oýun has köp kub we çylşyrymly nagyşlar bilen kynçylygy kem-kemden artdyrýar."
         },
         "difficulty": {
-          "question": "Kynçylyk nähili üýtgeýär?",
+          "question": "Kynlyk derejesi nähili üýtgeýär?",
           "answer": "Başlangyç derejelerde ýönekeý nagyşlarda 3-4 kub bolýar, ösen derejelerde bolsa çylşyrymly ýerleşişde 23-e çenli kub bar. Käbir derejeler kynçylygy artdyrmak üçin uçup gelme ýaly animasiýalary goşýar."
         },
         "benefits": {
@@ -1190,7 +1190,7 @@
         "step1": "Ekranda görkezilen reňkli söze serediň",
         "step2": "Sözüň manysyny däl-de, tekstiň REŇKINI kesgitläň",
         "step3": "Dogry reňk düwmesine basyň ýa-da san düwmesini (1-6) basyň",
-        "step4": "Stroop effekti ölçegiňizi görmek üçin 20 synagy tamamlaň"
+        "step4": "Stroop effekti netijäňizi görmek üçin 20 synagy tamamlaň"
       },
       "benefits": {
         "cognitiveFlexibility": {
@@ -1322,7 +1322,7 @@
         },
         "whyDifficult": {
           "question": "Bu synag näme üçin kyn?",
-          "answer": "Kynçylyk kognitiw päsgelçilikden döreýär. Töwerekdäki oklar merkezi okuň ters ugruny görkezende, beýniňiz ähli wizual maglumaty gaýtadan işlemek baradaky awtomatik meýli basyp ýatyryp, diňe nyşana ünsi jemlemeli bolýar."
+          "answer": "Kynlyk derejesi kognitiw päsgelçilikden döreýär. Töwerekdäki oklar merkezi okuň ters ugruny görkezende, beýniňiz ähli wizual maglumaty gaýtadan işlemek baradaky awtomatik meýli basyp ýatyryp, diňe nyşana ünsi jemlemeli bolýar."
         },
         "howToImprove": {
           "question": "Öndürijiligimi nähili gowulandyryp bilerin?",
@@ -1377,7 +1377,7 @@
       "benefit3_desc": "Kartoçkalaryň ýerleşişini ýatda saklamagy talap edip, ünsüňizi we üns aralygyňyzy güýçlendirýär.",
       "faq1_question": "Bu haýwan çagalaryny deňleşdirme oýny kiçi çagalar üçin amatlymy?",
       "faq1_answer": "Hawa! Ýönekeý düzgünler, ýakymly haýwan şekilleri we sazlanyp bolýan kynçylyk derejeleri ony ene-atanyň gözegçiliginde 3-4 ýaşly çagalar üçin hem amatly edýär.",
-      "faq2_question": "Kynçylyk derejesi bu oýna nähili täsir edýär?",
+      "faq2_question": "Kynlyk derejesi derejesi bu oýna nähili täsir edýär?",
       "faq2_answer": "Oýun birnäçe kynçylyk derejesini hödürleýär: aňsat (3 jübütli 3x2 gözenek), orta (4 jübütli 4x2), kyn (6 jübütli 4x3) we hünärmen (8 jübütli 4x4). Has ýokary derejelerde köp kartoçkanyň ýerleşişini ýatda saklamaly bolýar.",
       "faq3_question": "Bu ýat deňleşdirme oýny haýsy kognitiw peýdalary berýär?",
       "faq3_answer": "Bu oýun işjeň ýady, wizual tanamagy, nagyşlary deňleşdirme endiklerini we jemlenmäni ösdürýär. Yzygiderli oýnamak çagalaryň hem, uly adamlaryň hem ünsi we jikme-jiklige üns berşini gowulandyryp biler.",
@@ -1390,14 +1390,14 @@
         "finalMoves": "Hereketler",
         "time": "Wagt",
         "bestTime": "Iň gowy wagt",
-        "difficultyLevel": "Kynçylyk",
+        "difficultyLevel": "Kynlyk derejesi",
         "easy": "Aňsat",
         "medium": "Orta",
         "hard": "Kyn",
         "expert": "Hünärmen",
         "playAgain": "Gaýtadan oýna",
         "shareResults": "Netijeleri paýlaş",
-        "difficulty": "Kynçylyk",
+        "difficulty": "Kynlyk derejesi",
         "shareTitle": "Soňkyjyk haýwanlary deňleşdirme netijämi görüň!",
         "shareText": "Soňkyjyk haýwanlaryň hemmesini {difficulty} kynçylykda {moves} hereketde we {time} sekuntda deňleşdirdim!"
       },
@@ -1411,14 +1411,14 @@
     },
     "memoryMatchingGame": {
       "title": "Onlaýn Ýat Deňleşdirme Oýuny",
-      "subtitle": "Arassa temalar, wagtly töpretgiler we çalt gaýtalanýan maşgylar bilen uly adamlar üçin mugt onlaýn ýat oýunyny oýnaň",
-      "description": "Şekiller, harplar ýa-da sanlar bilen mugt onlaýn ýat deňleşdirme oýunyny oýnaň. Çiftleri deňleşdiriň, wizual ýatdan çykarmagy öwrediň we uly adamlar we uly ýetginjekler üçin gurlan arassa jemlenme oýunyny lezzet alyň.",
+      "subtitle": "Arassa temalar, wagtly töpretgiler we çalt gaýtalanýan oýun bilen uly adamlar üçin mugt onlaýn ýat oýunyny oýnaň",
+      "description": "Şekiller, harplar ýa-da sanlar bilen mugt onlaýn ýat deňleşdirme oýunyny oýnaň. Jübütleri deňleşdiriň, wizual ýatdan çykarmagy öwrediň we uly adamlar we uly ýetginjekler üçin gurlan arassa jemlenme oýunyny lezzet alyň.",
       "metadata": {
-        "title": "Uly Adamlar Üçin Onlaýn Ýat Deňleşdirme Oýuny: Mugt Çiftleri Deňleşdirmek Maşgy",
-        "description": "Şekiller, harplar ýa-da sanlar bilen uly adamlar üçin mugt onlaýn ýat deňleşdirme oýunyny oýnaň. Çiftleri deňleşdiriň, wizual ýady gowulandyryň we brauzeriňizde gysga jemlenme maşgyndan lezzet alyň.",
+        "title": "Uly Adamlar Üçin Onlaýn Ýat Deňleşdirme Oýuny: Mugt Jübütleri Deňleşdirmek Maşgy",
+        "description": "Şekiller, harplar ýa-da sanlar bilen uly adamlar üçin mugt onlaýn ýat deňleşdirme oýunyny oýnaň. Jübütleri deňleşdiriň, wizual ýady gowulandyryň we brauzeriňizde gysga jemlenme maşgyndan lezzet alyň.",
         "keywords": "onlaýn ýat deňleşdirme oýuny, onlaýn deňleşdirme oýunlary, mugt onlaýn deňleşdirme oýunlary, onlaýn jemlenme oýuny, çift deňleşdirmek oýuny, wizual ýat oýuny, onlaýn ýat kartoçka oýuny, uly adamlar üçin ýat oýuny, uly adamlar üçin mugt deňleşdirme oýunlary, onlaýn uly adamlar üçin ýat oýunlary, uly adamlar üçin onlaýn ýat oýuny",
-        "ogTitle": "Uly Adamlar Üçin Onlaýn Ýat Deňleşdirme Oýuny: Mugt Çiftleri Deňleşdirmek Maşgy",
-        "ogDescription": "Şekiller, harplar ýa-da sanlar bilen uly adamlar üçin mugt onlaýn ýat oýunyny oýnaň. Çiftleri deňleşdiriň we çalt brauzer töpretgileri bilen wizual ýatdan çykarmagy ýitileşdiriň."
+        "ogTitle": "Uly Adamlar Üçin Onlaýn Ýat Deňleşdirme Oýuny: Mugt Jübütleri Deňleşdirmek Maşgy",
+        "ogDescription": "Şekiller, harplar ýa-da sanlar bilen uly adamlar üçin mugt onlaýn ýat oýunyny oýnaň. Jübütleri deňleşdiriň we çalt brauzer töpretgileri bilen wizual ýatdan çykarmagy ýitileşdiriň."
       },
       "leaderboardNote": "Umumy lider tahtasy diňe bellenen gurnamany yzarlaýar: 4×4 göwrümdäki Şekiller.",
       "preview": {
@@ -1429,7 +1429,7 @@
         "statusMatched": "Çift tapyldy"
       },
       "howToPlay": {
-        "description": "Bu ýat deňleşdirme oýuny çalt gaýtalanýan töpretgiler üçin gurludyr, ýeňil beyin ýyladyşy ýa-da ünsli ýatdan çykarma çözgüdi isleseňiz hem. Esasan iş sessiýalarynyň, okuw bloklarynyň ýa-da has agyr oýunlaryň arasynda gysga wizual ýat maşgysyny isleýän uly adamlar üçin gowy işleýär.",
+        "description": "Bu oýyn ýat deňleşdirme oýuny. Çalt gaýtalanyp oynamak üçin , ýa-da ünüsi sogmak üçin edilen. Esasan iş sessiýalarynyň, okuw bloklarynyň ýa-da has agyr oýunlaryň arasynda gysga wizual ýat maşgysyny isleýän uly adamlar üçin gowy işleýär.",
         "step1": "Tema saýlaň: şekiller, harplar ýa-da sanlar",
         "step2": "4×4, 5×4 ýa-da 6×4 göwrüminiň ululygyny saýlaň",
         "step3": "Bir wagtyň özünde iki karty öwüriň we her simboliň nirede peýda bolandygyny ýatda saklaň",
@@ -1473,7 +1473,7 @@
         }
       },
       "gameUI": {
-        "instructions": "Bir wagtyň özünde iki karty öwüriň we göwrümiňizden has netijeli arassalaň.",
+        "instructions": "Bir wagtyň özünde iki karty öwüriň we az ýalňyşlyk göýberip, netijeli arassalaň.",
         "progress": "Ösüş",
         "controls": {
           "theme": "Tema",
@@ -1500,7 +1500,7 @@
           "moves": "Göçürmeler",
           "time": "Wagt",
           "best": "Iň gowy",
-          "pairs": "Çiftler"
+          "pairs": "Jübütler"
         },
         "startTitle": "Başlamaga taýýar my?",
         "startDescription": "Sazlamalarda temaňyzy we göwrümiňizi saýlaň, soňra taýýar bolanyňyzda başlaň. Taýmer diňe Başla düwmesine basanyňyzdan soň başlaýar.",
@@ -1517,23 +1517,23 @@
       }
     },
     "freeShortTermMemoryTest": {
-      "title": "Mugt Gysga Möhletli Ýat Synagy",
-      "subtitle": "Öý harytlaryny ýatdan çykarmak bilen gysga möhletli ýat kuwwatyňyzy bahalandyryň",
+      "title": "Gysga Möhletli Ýat Synagy",
+      "subtitle": "Gysga Möhletli Ýat SynagyÖý harytlaryňyzy ýatdan çykarmazlyk üçin ýatkeşligiňizi bahalandyryň",
       "description": "Umumy öý harytlaryny ýatda saklamak we ýatdan çykarmak bilen gysga möhletli ýadyňyzy synag ediň. Ýaşyňyza we jynsyňyza görä şahsy ýaly netije alyň.",
       "metadata": {
-        "title": "Mugt Gysga Möhletli Ýat Synagy: Sözlü Ýatdan Çykarma we Beyin Bahalandyrmasy",
+        "title": "Gysga Möhletli Ýat Synagy: Sözlü Ýatdan Çykarma we Beyin Bahalandyrmasy",
         "description": "Bu öý harytlaryny ýatdan çykarma synagy bilen gysga möhletli sözlü ýadyňyzy bahalandyryň. Ýat gowşaklyklary we güýçleri kesgitlemek üçin ýaş we jynsa görä düzgünleşdirilen kognitiw saglyk bahasyny alyň.",
         "keywords": "gysga möhletli ýat ýitirme synagy, söz ýatdan çykarma synagy onlaýn, mugt sözlü ýat bahalandyrmasy, ýat kuwwaty synagy, alzheimersiň irki alamat synagy, kognitiw bahalandyrma gurallary, onlaýn ýadymy barla",
-        "ogTitle": "Mugt Gysga Möhletli Ýat Synagy: Sözlü Ýatdan Çykarma we Beyin Bahalandyrmasy",
+        "ogTitle": "Gysga Möhletli Ýat Synagy: Sözlü Ýatdan Çykarma we Beyin Bahalandyrmasy",
         "ogDescription": "Bu öý harytlaryny ýatdan çykarma synagy bilen gysga möhletli sözlü ýadyňyzy bahalandyryň. Ýat gowşaklyklary we güýçleri kesgitlemek üçin ýaş we jynsa görä düzgünleşdirilen kognitiw saglyk bahasyny alyň."
       },
       "howToPlay": {
-        "description": "Umumy öý harytlaryny ýatda saklamak we islendik tertipde ýatdan çykarmak bilen gysga möhletli ýadyňyzy synag ediň.",
-        "step1": "Ekranda 12 sany umumy haryt görkezilýär",
-        "step2": "Harytlary öz TEMPingiz bilen öwreniň we ýatda saklaň",
+        "description": "Umumy öý harytlaryny ýatda saklamak we islendik tertipde ýatlamak bilen gysga möhletli ýatkeşligiňizi synag ediň.",
+        "step1": "Ekranda 12 sany öý harytlaryny görkezilýär",
+        "step2": "Öý harytlaryny öz tempiňiz bilen öwreniň we ýatda saklaň",
         "step3": "Dowam etmek isleseňiz 'Men taýýar' düwmesine basyň",
-        "step4": "Ýatlan harytlary 12 sany giriş gutusynda giriziň (islendik tertipde)",
-        "step5": "Bahaňyzy we şahsy ýaly deňleşdirme netijeleriňizi alyň"
+        "step4": "Ýatlan öý harytlary 12 sany giriş gutusyna giriziň (islendik tertipde)",
+        "step5": "Bahaňyzy we özüňiziň şahsy netijeleriňizi görüň"
       },
       "benefits": {
         "assessment": {
@@ -1580,18 +1580,18 @@
       },
       "startTest": "Ýat Synagyny Başla",
       "ready": "Men taýýar - Dowam et",
-      "memorizeTheseWords": "Bu Söz Sözlemlerini Ýatda Saklaň",
-      "studyAtYourPace": "Bu sözleri üns bilen öwrenmek üçin wagt alyň",
+      "memorizeTheseWords": "Şu sözleri ýatda saklaň",
+      "studyAtYourPace": "Bu sözleri Oýuna başlamakaňyz ýatda saklaň",
       "recall": {
-        "title": "Ýatdan Çykarma Fazasy",
-        "gridInstruction": "Aşakdaky gutulardan haýsysynda bolsa-da, ýatda saklan söz sözlemleriňizi dolduryň. Takyk tertibi ýatda saklamaly däl.",
-        "inputLabel": "Ýatda saklan sözlemleriňizi giriziň:",
+        "title": "Sözleri ýatla",
+        "gridInstruction": "Aşakdaky gutulara ýatda saklan sözleriňizi dolduryň. Takyk tertibi ýatda saklamaly däl.",
+        "inputLabel": "Ýatda saklan sözleriňizi giriziň:",
         "placeholder": "Söz sözlemlerini şu ýere ýazyň, vergüller ýa-da täze setirler bilen aýraň..."
       },
       "submitRecall": "Jogaplarymy Iber",
       "setup": {
-        "title": "Şahsy Ýaly Netijeleri Alyň",
-        "description": "Demografiki toparyňyz bilen deňleşdirilen şahsy ýaly baha almak üçin ýaş toparyňyzy we jynsyňyzy beriň.",
+        "title": "Şahsy Netijeleri Alyň",
+        "description": "Has takyk şahsy bahalandyrma üçin özüňiziň ýaş toparyňyzy we jynsyňyzy saýlaň.",
         "ageGroup": "Ýaş Topary",
         "ageUnder18": "18-den aşak",
         "age18to25": "18-25 ýaş",
@@ -1612,13 +1612,13 @@
         "accuracy": "Dürslik Bahasy",
         "timeSpent": "Sarp Edilen Wagt",
         "percentile": "Persentil Derejesi",
-        "correctWords": "Dogry Tapan Sözleriňiz",
+        "correctWords": "Dogry Bilen sözleriň",
         "missedWords": "Tapmadyk Sözleriňiz",
         "noMatches": "Deň gelýän söz tapylmady",
         "excellent": "Ajaýyp öndürijilik! Siziň ajaýyp ýat endikleriňiz bar.",
         "good": "Gowy öndürijilik! Ýat endikleriňiz ortaça ýokary.",
-        "keepPracticing": "Üýtgüni dowam ediň! Yzygiderli öwretme ýadyňyzy gowulandyryp biler.",
-        "encouragement": "Gowy tagalla! Ýat myşsa ýalydyr - näçe köp maşk etseňiz, şonça-da güýçli bolýar.",
+        "keepPracticing": "Dowam ediň! Yzygiderli öwrenmeklik ýadyňyzy gowulandyryp biler.",
+        "encouragement": "Berekella! Ýat myşsa ýalydyr - näçe köp maşk etseňiz, şonça-da güýçli bolýar.",
         "trainingTip": "Iň gowy netijeler üçin gündelik 10-15 minut ýat maşklaryny etmäge synanşyň. Yzygiderlilik gowulaşmagyň açarydyr!"
       },
       "tryAgain": "Synagy Täzeden Geçiriň",
@@ -1830,7 +1830,7 @@
         "description": "Awtomatiki girmek üçin azyndan 20 töpretgini 70% dürslik bilen tamamlaň. Siziň çözgüt bahanyz dürsligi, görkezme tizligini we meýdan kynçylygyny deňleşdirýär; diňe şahsy iň gowyňyz saklanýar."
       },
       "howToPlay": {
-        "description": "Iki Çözgüt uýgunlaşýan wizual işleýiş tizligi oýunydyr. Her synagda merkezdäki ulag we sekiz periferik ýerleriň birindäki Route 66 bellegi bir wagtyň özünde peýda bolýar.",
+        "description": "Iki Çözgüt uýgunlaşýan wizual işleýiş tizlik oýunydyr. Her synagda merkezdäki ulag we sekiz periferik ýerleriň birindäki Route 66 bellegi bir wagtyň özünde peýda bolýar.",
         "step1": "Gözleriňizi merkezi gyzyl nokatda saklaň. Ulagy ýol belligine gözleriňizi hereket etmezden kesgitläň.",
         "step2": "Gysga wizual maskadan soň, ilki merkezi ulagy saýlaň, soňra Route 66 belliginiň peýda bolan ýol sektoruny saýlaň.",
         "step3": "Dogry synaglardan soň görkezme gysgalýar. Ýokary meýdan derejeleri nyşanany merkezden has uzaklaşdyrýar we ünsüni sowujy bellikleri goşýar."
@@ -1901,7 +1901,7 @@
         ]
       },
       "gameUI": {
-        "title": "Bir seretmekde iki çözgüt",
+        "title": "Bir bakaňda 2 karar.",
         "intro": "Merkezdäki ulagy kesgitläň we Route 66 belliginiň nirede peýda bolandygyny ýatda saklaň.",
         "centralTargetTitle": "Merkezi çözgüt",
         "centralTarget": "Häzirki jübütden haýsy ulagyň fiksasiýada peýda bolandygyny kesgitläň.",
@@ -1955,8 +1955,8 @@
       }
     },
     "sbtiTest": {
-      "title": "SBTI şahsyýet synagy",
-      "description": "Wirusly SBTI şahsyýet synagyny onlaýn geçiň we birnäçe minutda paýlaşyp bolýan netije posteriňizi alyň. SBTI synagy, SBTI MBTI we şahsyýet synagy ugurlaryny gözleýänler üçin çalt mem görnüşindäki test.",
+      "title": "SBTI häsiýet synagy",
+      "description": "Wirusly SBTI häsiýet synagyny onlaýn geçiň we birnäçe minutda paýlaşyp bolýan netije posteriňizi alyň. SBTI synagy, SBTI MBTI we şahsyýet synagy ugurlaryny gözleýänler üçin çalt mem görnüşindäki test.",
       "featuredDescription": "Wirusly SBTI synagyny geçiň we netijäňizi birnäçe minutda alyň. Dostlaryňyz bilen çalt paýlaşmak üçin döredilen gysga şahsyýet testi."
     }
   }

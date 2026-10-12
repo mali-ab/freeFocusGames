@@ -1,103 +1,103 @@
 {
-    "games": {
-        "challenge10Seconds": {
-            "title": "10 Sekundyň Synagyny Onlaýn Atyň",
-            "subtitle": "Sagat 10.0000 sekunda takyk saklaň",
-            "description": "Bu 10 sekundyň synag oýnyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň we siziň wagtyňyzyň içki sagady näçe ýakyn bolup bilýändigini görüň.",
-            "metadata": {
-                "title": "10 Sekundyň Synagyny Onlaýn Atyň: Sagady 10s Saklaň",
-                "description": "10 sekundyň sagat synagyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň, netijäňizi deňeşdiriň we nädip ýeňip biljekdigiňizi öwreniň.",
-                "keywords": "10 sekundyň synagy onlaýn, 10 sekundyň synagy, 10 sekunt synagy, on sekunt synagy, 10 sek synagy, 10 sekundyň sagat synag oýny, sagady takyk 10 sekunda saklaň, 10 sekunda saklaň oýny, wagtyňy sakla synag oýny, 10 sekundyň synag sagady, 10 sekundyň synag maşyny, 10 sekundyň synagyny nädip ýeňmeli, 10 sekunt oýny",
-                "ogTitle": "10 Sekundyň Synagyny Onlaýn Atyň: Sagady 10s Saklaň",
-                "ogDescription": "10 sekundyň sagat synagyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň, netijäňizi deňeşdiriň we nädip ýeňip biljekdigiňizi öwreniň."
-            },
-            "howToPlay": {
-                "description": "Düzgünler ýönekeý, ýöne kämil bolmak kyn: bu wagtyňy sakla synag oýny, bu ýerde siziň maksadyňyz 10.0000 sekunda mümkin boldugyça ýakyn saklamak.",
-                "step1": "10 sekundyň synag sagadyny başlamak üçin 'Sagat Başlat' düwmesine basyň.",
-                "step2": "Sanlara serediň (ýa-da gözüňizi ýumup sanalyň).",
-                "step3": "Sagat takyk 10.0000 sekunda ýetdi diýip pikir edeniňizde 'SAKLAMAK!' düwmesine basyň.",
-                "step4": "Netijäňizi barlap görüň. 0.01s-dan az bolsa ajaýyp hasaplanýar!",
-                "win": "KÄMIL! Takyk 10.0000s!",
-                "lose": "Ýakyn! Ýene synanyşyň.",
-                "nearMiss": "Gaty ýakyn! Birneme tapawutly!"
-            },
-            "benefits": {
-                "perception": {
-                    "title": "Wagt Duýgusy",
-                    "description": "Akylyňyzyň 'içki sagadyny' türlenýär. Ýokary derejeli türgenler we sazandalar köplenç ýokary wagtyň duýgusyna eýe bolýarlar."
-                },
-                "anticipation": {
-                    "title": "Garaşmak we Ritmi",
-                    "description": "Reaksiýa wagt alýandygy üçin, takyk 10s-da saklamak üçin, öňünden hereket etmeli. Bu çaklama mehanizmlerini türlenýär."
-                },
-                "focus": {
-                    "title": "Bir pursatlyk Üns",
-                    "description": "10s-a ýetýän soňky pursatda, ähli ünsi sowujylary aýyrmaly we diňe barmagyňyzyň hereketine üns bermeli."
-                }
-            },
-            "science": {
-                "title": "Wagt Duýgusy, Reaksiýa Wagty we Garaşmak",
-                "description": "Nämäň üçin takyk 10.0000-da saklamak şeýle kyn? Bu 10 sekundyň reaksiýa wagty synagy siziň akylyňyzyň içki sagadyna, enjamyň lagyna we garaşma dolandyryşyna baglydyr. Näme üçin millisekuntlar bilen ýitirýändigiňizi öwrenmek üçin jikme-jik analizimizi okaň.",
-                "blogArticleTitle": "Okaň: 10 Sekundyň Synagynyň Yzyndaky Ylym"
-            },
-            "faq": {
-                "what": {
-                    "question": "10 sekundyň synag oýny näme?",
-                    "answer": "10 sekundyň synagy, käwagt 10 sek synagy diýip gözlegde bolýar, bu sagady başlap, ony takyk 10.0000 sekunda saklamaga synanyşýan sagat oýnudy. 10 sekunda näçe ýakyn saklasaňyz, netijäňiz şonça gowy bolar."
-                },
-                "trick": {
-                    "question": "10 sekundyň synagyny nädip ýeňmeli?",
-                    "answer": "Iň gowy strategiýa diňe wizual reaksiýa bil baglamakdan ýüz öwürmekdir. Gözüňizi ýumiň, sazlaşykly sanalyň we reaksiýa wagtyňyzy we giriş lagyny göz öňünde tutup, sagat 10 sekunda ýetdi diýip pikir etmezden ozal basyň."
-                },
-                "machine": {
-                    "question": "Bu 10 sekundyň synag maşynyna meňzeýärmi?",
-                    "answer": "Hawa. Bu onlaýn wersiýa restoran ýa-da arkada 10 sekundyň synag maşynynyň şol bir ideýasyny täzeden döredýär: başlamak üçin bir gezek basyň, takyk 10 sekunda mümkin boldugyça ýakyn saklamak üçin ýene bir gezek basyň."
-                },
-                "reaction": {
-                    "question": "10 sekundyň synagy reaksiýa wagty synagymy?",
-                    "answer": "Bu bölekleýin reaksiýa wagty synagy, ýöne esasan garaşmak we wagt duýgusy oýnudy. Eger 10.0000 sekundy görene çenli garaşsaňyz, siziň reaksiýaňyzyň gijikmegi köplenç sizi gaty giç saklamaga sebäp bolýar."
-                },
-                "impossible": {
-                    "question": "10.0000 hakykatdanam mümkinmi?",
-                    "answer": "Hawa. Bu kyn, ýöne sazlaşyk we biraz bagt bilen mümkin. Her 1000 synanyşykdan 1-si kämil netije berýär."
-                },
-                "latency": {
-                    "question": "Enjamyň lagy möhümmikä?",
-                    "answer": "Hawa. Şonuň üçin bu oýun 'garaşmaklygy' hem synag edýär. Enjamyňyzyň giriş lagyny göz öňünde tutmak üçin öňünden basmak gerek."
-                }
-            },
-            "gameUI": {
-                "start": "Sagat Başlat",
-                "stop": "SAKLAMAK!",
-                "retry": "Ýene Synanyşyň",
-                "share": "Netijäni Paýlaş",
-                "shareCard": "Paýlaşma Kartasy",
-                "result": "Netije",
-                "diff": "Tapawut",
-                "leaderboardDescription": "Liderler tagtasy bu 10 sekundyň oýnunda 10.0000 sekunda iň ýakyn saklananlary sanawdan geçirýär. Tablisa her oýunçynyň hakyky saklanan wagtyny görkezýär.",
-                "shareText": "Men 10 Sekundyň Synagynda sagady {time}s-da sakladym we kämil 10.0000-dan bary-ýogy {diff}s ýitirdim. Meniň takyklygymy ýeňip bilersiňizmi?",
-                "cardTitle": "10 Sekundyň Synagy",
-                "cardSubtitle": "10.0000s maksat",
-                "precisionError": "Takyklyk Ýalňyşlygy",
-                "stopTime": "Saklanan Wagty",
-                "targetTime": "Maksat",
-                "rankLabel": "Dereje",
-                "cardTaunt": "Kämilden bary-ýogy {value}. Ýakynrak saklap bilersiňizmi?",
-                "cardRule": "Sagady başlaň, on sanalyň we takyk 10.0000 sekunda mümkin boldugyça ýakyn saklaň.",
-                "recentAttempts": "Soňky synanyşyklar: 10-a ýakyn bolmak ýokary",
-                "cardFooter": "{count} synanyşykda muny ýeňip görmek üçin synanyşyň",
-                "closerThanLast": "Soňky synanyşyňyzdan {value} ýakyn",
-                "fartherThanLast": "Soňky synanyşyňyzdan {value} uzak",
-                "firstTrackedAttempt": "Ilkinji barlanan synanyşyk",
-                "attemptsTracked": "{count} synanyşyk barlanyldy",
-                "rank": {
-                    "perfect": "Hudaý ýaly (0.000s)",
-                    "excellent": "Usda (<0.01s)",
-                    "great": "Gaty gowy (<0.05s)",
-                    "good": "Gowy (<0.1s)",
-                    "normal": "Synanyşmagy dowam ediň"
-                }
-            }
+  "games": {
+    "challenge10Seconds": {
+      "title": "10 Sekundyň Synagyny Onlaýn Atyň",
+      "subtitle": "Sagat 10.0000 sekunda takyk saklaň",
+      "description": "Bu 10 sekundyň synag oýnyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň we siziň wagtyňyzyň içki sagady näçe ýakyn bolup bilýändigini görüň.",
+      "metadata": {
+        "title": "10 Sekundyň Synagyny Onlaýn Atyň: Sagady 10s Saklaň",
+        "description": "10 sekundyň sagat synagyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň, netijäňizi deňeşdiriň we nädip ýeňip biljekdigiňizi öwreniň.",
+        "keywords": "10 sekundyň synagy onlaýn, 10 sekundyň synagy, 10 sekunt synagy, on sekunt synagy, 10 sek synagy, 10 sekundyň sagat synag oýny, sagady takyk 10 sekunda saklaň, 10 sekunda saklaň oýny, wagtyňy sakla synag oýny, 10 sekundyň synag sagady, 10 sekundyň synag maşyny, 10 sekundyň synagyny nädip ýeňmeli, 10 sekunt oýny",
+        "ogTitle": "10 Sekundyň Synagyny Onlaýn Atyň: Sagady 10s Saklaň",
+        "ogDescription": "10 sekundyň sagat synagyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň, netijäňizi deňeşdiriň we nädip ýeňip biljekdigiňizi öwreniň."
+      },
+      "howToPlay": {
+        "description": "Düzgünler ýönekeý, ýöne laýyk wagtynda bolmak kyn: bu wagtyňy sakla synag oýny, bu ýerde siziň maksadyňyz 10.0000 sekunda mümkin boldugyça ýakyn saklamak.",
+        "step1": "10 sekundyň synag sagadyny başlamak üçin 'Sagat Başlat' düwmesine basyň.",
+        "step2": "Sanlara serediň (ýa-da gözüňizi ýumup sanalyň).",
+        "step3": "Sagat takyk 10.0000 sekunda ýetdi diýip pikir edeniňizde 'SAKLAMAK!' düwmesine basyň.",
+        "step4": "Netijäňizi barlap görüň. 0.01s-dan az bolsa ajaýyp hasaplanýar!",
+        "win": "KÄMIL! Takyk 10.0000s!",
+        "lose": "Ýakyn! Ýene synanyşyň.",
+        "nearMiss": "Gaty ýakyn! Birneme tapawutly!"
+      },
+      "benefits": {
+        "perception": {
+          "title": "Wagt Duýgusy",
+          "description": "Akylyňyzyň 'içki sagadyny' türlenýär. Ýokary derejeli türgenler we sazandalar köplenç ýokary wagtyň duýgusyna eýe bolýarlar."
+        },
+        "anticipation": {
+          "title": "Garaşmak we Ritmi",
+          "description": "Reaksiýa wagt alýandygy üçin, takyk 10s-da saklamak üçin, öňünden hereket etmeli. Bu çaklama mehanizmlerini türlenýär."
+        },
+        "focus": {
+          "title": "Bir pursatlyk Üns",
+          "description": "10s-a ýetýän soňky pursatda, ähli ünsi sowujylary aýyrmaly we diňe barmagyňyzyň hereketine üns bermeli."
         }
+      },
+      "science": {
+        "title": "Wagt Duýgusy, Reaksiýa Wagty we Garaşmak",
+        "description": "Nämäň üçin takyk 10.0000-da saklamak şeýle kyn? Bu 10 sekundyň reaksiýa wagty synagy siziň akylyňyzyň içki sagadyna, enjamyň lagyna we garaşma dolandyryşyna baglydyr. Näme üçin millisekuntlar bilen ýitirýändigiňizi öwrenmek üçin jikme-jik analizimizi okaň.",
+        "blogArticleTitle": "Okaň: 10 Sekundyň Synagynyň Yzyndaky Ylym"
+      },
+      "faq": {
+        "what": {
+          "question": "10 sekundyň synag oýny näme?",
+          "answer": "10 sekundyň synagy, käwagt 10 sek synagy diýip gözlegde bolýar, bu sagady başlap, ony takyk 10.0000 sekunda saklamaga synanyşýan sagat oýnudy. 10 sekunda näçe ýakyn saklasaňyz, netijäňiz şonça gowy bolar."
+        },
+        "trick": {
+          "question": "10 sekundyň synagyny nädip ýeňmeli?",
+          "answer": "Iň gowy strategiýa diňe wizual reaksiýa bil baglamakdan ýüz öwürmekdir. Gözüňizi ýumiň, sazlaşykly sanalyň we reaksiýa wagtyňyzy we giriş lagyny göz öňünde tutup, sagat 10 sekunda ýetdi diýip pikir etmezden ozal basyň."
+        },
+        "machine": {
+          "question": "Bu 10 sekundyň synag maşynyna meňzeýärmi?",
+          "answer": "Hawa. Bu onlaýn wersiýa restoran ýa-da arkada 10 sekundyň synag maşynynyň şol bir ideýasyny täzeden döredýär: başlamak üçin bir gezek basyň, takyk 10 sekunda mümkin boldugyça ýakyn saklamak üçin ýene bir gezek basyň."
+        },
+        "reaction": {
+          "question": "10 sekundyň synagy reaksiýa wagty synagymy?",
+          "answer": "Bu bölekleýin reaksiýa wagty synagy, ýöne esasan garaşmak we wagt duýgusy oýnudy. Eger 10.0000 sekundy görene çenli garaşsaňyz, siziň reaksiýaňyzyň gijikmegi köplenç sizi gaty giç saklamaga sebäp bolýar."
+        },
+        "impossible": {
+          "question": "10.0000 hakykatdanam mümkinmi?",
+          "answer": "Hawa. Bu kyn, ýöne sazlaşyk we biraz bagt bilen mümkin. Her 1000 synanyşykdan 1-si kämil netije berýär."
+        },
+        "latency": {
+          "question": "Enjamyň lagy möhümmikä?",
+          "answer": "Hawa. Şonuň üçin bu oýun 'garaşmaklygy' hem synag edýär. Enjamyňyzyň giriş lagyny göz öňünde tutmak üçin öňünden basmak gerek."
+        }
+      },
+      "gameUI": {
+        "start": "Sagat Başlat",
+        "stop": "SAKLAMAK!",
+        "retry": "Ýene Synanyşyň",
+        "share": "Netijäni Paýlaş",
+        "shareCard": "Paýlaşma Kartasy",
+        "result": "Netije",
+        "diff": "Tapawut",
+        "leaderboardDescription": "Liderler tagtasy bu 10 sekundyň oýnunda 10.0000 sekunda iň ýakyn saklananlary sanawdan geçirýär. Tablisa her oýunçynyň hakyky saklanan wagtyny görkezýär.",
+        "shareText": "Men 10 Sekundyň Synagynda sagady {time}s-da sakladym we kämil 10.0000-dan bary-ýogy {diff}s ýitirdim. Meniň takyklygymy ýeňip bilersiňizmi?",
+        "cardTitle": "10 Sekundyň Synagy",
+        "cardSubtitle": "10.0000s maksat",
+        "precisionError": "Takyklyk Ýalňyşlygy",
+        "stopTime": "Saklanan Wagty",
+        "targetTime": "Maksat",
+        "rankLabel": "Dereje",
+        "cardTaunt": "Kämilden bary-ýogy {value}. Ýakynrak saklap bilersiňizmi?",
+        "cardRule": "Sagady başlaň, on sanalyň we takyk 10.0000 sekunda mümkin boldugyça ýakyn saklaň.",
+        "recentAttempts": "Soňky synanyşyklar: 10-a ýakyn bolmak ýokary",
+        "cardFooter": "{count} synanyşykda muny ýeňip görmek üçin synanyşyň",
+        "closerThanLast": "Soňky synanyşyňyzdan {value} ýakyn",
+        "fartherThanLast": "Soňky synanyşyňyzdan {value} uzak",
+        "firstTrackedAttempt": "Ilkinji barlanan synanyşyk",
+        "attemptsTracked": "{count} synanyşyk barlanyldy",
+        "rank": {
+          "perfect": "Hudaý ýaly (0.000s)",
+          "excellent": "Usda (<0.01s)",
+          "great": "Gaty gowy (<0.05s)",
+          "good": "Gowy (<0.1s)",
+          "normal": "Synanyşmagy dowam ediň"
+        }
+      }
     }
+  }
 }

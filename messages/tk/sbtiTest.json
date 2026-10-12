@@ -1,7 +1,7 @@
 {
   "sbtiTest": {
-    "title": "SBTI şahsyýet synagy",
-    "subtitle": "Wirusly SBTI şahsyýet synagyny geçiň we minutlarda keç-kyç meme stili netijäni alyň.",
+    "title": "SBTI häsiýet synagy",
+    "subtitle": "Wirusly SBTI häsiýet synagyny geçiň we minutlarda keç-kyç meme stili netijäni alyň.",
     "metadata": {
       "title": "SBTI synagy onlaýn – Mugt wirusly şahsyýet synagy",
       "description": "Wirusly SBTI synagyny mugt onlaýn geçiň, minutlarda paýlaşylýan şahsyýet netijesini alyň we ony MBTI stili wizual synaglary bilen deňeşdiriň.",
@@ -9,7 +9,7 @@
     },
     "structuredData": {
       "featureList": [
-        "Wirusly SBTI şahsyýet synagy",
+        "Wirusly SBTI häsiýet synagy",
         "Mobil-amatly onlaýn wizual synag akymy",
         "Paýlaşylýan şahsyýet netijesi plakatlary",
         "31-soragly meme stili şahsyýet wizual synagy",
@@ -34,7 +34,7 @@
     "embed": {
       "sectionTitle": "Asyl SBTI tejribesini oýnaň",
       "description": "Aşakdaky interaktiw wizual synag asyl sorag akymyny, gizlin bölümi we netije plakatlaryny saklaýar, ýöne daş-töwerekdäki sahypany tapmagy, okamagy we paýlaşmagy aňsatlaşdyrýar.",
-      "iframeTitle": "Gurlan SBTI şahsyýet synagy",
+      "iframeTitle": "Gurlan SBTI häsiýet synagy",
       "loading": "Asyl SBTI synagy ýüklenýär...",
       "loaded": "Asyl wirusly wizual synag gurlan",
       "openStandalone": "Ýekeje wersiýany aç"
@@ -42,7 +42,7 @@
     "reasons": {
       "shareable": {
         "title": "Ekran suratlary üçin gurlan",
-        "description": "Netije atlary we plakatlary dessarlyklarda we jemgyýetçilik ýazgylarynda derrew ýazylmagy üçin niýetlenendir, bu SBTI şahsyýet synagynyň şeýle çalt ýaýramagynyň uly sebäbidir."
+        "description": "Netije atlary we plakatlary dessarlyklarda we jemgyýetçilik ýazgylarynda derrew ýazylmagy üçin niýetlenendir, bu SBTI häsiýet synagynyň şeýle çalt ýaýramagynyň uly sebäbidir."
       },
       "mbti": {
         "title": "Adamlar ony MBTI ýaly gözleýär",
@@ -70,12 +70,12 @@
     "faq": {
       "title": "SBTI FAQ",
       "what": {
-        "question": "SBTI şahsyýet synagy näme?",
+        "question": "SBTI häsiýet synagy näme?",
         "answer": "SBTI gysga wideolar, ekran suratlary we paýlaşylýan netije plakatlary arkaly ýaýran wirusly, güýmenje-önçi şahsyýet wizual synagydyr. Çalt onlaýn şahsyýet synagy ýaly hereket edýär, ýöne ýazuw stili adaty resmi wizual synagdan has meme agyrdyr."
       },
       "entry": {
-        "question": "SBTI şahsyýet synagyny nireden başlaryn?",
-        "answer": "SBTI şahsyýet synagyny göni bu sahypada başlap bilersiňiz. Vizual synagy açyň, soraglara yzygiderli jogap beriň we tamamlanyňyzda saýt siziň üçin netije plakatyny döreder."
+        "question": "SBTI häsiýet synagyny nireden başlaryn?",
+        "answer": "SBTI häsiýet synagyny göni bu sahypada başlap bilersiňiz. Vizual synagy açyň, soraglara yzygiderli jogap beriň we tamamlanyňyzda saýt siziň üçin netije plakatyny döreder."
       },
       "vsMbti": {
         "question": "SBTI MBTI bilen birmeňzeşmi?",

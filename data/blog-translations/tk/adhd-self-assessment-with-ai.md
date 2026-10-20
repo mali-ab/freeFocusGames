@@ -90,6 +90,6 @@ By using this structured prompt, you can leverage an LLM to systematically go th
 Improving focus is a journey, and brain-training games can be a fun and effective part of it. Here are a few games on our site that are specifically designed to challenge and improve your attention skills:
 
 - **[Dual N-Back](/games/dual-n-back)**: Işjeň ýady we bölünen ünsi ösdürýän nusgawy beýni türgenleşigi.
-- **[Yzygiderlik tablisasy](/schulte-table)**: Görüş arkaly gözlegi, gapdal görüşi we ünsi saklamak ukybyny ösdürmek üçin amatly.
+- **[Yzygiderlilik tablisasy](/schulte-table)**: Görüş arkaly gözlegi, gapdal görüşi we ünsi saklamak ukybyny ösdürmek üçin amatly.
 - **[Strup täsiri synagy](/stroop-effect-test)**: Gapma-garşy maglumatlaryň arasyndaky çaknyşygy çözmegi talap edip, saýlama ünsüňizi we aň-bilim çeýeligiňizi synaýar.
 - **[Reaksiýa wagty synagy](/reaction-time)**: Görüş alamatlaryna çalt jogap berip, ünsüňizi we jemlenmegiňizi ýiteldiň.

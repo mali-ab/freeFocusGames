@@ -25,8 +25,7 @@
       "spatial-memory": "Giňişleýin ýat",
       "adhd-games": "Uly adamlar üçin ADHD oýunlary",
       "brain-games-for-kids": "Çagalar üçin üns oýunlary",
-      "relaxation": "Rahatlama",
-      "personality-tests": "Wirusly şahsyýet synaglary"
+      "relaxation": "Rahatlama"
     },
     "categoryDescriptions": {
       "working-memory": "Maglumaty wagtlaýyn saklamak we ony dolandyrmak ukybyny pugtlandyrýan oýunlar. Güýçli işjeň ýat talyblara görkezmelere ýat tutmagyna, hünärmenlere köp wezipäni bir wagtyň özünde ýerine ýetirmegine we hemmelere söhbetdeşligi gowy aýlamagyna kömek edýär.",
@@ -39,8 +38,7 @@
       "spatial-memory": "Giňişleýin maglumaty ýatda saklamak we dolandyrmak ukybyny pugtlandyrýan oýunlar. Güýçli giňişleýin ýat nawigasiýa, zatlaryň ýerini ýatda saklamak, kartalary düşünmek we 3D gurluşlary göz öňüne getirmek bilen kömek edýär. Bu endik awtoulag sürmek, zatlary tapmak, görkezmelere eýerýäris ýaly işler we STEM ugurlarynda üstünlik gazanmak üçin zerurdyr.",
       "adhd-games": "ADHD alamatlaryny dolandyrmaga ylmy taýdan subut edilen oýunlaryň saýlanan toplumy. Bu maşklar işjeň ýady, togtadyş gözegçiligini we dowamly üns — ADHD-de köplenç ejizelenýän esasy ýerine ýetiriji funksiýalary gönükdirýär.",
       "brain-games-for-kids": "Çagalaryň kognitiw ösüşi üçin niýetlenen gyzykly we barlanyp bilinýän üns oýunlary. Bu oýunlar üns aralygyny gowulandyrmaga, görkezmeleri ýerine ýetirmäge we hereket gözegçiligini gyzykly, oýun görnüşinde gowulandyrmaga kömek edýär.",
-      "relaxation": "Gollanma demgysma we üns merkezleşdirme maşklary arkaly rahatladyrma we stresi azaltmak üçin oýunlar. Bu tejribeler vagus nerwini oýarýar, ýürek urşy üýtgeýjiligini (HRV) gowulandyrýar we bedene asuda, dikeldiji ýagdaýa geçmäge kömek edýär.",
-      "personality-tests": "Paýlaşylýan, ilkinji nobatda gyzykly onlaýn şahsyýet synaglary we wizual synag tejribeleri. Bu kategoriýa adamlar sbti synag, şahsyýet synagy ýa-da mbti stili wirusly wizual synaglary ýaly çalt, gyzykly netijeleri gözleýänlerinde peýdalydyr."
+      "relaxation": "Gollanma demgysma we üns merkezleşdirme maşklary arkaly rahatladyrma we stresi azaltmak üçin oýunlar. Bu tejribeler vagus nerwini oýarýar, ýürek urşy üýtgeýjiligini (HRV) gowulandyrýar we bedene asuda, dikeldiji ýagdaýa geçmäge kömek edýär."
     },
     "keywords": {
       "working-memory": {
@@ -174,18 +172,6 @@
         "calm down techniques": "Asudalyk usullary",
         "anxiety relief exercises": "Aladany azaltmak maşklary",
         "mindfulness games": "Üns merkezleşdirme oýunlary"
-      },
-      "personality-tests": {
-        "sbti personality test": "SBTI häsiýet synagy",
-        "sbti test": "SBTI synag",
-        "sbti mbti": "SBTI MBTI",
-        "personality test": "Şahsyýet synagy",
-        "viral personality quiz": "Wirusly şahsyýet wizual synagy",
-        "mbti style test": "MBTI stili synag",
-        "online personality quiz": "Onlaýn şahsyýet wizual synagy",
-        "fun personality test": "Güýmenje şahsyýet synagy",
-        "shareable personality result": "Paýlaşylýan şahsyýet netijesi",
-        "internet personality test": "Internet şahsyýet synagy"
       }
     },
     "categoryNotFound": "Kategoriýa tapylmady",

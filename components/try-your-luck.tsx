@@ -12,7 +12,6 @@ import { Button } from "@/components/ui/button";
 const HOMEPAGE_POPULAR_GAME_IDS = [
     "rotating-schulte-table",
     "dual-n-back",
-    "sbti-test",
     "reaction-time",
     "stroop-effect-test",
     "frog-memory-leap",

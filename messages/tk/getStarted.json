@@ -207,7 +207,7 @@
       ]
     },
     "stroopTest": {
-      "title": "Kognitiw çeýelik synagy",
+      "title": "Aň-bilim çeýeligi synagy",
       "subtitle": "Üns gözegçiligiňizi synaň",
       "instructions": "Reňkli teksti görende, sözüniň manysyny däl-de, tekstiň reňkini basyň",
       "example": "Mysal: Gök reňkli 'gök' sözüni görende, 'gök' düwmesini basyň",
@@ -234,19 +234,19 @@
       "analysisIntro": "Häzirki synaglar arkaly,",
       "gameNames": {
         "dualNBack": "Dual N-Back öwretme",
-        "stroopEffect": "Stroop effekti synagy",
+        "stroopEffect": "Strup täsiri synagy",
         "largerNumber": "San deňeşdirmesi",
         "frogMemoryLeap": "Gurbağa ýat böküşi",
         "reactionTime": "Reaksiýa wagty öwretme",
-        "schulteTable": "Schulte gözenegi"
+        "schulteTable": "Yzygiderlik gözenegi"
       },
       "recommendations": {
         "dualNBack": "Işjeň ýadyň çäklerini barlamak üçin ideal",
-        "stroopEffect": "Kognitiw tizligi we çaknyşyk çözgüdini gowulandyrmak üçin gowy",
+        "stroopEffect": "Aň-bilim çeýeligini we maglumat çaknyşygyny çözmek ukybyny ösdürmek üçin amatly",
         "largerNumber": "Esasy gaýtadan işleme tizligi öwretme üçin ideal",
         "frogMemoryLeap": "Başlamak üçin gyzykly ýat öwretme oýuny",
         "reactionTime": "Esasy reaksiýa öwretme binýady",
-        "schulteTable": "Wizual üns öwretme üçin ajaýyp"
+        "schulteTable": "Görüş ünsüni türgenleşdirmek üçin amatly"
       }
     },
     "testAnalysis": {

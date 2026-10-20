@@ -1262,14 +1262,18 @@
         "bestTime": "Best Time",
         "shareTitle": "My Stroop Effect Test Results",
         "shareText": "I completed the Stroop Effect Test with {accuracy}% accuracy, {avgReactionTime} average reaction time, and a {stroopEffect} Stroop effect.",
-        "keyboardShortcut": "Use keyboard shortcuts: 1-6 for colors",
+        "keyboardShortcut": "Use keyboard shortcuts: 1-9 and 0 for colors",
         "colors": {
           "red": "RED",
           "blue": "BLUE",
           "green": "GREEN",
           "yellow": "YELLOW",
           "purple": "PURPLE",
-          "pink": "PINK"
+          "pink": "PINK",
+          "orange": "ORANGE",
+          "cyan": "CYAN",
+          "brown": "BROWN",
+          "black": "BLACK"
         }
       }
     },
@@ -1953,11 +1957,6 @@
           "truck": "Truck"
         }
       }
-    },
-    "sbtiTest": {
-      "title": "SBTI Personality Test",
-      "description": "Play the viral SBTI personality test online and get a shareable result poster in minutes. A fast meme-style quiz for people searching sbti test, sbti mbti, and personality test trends.",
-      "featuredDescription": "Take the viral SBTI test and get your result in minutes. A fast personality quiz built for quick sharing with friends."
     }
   }
 }

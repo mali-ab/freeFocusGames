@@ -23,6 +23,10 @@ export const COLORS: ColorConfig[] = [
   { name: 'yellow', value: '#F59E0B', key: '4', keyCode: 'Digit4' },
   { name: 'purple', value: '#8B5CF6', key: '5', keyCode: 'Digit5' },
   { name: 'pink', value: '#EC4899', key: '6', keyCode: 'Digit6' },
+  { name: 'orange', value: '#F97316', key: '7', keyCode: 'Digit7' },
+  { name: 'cyan', value: '#06B6D4', key: '8', keyCode: 'Digit8' },
+  { name: 'brown', value: '#92400E', key: '9', keyCode: 'Digit9' },
+  { name: 'black', value: '#111827', key: '0', keyCode: 'Digit0' },
 ];
 
 export const GAME_CONFIG: GameConfig = {
@@ -60,9 +64,10 @@ export enum GameState {
 
 export const generateTrial = (colors: ColorConfig[], isCongruent: boolean): StroopTrial => {
   const wordColor = colors[Math.floor(Math.random() * colors.length)];
-  const displayColor = isCongruent ? 
-    wordColor : 
-    colors[Math.floor(Math.random() * colors.length)];
+  const possibleDisplayColors = isCongruent
+    ? [wordColor]
+    : colors.filter((color) => color.name !== wordColor.name);
+  const displayColor = possibleDisplayColors[Math.floor(Math.random() * possibleDisplayColors.length)];
   
   return {
     word: wordColor.name,
@@ -70,4 +75,4 @@ export const generateTrial = (colors: ColorConfig[], isCongruent: boolean): Stro
     isCongruent,
     correctAnswer: displayColor.name,
   };
-}; 
+};

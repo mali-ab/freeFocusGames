@@ -134,25 +134,6 @@ export const games: Game[] = [
       "adhd-games",
     ],
   },
-  {
-    id: "sbti-test",
-    title: "SBTI Personality Test",
-    slug: "sbti-test",
-    preview: (
-      <ImagePreview
-        src="/games/sbti-test/image/OJBK.png"
-        alt="SBTI preview"
-        fit="contain"
-        aspectClassName="aspect-[4/5]"
-        className="bg-white p-4 md:p-6"
-        sizes="(max-width: 768px) 60vw, 28vw"
-      />
-    ),
-    categories: [
-      "personality-tests",
-    ],
-  },
-
   // Add more games as you create them
 ];
 
@@ -180,7 +161,6 @@ export function getGameCategories(gameId: string): string[] {
 // 获取热门游戏（手动精选的经典游戏）
 export function getFeaturedGames(): Game[] {
   const featuredGameIds = [
-    'sbti-test',
     'schulte-table',
     'block-memory-challenge',
     'memory-matching-game',
@@ -204,7 +184,6 @@ export function getLatestGames(limit: number = 3): Game[] {
   const latestGameIds = [
     'rotating-schulte-table', // Rotating Schulte Table - Newest
     'double-decision', // Double Decision Game - Newest
-    'sbti-test',        // SBTI Test - Trending
     'memory-matching-game', // Memory Matching Game - Newest
     'fish-trace',        // Fish Trace
   ];

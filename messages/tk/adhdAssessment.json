@@ -92,15 +92,15 @@
       "gameRecommendationsSubtitle": "Baha bermek netijeleriňize esaslanýar, bu oýunlar ünsi we jemlemegi güýçlendirmäge kömek edip biler:",
       "gameNames": {
         "dual-n-back": "Iki esse N-yza tälimi",
-        "stroop-effect-test": "Stroop täsiriniň synagy",
-        "schulte-table": "Schulte stol",
+        "stroop-effect-test": "Strup täsiri synagy",
+        "schulte-table": "Yzygiderlik tablisasy",
         "larger-number": "Sanlary deňeşdirmek",
         "reaction-time": "Reaksiýa wagty synagy"
       },
       "gameDescriptions": {
         "dual-n-back": "Işjeň ýady we ýerine ýetiriji ünsi dolandyrmagy güýçlendirmek",
-        "stroop-effect-test": "Aňly täsiriniň we päsgelçilik kontrolyny gowulandyrmak",
-        "schulte-table": "Görkezme ünsi we jemlemegi güýçlendirmek",
+        "stroop-effect-test": "Aň-bilim çeýeligini we päsgel berýän reaksiýany saklamak ukybyny ösdürýär",
+        "schulte-table": "Görüş ünsüni we ünsi jemlemek ukybyny ösdürýär",
         "larger-number": "Ýerine ýetiriş tizligini we jikme-jiklere ünsi ýitileşdirmek",
         "reaction-time": "Jogap bermek we ünsi jemlemek üçin päsgelçilikleri ösdürmek"
       },

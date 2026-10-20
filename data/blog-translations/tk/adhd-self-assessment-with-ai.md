@@ -7,7 +7,18 @@ author:
   name: "Üns Oýunlary Team"
   picture: "/authors/team.png"
 tags: ["ADHD", "AI", "Self-Assessment", "Mental Health", "Vanderbilt Scale"]
-keywords: ["vanderbilt adhd rating scale", "vanderbilt scale adhd", "scoring the vanderbilt adhd rating scale", "adhd self-test", "ai mental health", "adhd rs iv scale", "child adhd self-report scale", "adhd self report scale", "adult adhd self report scale"]
+keywords:
+  [
+    "vanderbilt adhd rating scale",
+    "vanderbilt scale adhd",
+    "scoring the vanderbilt adhd rating scale",
+    "adhd self-test",
+    "ai mental health",
+    "adhd rs iv scale",
+    "child adhd self-report scale",
+    "adhd self report scale",
+    "adult adhd self report scale",
+  ]
 ---
 
 In the age of artificial intelligence, large language models (LLMs) can be powerful tools for organizing information and even guiding users through complex questionnaires. One such application is conducting a preliminary self-assessment for Attention-Deficit/Hyperactivity Disorder (ADHD) using established diagnostic tools like the **Vanderbilt ADHD Diagnostic Rating Scale**.
@@ -41,9 +52,8 @@ You are to act as a professional interview assistant, guiding the user through a
 
     Below are the questions from the Vanderbilt ADHD Diagnostic Rating Scale (Parent Version):
     <scale_questions>
-    
-    **Inattention**
 
+    **Inattention**
     1. Fails to give close attention to details or makes careless mistakes in schoolwork.
     2. Has difficulty sustaining attention in tasks or play activities.
     3. Does not seem to listen when spoken to directly.
@@ -53,9 +63,8 @@ You are to act as a professional interview assistant, guiding the user through a
     7. Loses things necessary for tasks or activities (e.g., toys, school assignments, pencils, books).
     8. Is easily distracted by extraneous stimuli.
     9. Is forgetful in daily activities.
-    
-    **Hyperactivity/Impulsivity**
 
+    **Hyperactivity/Impulsivity**
     10. Fidgets with hands or feet or squirms in seat.
     11. Leaves seat in classroom or in other situations in which remaining seated is expected.
     12. Runs about or climbs excessively in situations in which it is inappropriate.
@@ -65,7 +74,8 @@ You are to act as a professional interview assistant, guiding the user through a
     16. Blurts out answers before questions have been completed.
     17. Has difficulty awaiting turn.
     18. Interrupts or intrudes on others (e.g., butts into conversations or games).
-    </scale_questions>
+        </scale_questions>
+
 5.  **Record and Summarize**: After the user has answered all the core questions, organize all of their responses into a clear, categorized list titled "Vanderbilt Scale Behavioral Observation Record." At the beginning of the summary, include the subject and age information provided by the user earlier.
 6.  **Provide Summary and Recommendations**: After completing the record summary, you must provide an objective summary and recommendations based on the content. This should include potential tendencies in areas like inattention, hyperactivity, and impulsivity, as well as subsequent actions that can be taken, such as whether to consult a professional doctor for further advice. Please output the summary and recommendations within `<summary_recommendations>` tags.
 
@@ -79,7 +89,7 @@ By using this structured prompt, you can leverage an LLM to systematically go th
 
 Improving focus is a journey, and brain-training games can be a fun and effective part of it. Here are a few games on our site that are specifically designed to challenge and improve your attention skills:
 
-*   **[Dual N-Back](/games/dual-n-back)**: A classic brain-training task that enhances working memory and divided attention.
-*   **[Schulte Table](/schulte-table)**: Perfect for improving visual search, peripheral vision, and attention span.
-*   **[Stroop Effect Test](/stroop-effect-test)**: This game challenges your selective attention and cognitive flexibility by forcing you to resolve conflicting information.
-*   **[Reaction Time Test](/reaction-time)**: Sharpen your focus and concentration by reacting quickly to visual cues.
+- **[Dual N-Back](/games/dual-n-back)**: Işjeň ýady we bölünen ünsi ösdürýän nusgawy beýni türgenleşigi.
+- **[Yzygiderlik tablisasy](/schulte-table)**: Görüş arkaly gözlegi, gapdal görüşi we ünsi saklamak ukybyny ösdürmek üçin amatly.
+- **[Strup täsiri synagy](/stroop-effect-test)**: Gapma-garşy maglumatlaryň arasyndaky çaknyşygy çözmegi talap edip, saýlama ünsüňizi we aň-bilim çeýeligiňizi synaýar.
+- **[Reaksiýa wagty synagy](/reaction-time)**: Görüş alamatlaryna çalt jogap berip, ünsüňizi we jemlenmegiňizi ýiteldiň.

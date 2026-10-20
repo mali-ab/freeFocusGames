@@ -2,13 +2,13 @@
   "workingMemoryGuide": {
     "metaTitle": "Işjeň ýat boýunça iň soňky gollanma: Ylmy öwretme we kognitiw gowulandyrma",
     "metaDescription": "Işjeň ýadyň newroşynasyna çuňňur aralaşyň, Dual N-Back ýaly ylmy taýdan barlanan öwretme usullaryny öwreniň we ýadyňyzy, ünsüňizi we suwuk zehiniňizi gowulandyrmak üçin giňişleýin meýilnamany alyň.",
-    "metaKeywords": "işjeň ýat, kognitiw öwretme, dual n-back, schulte tablisa, ýady gowulandyrmak, üns öwretme, newroplastiklik, suwuk zehin, kognitiw gowulandyrma, üns",
+    "metaKeywords": "işjeň ýat, aň-bilim türgenleşigi, dual n-back, Yzygiderlik tablisasy, ýady gowulandyrmak, üns türgenleşigi, neýroplastiklik, suwuk zehin, aň-bilim ukyplaryny ösdürmek, üns",
     "ogTitle": "Işjeň ýat boýunça iň soňky gollanma: Ylmdan amala çenli doly kognitiw gowulandyrma meýilnamasy",
     "ogDescription": "Işjeň ýadyň syrlaryny öwreniň, Jaeggi we beýlekileriň döwrebap barlaglary bilen goldanylýan öwretme usullaryny öwreniň we ylma esaslanýan oýunlar we durmuş stili optimallaşdyrmalary arkaly kognitiw ukyplaryňyzy ulgamlaýyn güýçlendiriň.",
     "title": "Işjeň ýat boýunça iň soňky gollanma: Kognitiw ukyplaryňyzy ylmy taýdan gowulandyryň",
     "subtitle": "Iň soňky newroşynas barlaglaryna esaslanýar, bu gollanma işjeň ýadyňyzy gowulandyrmak üçin nazary esaslardan amaly maşklara çenli doly meýilnamany berýär, okaýyşda, işde we durmuşda öndürijiligiňizi artdyrmaga kömek edýär.",
     "ctaStart": "Dual N-Back öwretmesini başla",
-    "ctaTry": "Schulte tablisasyny syna",
+    "ctaTry": "Yzygiderlik tablisasyny syna",
     "breadcrumbHome": "Baş sahypa",
     "breadcrumbCurrent": "Işjeň ýat gollanmasy",
     "baddeleyDiagram": {
@@ -341,7 +341,7 @@
         "benefit4": "Köptasks optimallaşdyryldy"
       },
       "schulte": {
-        "description": "Walter Schulte-iň newropsihologik usulyna esaslanýan wizual üns öwretmesi. Periferiki görme ösdürip, okamak tizligini 28% we üns aralygyny 47% artdyrýar.",
+        "description": "Walter Yzygiderlik-iň newropsihologik usulyna esaslanýan wizual üns öwretmesi. Periferiki görme ösdürip, okamak tizligini 28% we üns aralygyny 47% artdyrýar.",
         "benefit1": "+28% okamak tizligi",
         "benefit2": "+47% üns aralygy",
         "benefit3": "Uzalýan üns wagty",
@@ -398,8 +398,8 @@
         "difficulty": "Orta"
       },
       "article2": {
-        "title": "Schulte tablisalarynyň ylmy: Wizual üns öwretmesiniň newral esaslary",
-        "description": "Posner-iň üns torlary teoriýasyna we 50 ýyllyk newropsihologik barlaglara esaslanýar, bu makala Schulte tablisalarynyň periferiki görme öwretmesi arkaly okamak tizligini 28% we üns aralygyny 47% nädip artdyrýandygyny düşündirýär.",
+        "title": "Yzygiderlik tablisalarynyň ylmy: Wizual üns öwretmesiniň newral esaslary",
+        "description": "Posner-iň üns torlary teoriýasyna we 50 ýyllyk newropsihologik barlaglara esaslanýar, bu makala Yzygiderlik tablisalarynyň periferiki görme öwretmesi arkaly okamak tizligini 28% we üns aralygyny 47% nädip artdyrýandygyny düşündirýär.",
         "highlights": "Posner-iň tor teoriýasy,+28% okamak tizligi,Periferiki görme ösüşi,Kliniki goşundy",
         "tag": "Wizual üns",
         "readTime": "12 minut okamak",
@@ -415,10 +415,10 @@
       }
     },
     "schulte": {
-      "title": "👁️ Schulte tablisa öwretmesi: Wizual ünsüň ylmy pugtalandyrylmagy",
+      "title": "👁️ Yzygiderlik tablisa öwretmesi: Wizual ünsüň ylmy pugtalandyrylmagy",
       "posnerTheory": {
         "title": "Wizual ünsüň ylmy: Posner-iň üns torlarynyň üçligi",
-        "p1": "Kognitiw newrolog Michael Posner adamyň üns ulgamynyň üç sany garaşsyz, ýöne hyzmatdaşlyk edýän torlardan ybaratdygyny açdy. Schulte tablisa öwretmesi üç toruny hem bir wagtyň özünde pugtlandyryp, wizual ünsde toplumlaýyn gowulandyrma gazanyp biler.",
+        "p1": "Kognitiw newrolog Michael Posner adamyň üns ulgamynyň üç sany garaşsyz, ýöne hyzmatdaşlyk edýän torlardan ybaratdygyny açdy. Yzygiderlik tablisa öwretmesi üç toruny hem bir wagtyň özünde pugtlandyryp, wizual ünsde toplumlaýyn gowulandyrma gazanyp biler.",
         "card1": {
           "title": "Duýduryş toru",
           "p": "Duýduryş ýagdaýyny saklaýar, oýandyrmalara jogap bermäge taýýar.",
@@ -437,7 +437,7 @@
       },
       "readingSpeed": {
         "title": "Okamak tizligini gowulandyrmak: Amaly barlag maglumatlary",
-        "p1": "Köp barlaglar Schulte tablisa öwretmesiniň okamak tizligini düýpgöter gowulandyryandygyny tassyklady. Esasy mehanizm netijeli wizual meýdanyň giňelmegi we göz hereket nusgalarynyň optimallaşdyrylmagydyr.",
+        "p1": "Köp barlaglar Yzygiderlik tablisa öwretmesiniň okamak tizligini düýpgöter gowulandyryandygyny tassyklady. Esasy mehanizm netijeli wizual meýdanyň giňelmegi we göz hereket nusgalarynyň optimallaşdyrylmagydyr.",
         "russiaStudy": {
           "title": "📈 Rus barlagyndan maglumatlar (8 hepdelik öwretme)",
           "visual": {
@@ -451,7 +451,7 @@
         },
         "psychologyStudy": {
           "title": "🎓 Bilim psihologiýasy barlagy (200 orta mekdep talyby)",
-          "p1": "Schulte tablisa öwretmesini gündelik okuw meýilnamasyna birleşdirýän tejribäniň netijeleri:",
+          "p1": "Yzygiderlik tablisa öwretmesini gündelik okuw meýilnamasyna birleşdirýän tejribäniň netijeleri:",
           "list": "<li>• Okamak suwuklygynda düýpgöter gowulandyrma, ortaça 1,5 synp derejesinde artma.</li><li>• Ähli derslerde ortaça 15-20 bal artyly bilen akademik öndürijiligiň toplumlaýyn gowulandyrylmagy.</li><li>• Sapakda üns 60% gowulandy.</li>"
         }
       }
@@ -493,13 +493,13 @@
         "beginner": {
           "title": "🌱 Başlangyç meýilnama",
           "audience": "Ilkinji gezek kognitiw öwredijiler, üns kynçylyklary bolan adamlar ýa-da aýdyň ýat peselmesi bolan adamlar.",
-          "focus": "<li>• Schulte tablisa (5×5): günde 10 minut</li><li>• Dual 1-Back: günde 15 minut</li><li>• Gysga möhletli ýat synagy: hepde 2 gezek</li>",
+          "focus": "<li>• Yzygiderlik tablisa (5×5): günde 10 minut</li><li>• Dual 1-Back: günde 15 minut</li><li>• Gysga möhletli ýat synagy: hepde 2 gezek</li>",
           "effect": "4-6 hepdeden soň üns aralygynyň 50% artmagy."
         },
         "advanced": {
           "title": "⚡ Ösen meýilnama",
           "audience": "Öwretme tejribesi bolan, ýokary netijelilik gowulandyrmasyny gözleýän ýa-da hünär talaplary bolan adamlar.",
-          "focus": "<li>• Dual 2-4 Back: günde 20 minut</li><li>• Köptasks Schulte: günde 15 minut</li><li>• Çylşyrymly ýat wezipeleri: günde 10 minut</li>",
+          "focus": "<li>• Dual 2-4 Back: günde 20 minut</li><li>• Köptasks Yzygiderlik: günde 15 minut</li><li>• Çylşyrymly ýat wezipeleri: günde 10 minut</li>",
           "effect": "6-8 hepdeden soň işjeň ýat kuwwatynyň 30% artmagy."
         },
         "expert": {

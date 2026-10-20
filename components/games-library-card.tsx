@@ -12,7 +12,6 @@ const GAME_COVERS: Record<string, { src: string; fit?: "cover" | "contain" }> = 
     "larger-number": { src: "/games/larger-number.png" },
     "reaction-time": { src: "/games/reaction-time.png" },
     "stroop-effect-test": { src: "/games/stroop-effect.png" },
-    "sbti-test": { src: "/games/sbti-test/image/OJBK.png", fit: "contain" },
 };
 
 interface GamesLibraryCardProps {

@@ -1,14 +1,14 @@
 {
   "games": {
     "challenge10Seconds": {
-      "title": "10 Sekundyň Synagyny Onlaýn Atyň",
+      "title": "10 sekunt wagtynda bas",
       "subtitle": "Sagat 10.0000 sekunda takyk saklaň",
       "description": "Bu 10 sekundyň synag oýnyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň we siziň wagtyňyzyň içki sagady näçe ýakyn bolup bilýändigini görüň.",
       "metadata": {
-        "title": "10 Sekundyň Synagyny Onlaýn Atyň: Sagady 10s Saklaň",
+        "title": "10 sekunt wagtynda bas: Sagady 10s Saklaň",
         "description": "10 sekundyň sagat synagyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň, netijäňizi deňeşdiriň we nädip ýeňip biljekdigiňizi öwreniň.",
         "keywords": "10 sekundyň synagy onlaýn, 10 sekundyň synagy, 10 sekunt synagy, on sekunt synagy, 10 sek synagy, 10 sekundyň sagat synag oýny, sagady takyk 10 sekunda saklaň, 10 sekunda saklaň oýny, wagtyňy sakla synag oýny, 10 sekundyň synag sagady, 10 sekundyň synag maşyny, 10 sekundyň synagyny nädip ýeňmeli, 10 sekunt oýny",
-        "ogTitle": "10 Sekundyň Synagyny Onlaýn Atyň: Sagady 10s Saklaň",
+        "ogTitle": "10 sekunt wagtynda bas: Sagady 10s Saklaň",
         "ogDescription": "10 sekundyň sagat synagyny onlaýn oýnaň. Sagady başlaň, takyk 10.0000 sekunda saklaň, netijäňizi deňeşdiriň we nädip ýeňip biljekdigiňizi öwreniň."
       },
       "howToPlay": {
@@ -550,8 +550,8 @@
           "description": "Okuw sessiýalary, üns bloklary we wagt dolandyryş tejribesi üçin ýönekeý Pomodoro wagtyny ulanyň."
         },
         "schulteTable": {
-          "title": "Schulte tablisasy onlaýn",
-          "description": "Onlaýn Schulte tablisamyz bilen wizual barlagy, periferiki görmäni we okamak tizligini maşk ediň."
+          "title": "Yzygiderlik tablisasy onlaýn",
+          "description": "Onlaýn Yzygiderlik tablisamyz bilen wizual barlagy, periferiki görmäni we okamak tizligini maşk ediň."
         },
         "adultAdhdAssessment": {
           "title": "Uly adamlaryň ADHD öz-bahalandyrmasy",
@@ -586,7 +586,7 @@
       "focus": {
         "title": "Ünsi güýçlendirmek",
         "description": "Jemlenmek we distraksiýalara garşy durmak ukybyňyzy gowulandyryň.",
-        "item1": "Schulte tablisasy (10 minut)",
+        "item1": "Yzygiderlik tablisasy (10 minut)",
         "item2": "Balyk yzy (5 minut)",
         "item3": "Has uly san (5 minut)"
       },
@@ -602,7 +602,7 @@
         "description": "Üýtgeýän wezipalara we düzgünlere uýgunlaşmak ukybyňyzy güýçlendiriň.",
         "item1": "Mahjong Dual N-Back (10 minut)",
         "item2": "Has uly san (5 minut)",
-        "item3": "Schulte tablisasy (5 minut)"
+        "item3": "Yzygiderlik tablisasy (5 minut)"
       }
     },
     "metaTitle": "Üns Oýunlary",
@@ -611,13 +611,13 @@
     "ogTitle": "Mugt onlaýn üns oýunlary",
     "ogDescription": "Üns, ýat, reaksiýa wagty, wizual üns we akyl çeýeligi üçin mugt brauzer oýunlaryny öwreniň.",
     "schulteTable": {
-      "title": "Schulte tablisasy",
+      "title": "Yzygiderlik tablisasy",
       "subtitle": "Mugt onlaýn wizual üns we çalt okamak öwretmesi",
-      "description": "Mugt onlaýn Schulte tablisamyz bilen wizual üns, periferiki görme, okamak tizligi we jemlenmäni öwrediň. Sanlary yzygiderlilikde tapyň we minutlarda barlag tizligiňizi gowulandyryň.",
+      "description": "Mugt onlaýn Yzygiderlik tablisamyz bilen wizual üns, periferiki görme, okamak tizligi we jemlenmäni öwrediň. Sanlary yzygiderlilikde tapyň we minutlarda barlag tizligiňizi gowulandyryň.",
       "howToPlay": "1-25 sanlaryny ýokaryk tertipde mümkin boldugyça çalt tapyň we basyň. Her sany barlamak ýerine, periferiki görmäňizi ulanmaga synanyşyň!",
       "speedStandards": {
         "title": "Tizlik standartlary",
-        "intro": "5x5 (1-25) Schulte tablisa synagy üçin salgylanma standartlary:",
+        "intro": "5x5 (1-25) Yzygiderlik tablisa synagy üçin salgylanma standartlary:",
         "children": {
           "title": "Çagalar (6 ýaş):",
           "brilliant": "Ajaýyp: 60 sekunt ýa-da az",
@@ -634,17 +634,17 @@
       },
       "watchDemo": "Demo görmek",
       "demo": "Görkeziliş",
-      "metaTitle": "Mugt onlaýn Schulte tablisasy: Wizual üns we okamak tizligi",
-      "metaDescription": "Wizual üns, periferiki görme we okamak tizligini öwretmek üçin bu mugt onlaýn Schulte tablisasyny ulanyň. Üns maşky, çalt okamak we ADHD-amatly üns öwretmesi üçin ýönekeý Schulte gözenek maşky.",
-      "metaKeywords": "onlaýn schulte tablisasy, mugt schulte tablisasy, schulte gözenegi, wizual üns öwretmesi, periferiki görme maşky, okamak tizligi tejribesi, üns maşky, adhd üns öwretmesi",
-      "ogTitle": "Mugt onlaýn Schulte tablisasy: Wizual üns we okamak tizligi",
-      "ogDescription": "Wizual üns, periferiki görme we okamak tizligini öwretmek üçin bu mugt onlaýn Schulte tablisasyny ýönekeý Schulte gözenek maşky bilen ulanyň.",
+      "metaTitle": "Mugt onlaýn Yzygiderlik tablisasy: Wizual üns we okamak tizligi",
+      "metaDescription": "Wizual üns, periferiki görme we okamak tizligini öwretmek üçin bu mugt onlaýn Yzygiderlik tablisasyny ulanyň. Üns maşky, çalt okamak we ADHD-amatly üns öwretmesi üçin ýönekeý Yzygiderlik gözenek maşky.",
+      "metaKeywords": "onlaýn Yzygiderlik tablisasy, mugt Yzygiderlik tablisasy, Yzygiderlik gözenegi, görüş ünsi türgenleşigi, gapdal görüş maşky, okamak tizligi tejribesi, üns maşky, ADHD üçin üns türgenleşigi",
+      "ogTitle": "Mugt onlaýn Yzygiderlik tablisasy: Wizual üns we okamak tizligi",
+      "ogDescription": "Wizual üns, periferiki görme we okamak tizligini öwretmek üçin bu mugt onlaýn Yzygiderlik tablisasyny ýönekeý Yzygiderlik gözenek maşky bilen ulanyň.",
       "science": {
         "title": "Wizual üns we gaýtadan işleme tizligini güýçlendirmek",
-        "description": "Schulte tablisasy wizual üns, gaýtadan işleme tizligi we ýerine ýetiriji funksiýany bahalandyrmak we öwretmek üçin giňden ýaýran newropsihologik guraldyr. Barlaglar yzygiderli tejribäniň wizual barlag, saýlawly üns we maglumat gaýtadan işleme tizligi üçin jogapkär newral torlary pugtlandyrýandygyny görkezýär — okamak, sürüjilik we akademiki öndürijilik üçin zerur endikler.",
-        "blogArticleTitle": "Schulte tablisasynyň peýdalary: Wizual üns we okamak tizligi üçin 7 ylmy tarapdan goldanylýan gazananlar",
+        "description": "Yzygiderlik tablisasy wizual üns, gaýtadan işleme tizligi we ýerine ýetiriji funksiýany bahalandyrmak we öwretmek üçin giňden ýaýran newropsihologik guraldyr. Barlaglar yzygiderli tejribäniň wizual barlag, saýlawly üns we maglumat gaýtadan işleme tizligi üçin jogapkär newral torlary pugtlandyrýandygyny görkezýär — okamak, sürüjilik we akademiki öndürijilik üçin zerur endikler.",
+        "blogArticleTitle": "Yzygiderlik tablisasynyň peýdalary: Wizual üns we okamak tizligi üçin 7 ylmy tarapdan goldanylýan gazananlar",
         "authorityLinks": {
-          "neuropsychology": "Newropsihologik bahalandyrma we dikeldişde Schulte tablisalary",
+          "neuropsychology": "Newropsihologik bahalandyrma we dikeldişde Yzygiderlik tablisalary",
           "attention": "Wizual üns we saýlawly üns barlaglaryna syn",
           "speedReading": "Periferiki görme öwretmesi we okamagy gowulandyrmak üçin ylmy subutlar"
         }
@@ -665,8 +665,8 @@
       },
       "faq": {
         "howItWorks": {
-          "question": "Schulte tablisasy nädip işleýär?",
-          "answer": "Schulte tablisasy periferiki görmäni ulanyp sanlary çalt tapmak üçin ünsü saklamaga mejbur edip, beýniňizi wizual maglumaty has netijeli gaýtadan işlemäge öwredýär."
+          "question": "Yzygiderlik tablisasy nädip işleýär?",
+          "answer": "Yzygiderlik tablisasy periferiki görmäni ulanyp sanlary çalt tapmak üçin ünsü saklamaga mejbur edip, beýniňizi wizual maglumaty has netijeli gaýtadan işlemäge öwredýär."
         },
         "bestPractice": {
           "question": "Maşk etmäniň iň gowy usuly näme?",
@@ -678,7 +678,7 @@
         },
         "research": {
           "question": "Bu maşk barlaglar bilen goldanylýarmy?",
-          "answer": "Hawa, Schulte tablisasy onlarça ýyl bäri kognitiw psihologiýada ulanylýar. Barlaglar üns torlaryny pugtlandyrmak arkaly wizual üns, gaýtadan işleme tizligini netijeli gowulandyrýandygyny we ADHD ýaly ýagdaýlara kömek edip biljekdigini görkezýär."
+          "answer": "Hawa, Yzygiderlik tablisasy onlarça ýyl bäri kognitiw psihologiýada ulanylýar. Barlaglar üns torlaryny pugtlandyrmak arkaly wizual üns, gaýtadan işleme tizligini netijeli gowulandyrýandygyny we ADHD ýaly ýagdaýlara kömek edip biljekdigini görkezýär."
         },
         "peripheralVision": {
           "question": "Periferiki görme näme we näme üçin möhüm?",
@@ -709,9 +709,9 @@
       }
     },
     "rotatingSchulteTable": {
-      "title": "Aýlanýan Schulte tablisasy",
-      "subtitle": "Aýlanýan halkaly mugt onlaýn tegelek Schulte tablisasy",
-      "description": "Dürli ugurlarda garamazdan aýlanýan üç san halkasy bilen dinamiki tegelek Schulte tablisasyny oýnaň. 1-den 42-e çenli sanlary tapyp, wizual gözlegi, jemlenen ünsi we çalt, takyk jogaplary maşk ediň.",
+      "title": "Aýlanýan Yzygiderlik tablisasy",
+      "subtitle": "Aýlanýan halkaly mugt onlaýn tegelek Yzygiderlik tablisasy",
+      "description": "Dürli ugurlarda garamazdan aýlanýan üç san halkasy bilen dinamiki tegelek Yzygiderlik tablisasyny oýnaň. 1-den 42-e çenli sanlary tapyp, wizual gözlegi, jemlenen ünsi we çalt, takyk jogaplary maşk ediň.",
       "howToPlay": {
         "description": "1-den başlaň we 42-e ýetýäňçä her sany ýokaryk tertipde basyň. Ilkinji takyklyga üns beriň, soň tamamlamak wagtyňyzy azaltmaga synanyşyň.",
         "step1": "Üç tegelek halkanyň sanly bölekleri bile hereket edýärkä tomaşa ediň.",
@@ -719,13 +719,13 @@
         "step3": "Halkalar sagat ýönelişi ýa-da tersine sagat ýönelişi boýunça dürli tizlikde aýlanýar.",
         "step4": "Ýalňyşlyklardan gaça duruň: her ýalňyş basyş derejelenen wagtyňyza iki sekunt goşýar."
       },
-      "metaTitle": "Onlaýn aýlanýan Schulte tablisasy: Mugt wizual gözleg oýuny",
-      "metaDescription": "Mugt aýlanýan Schulte tablisasyny onlaýn oýnaň. 1-42 sanlaryny üç garaşsyz aýlanýan halkada tapyp, tizligiňizi, takyklygyňyzy we iň gowy wagtyňyzy yzarladyň.",
-      "ogTitle": "Aýlanýan Schulte tablisasy: Mugt dinamiki san gözlegi",
-      "ogDescription": "Bu mugt dinamiki Schulte tablisa oýunynda üç garaşsyz aýlanýan halkada 1-42 sanlaryny tapyň.",
+      "metaTitle": "Onlaýn aýlanýan Yzygiderlik tablisasy: Mugt wizual gözleg oýuny",
+      "metaDescription": "Mugt aýlanýan Yzygiderlik tablisasyny onlaýn oýnaň. 1-42 sanlaryny üç garaşsyz aýlanýan halkada tapyp, tizligiňizi, takyklygyňyzy we iň gowy wagtyňyzy yzarladyň.",
+      "ogTitle": "Aýlanýan Yzygiderlik tablisasy: Mugt dinamiki san gözlegi",
+      "ogDescription": "Bu mugt dinamiki Yzygiderlik tablisa oýunynda üç garaşsyz aýlanýan halkada 1-42 sanlaryny tapyň.",
       "structuredData": {
         "featureList": [
-          "42 sanly tegelek Schulte tablisasy",
+          "42 sanly tegelek Yzygiderlik tablisasy",
           "Üç garaşsyz aýlanýan halka",
           "Sagat we tersine sagat halka hereketi",
           "Ýalňyşlyk jerimeli wagtly derejelenen režim",
@@ -734,13 +734,13 @@
         "educationalUse": "Wizual gözleg we üns tejribesi"
       },
       "leaderboard": {
-        "title": "Aýlanýan Schulte tablisa Liderler tablisasy",
+        "title": "Aýlanýan Yzygiderlik tablisa Liderler tablisasy",
         "description": "Liderler tablisasy sazlanan wagty dereeleýär: tamamlamak wagty her bir ýalňyş basyş üçin iki sekuntlyk jerime goşulýar."
       },
       "comparison": {
-        "title": "Aýlanýan Schulte tablisasy vs. Adaty Schulte tablisasy",
+        "title": "Aýlanýan Yzygiderlik tablisasy vs. Adaty Yzygiderlik tablisasy",
         "intro": "Iki wersiýa hem sanlary tertipde tapmagyňyzy soraýar, ýöne aýlanýan wersiýa raunt dowamynda gözleg meýdanyny üýtgedýär. Eger 5×5 birikdirilen gözenegi ileri tutsaňyz, synaň",
-        "classicLink": "klassiki Schulte tablisasy",
+        "classicLink": "klassiki Yzygiderlik tablisasy",
         "feature": "Aýratynlyk",
         "rotating": "Aýlanýan wersiýa",
         "classic": "Adaty wersiýa",
@@ -800,15 +800,15 @@
       },
       "faq": {
         "whatIsIt": {
-          "question": "Aýlanýan Schulte tablisasy näme?",
-          "answer": "Aýlanýan Schulte tablisasy, towlanýan Schulte tablisasy ýa-da dinamiki Schulte tablisasy hem diýilýär, hereket edýän nyşanly san gözleg oýunydyr. Bu wersiýada, üç konsentrik halkada garamazdan aýlanýan 1-42 sanlaryny tapýarsyňyz."
+          "question": "Aýlanýan Yzygiderlik tablisasy näme?",
+          "answer": "Aýlanýan Yzygiderlik tablisasy, towlanýan Yzygiderlik tablisasy ýa-da dinamiki Yzygiderlik tablisasy hem diýilýär, hereket edýän nyşanly san gözleg oýunydyr. Bu wersiýada, üç konsentrik halkada garamazdan aýlanýan 1-42 sanlaryny tapýarsyňyz."
         },
         "howToPlay": {
-          "question": "Aýlanýan Schulte tablisa oýunyny nädip oýnaýaryn?",
+          "question": "Aýlanýan Yzygiderlik tablisa oýunyny nädip oýnaýaryn?",
           "answer": "Oýuny başladyň, soň 1, 2, 3 we ş.m. 42-e çenli basyň. Bölümler hereket edip durýar, şonuň üçin taýtagy gözegçilikde saklaň we göründigi wagy dogry sana basyň."
         },
         "whatMakesItDynamic": {
-          "question": "Bu Schulte tablisasyny näme dinamiki edýär?",
+          "question": "Bu Yzygiderlik tablisasyny näme dinamiki edýär?",
           "answer": "Her sanly halka öz tizliginde we ugurynda hereket edýär. Sanlaryň arasyndaky giňişleýin gatnaşyk raunt dowamynda üýtgeýändigi üçin, diňe irki belleýän ýerleriňize bil baglamazdan häzirki görkezijini gözlemeli."
         },
         "howToPractice": {
@@ -816,15 +816,15 @@
           "answer": "Bir ýa-da iki takyk rauntdan başlaň we wagtyňyzy azaltmak üçin diňe soň işläň. Şol bir režimde oýnan raundlary deňeşdiriň we gözleriňiz ýadan duýsa, arakesme ediň. Gysga, gaýtalanýan sessiýalar yzygiderli gowulandyrmany ýadawlykdan aýrmagy aňsatlaşdyrýar."
         },
         "regularDifference": {
-          "question": "Aýlanýan Schulte tablisasy adaty birinden nähili tapawutlanýar?",
-          "answer": "Adaty Schulte tablisasy hereketsiz kwadrat gözenegi ulanýar, adatça 1-25 sanlary bilen. Bu wersiýa üç hereket edýän tegelek halkada 42 san ulanýar, şonuň üçin nyşan ýerleri yzygiderli üýtgeýär we taýta birikdirilen düzgün hökmünde ýat tutulyp bilinmez."
+          "question": "Aýlanýan Yzygiderlik tablisasy adaty birinden nähili tapawutlanýar?",
+          "answer": "Adaty Yzygiderlik tablisasy hereketsiz kwadrat gözenegi ulanýar, adatça 1-25 sanlary bilen. Bu wersiýa üç hereket edýän tegelek halkada 42 san ulanýar, şonuň üçin nyşan ýerleri yzygiderli üýtgeýär we taýta birikdirilen düzgün hökmünde ýat tutulyp bilinmez."
         },
         "doesItImproveFocus": {
-          "question": "Aýlanýan Schulte tablisasy ünsi gowulandyrýarmy?",
+          "question": "Aýlanýan Yzygiderlik tablisasy ünsi gowulandyrýarmy?",
           "answer": "Hawa, maksada gönükdirilen ünsi maşk etmäge kömek edip biler. Her raunt indiki sany akyňyzda saklamagy, distraksiýa ediji sanlary äsgermegi we taýta hereket edýärkä yzygiderlilige eýermegi soraýar. Yzygiderli tejribe hem tizligiňizdäki we takyklygyňyzdaky üýtgeşmeleri yzarlamagyň ýönekeý usulyny berýär."
         },
         "goodTime": {
-          "question": "Aýlanýan Schulte tablisa üçin gowy wagt näme?",
+          "question": "Aýlanýan Yzygiderlik tablisa üçin gowy wagt näme?",
           "answer": "Bu 42 sanly aýlanýan wersiýa üçin tassyklanan ilat standarty ýok. Şol bir enjamdaky sazlanan wagtlary deňeşdirip we tizlikden öň takyk basyşlara ileri tutup, öz soňky netijeleriňizi iň gowy ölçeg hökmünde ulanyň."
         },
         "motionComfort": {
@@ -832,7 +832,7 @@
           "answer": "Hereket baş aýlawy, ýürek bulanmasy, kellagyry ýa-da göz dartgynlygyna sebäp bolsa, raundy togtadyň. Enjam sazlamalaryňyzda hereket peseldilen wagty, oýun halka animasiýasyny aýyrýar, şonuň üçin san gözleg düzgünini yzygiderli hereketsiz ulanyp bilersiňiz."
         },
         "isFree": {
-          "question": "Aýlanýan Schulte tablisasy mugtmy?",
+          "question": "Aýlanýan Yzygiderlik tablisasy mugtmy?",
           "answer": "Hawa. Oýun brauzeriňizde mugt işleýär, ýüklemek talap edilmeýär. Derrew oýnap bilersiňiz, enjamda şahsy iň gowy netijäňizi saklap bilersiňiz we liderler tablasyna sazlanan wagt tabşyryp bilersiňiz."
         }
       },
@@ -842,7 +842,7 @@
         "findNumber": "Sany tap",
         "number": "Sany",
         "finished": "Tamamlandy",
-        "boardLabel": "Özbaşdak aýlanýan üç san halkaly aýlanýan Schulte tablisasy",
+        "boardLabel": "Özbaşdak aýlanýan üç san halkaly aýlanýan Yzygiderlik tablisasy",
         "bestTime": "Iň gowy wagt",
         "startGame": "Oýuny başla",
         "playAgain": "Gaýtadan oýna",
@@ -1059,8 +1059,8 @@
         "startTraining": "Öwretmäni şu wagt başla",
         "improveMemorySubtitle": "Işjeň ýady gowulandyryň, ýönekeýden başladyň",
         "continueTraining": "Beýleki kognitiw ukyplary öwretmäge dowam ediň",
-        "schulteTable": "Schulte tablisasy",
-        "stroopTest": "Stroop synagy",
+        "schulteTable": "Yzygiderlik tablisasy",
+        "stroopTest": "Strup synagy",
         "allGames": "Ähli oýunlar"
       },
       "gameMessages": {
@@ -1659,101 +1659,105 @@
       }
     },
     "stroopEffectTest": {
-      "title": "Stroop Effekti Synagy",
-      "subtitle": "Saýlawly ünsi, saklaýyş gözegçiligini we Stroop päsgelçiligini ölçemek üçin mugt onlaýn reňk-söz synagyny geçiň.",
-      "description": "Sözi okamagyň deregine syýa reňkini atlandyrmak arkaly mugt Stroop effekti synagyny onlaýn geçiň. Reaksiýa wagtyňyzy yzarlak bilen saýlawly ünsi, saklaýyş gözegçiligini we çaknyşygy çözmegi öwrediň.",
+      "title": "Strup täsiri synagy",
+      "subtitle": "Saýlama ünsi, reaksiýany saklamak ukybyny we Strup päsgelçiligini ölçemek üçin mugt onlaýn reňk-söz synagyndan geçiň.",
+      "description": "Sözi okamagyň ýerine onuň ýazylan reňkini aýtmak arkaly mugt onlaýn Strup täsiri synagyndan geçiň. Reaksiýa wagtyňyzy ölçäp, saýlama ünsüňizi, reaksiýany saklamak ukybyňyzy we maglumat çaknyşygyny çözmek başarnygyňyzy türgenleşdiriň.",
       "metadata": {
-        "title": "Stroop Effekti Synagy Onlaýn: Mugt Reňk Söz Synagy",
-        "description": "Mugt Stroop effekti synagyny onlaýn geçiň we klassik reňk söz synagyny synap görüň. Bir çalt sessiýada saýlawly ünsi, saklaýyş gözegçiligini, reaksiýa wagtyny we jemi synag wagtyny ölçäň.",
-        "keywords": "stroop effekti synagy, stroop synagy onlaýn, mugt stroop synagy, reňk söz synagy, stroop reňk we söz synagy, stroop effekti synagy onlaýn, psihologiýa stroop synagy",
-        "ogTitle": "Stroop Effekti Synagy Onlaýn: Mugt Reňk Söz Synagy",
-        "ogDescription": "Mugt Stroop effekti synagyny onlaýn geçiň we klassik reňk söz synagyny synap görüň. Bir çalt sessiýada saýlawly ünsi, saklaýyş gözegçiligini, reaksiýa wagtyny we jemi synag wagtyny ölçäň."
+        "title": "Onlaýn Strup täsiri synagy: mugt reňk-söz synagy",
+        "description": "Mugt onlaýn Strup täsiri synagyndan geçip, nusgawy reňk-söz ýumşuny ýerine ýetiriň. Bir gysga synagda saýlama ünsüňizi, reaksiýany saklamak ukybyňyzy, reaksiýa we umumy synag wagtyňyzy ölçäň.",
+        "keywords": "Strup täsiri synagy, onlaýn Strup synagy, mugt Strup synagy, reňk-söz synagy, Strup reňk we söz synagy, onlaýn Strup täsiri synagy, psihologik Strup synagy",
+        "ogTitle": "Onlaýn Strup täsiri synagy: mugt reňk-söz synagy",
+        "ogDescription": "Mugt onlaýn Strup täsiri synagyndan geçip, nusgawy reňk-söz ýumşuny ýerine ýetiriň. Bir gysga synagda saýlama ünsüňizi, reaksiýany saklamak ukybyňyzy, reaksiýa we umumy synag wagtyňyzy ölçäň."
       },
       "howToPlay": {
-        "description": "Bu mugt onlaýn Stroop synagynda, sözi okamagyň deregine syýa reňkini kesgitlemek arkaly klassik reňk-söz wezipesini tamamlaýarsyňyz.",
+        "description": "Bu mugt onlaýn Strup synagynda sözi okamagyň ýerine onuň ýazylan reňkini kesgitläp, nusgawy reňk-söz ýumşuny ýerine ýetirersiňiz.",
         "step1": "Ekranda görkezilen reňkli söze serediň",
         "step2": "Sözüň manysyny däl-de, tekstiň REŇKINI kesgitläň",
-        "step3": "Dogry reňk düwmesine basyň ýa-da san düwmesini (1-6) basyň",
-        "step4": "Stroop effekti netijäňizi görmek üçin 20 synagy tamamlaň"
+        "step3": "Dogry reňk düwmesine ýa-da klawiaturadaky degişli san düwmesine (1–9 ýa-da 0) basyň",
+        "step4": "Strup täsiri boýunça netijäňizi görmek üçin 20 tapgyry tamamlaň"
       },
       "benefits": {
         "cognitiveFlexibility": {
-          "title": "Kognitiw çeýeligi",
-          "description": "Dürli akyl düşünjeleriň arasynda geçmek we üýtgeýän düzgünler ýa-da talaplar boýunça uýgunlaşmak ukubyňyzy güýçlendiriň."
+          "title": "Aň-bilim çeýeligi",
+          "description": "Dürli düşünjeleriň arasynda geçmek hem-de üýtgeýän düzgünlere ýa-da talaplara uýgunlaşmak ukybyňyzy ösdürýär."
         },
         "selectiveAttention": {
-          "title": "Saýlawly Üns",
-          "description": "Gapma-garşy ýa-da ünsüni sowujy elementleri süzüp, degişli maglumata üns bermek ukubyňyzy gowulandyryň."
+          "title": "Saýlama üns",
+          "description": "Gapma-garşy ýa-da ünsüňizi sowýan zatlary äsgermezlik edip, möhüm maglumata ünsüňizi jemlemek ukybyňyzy ösdürýär."
         },
         "conflictResolution": {
-          "title": "Çaknyşygy Çözmek",
-          "description": "Bäsleşýän maglumat çeşmeleriniň arasyndaky çaknyşyklary çözmek we päsgelçilik astynda takyk karar bermek üçin beýniňizi öwrediň."
+          "title": "Maglumat çaknyşygyny çözmek",
+          "description": "Biri-birine garşy gelýän maglumatlaryň arasyndaky çaknyşygy çözmek we päsgelçilik wagtynda dogry karar bermek ukybyňyzy türgenleşdirýär."
         }
       },
       "faq": {
-        "whatIsStroop": {
-          "question": "Stroop effekti näme?",
-          "answer": "Stroop effekti, sözüň manysy onuň syýa reňki bilen gapma-garşy bolanda ýüze çykýan gijikmedir, mysal üçin gök reňkde çap edilen 'GYZYL' sözi. Klassik reňk söz synagynda, sözi okamagyň deregine syýa reňkini atlandyrmaly, bu bolsa awtomatik okamagyň üns we jogap gözegçiligine nähili päsgel berýändigini görkezýär."
+        "whatIsStrup": {
+          "question": "Strup täsiri näme?",
+          "answer": "Strup täsiri — sözüň manysy onuň ýazylan reňki bilen gabat gelmedik ýagdaýynda ýüze çykýan gijikmedir. Mysal üçin, «GYZYL» sözi gök reňkde ýazylyp biler. Nusgawy reňk-söz synagynda sözi okamagyň ýerine onuň reňkini aýtmaly. Bu awtomatik okamagyň ünse we jogaby dolandyrmaga nähili päsgel berýändigini görkezýär."
         },
         "whyDifficult": {
           "question": "Näme üçin bu synag kyn?",
-          "answer": "Okamak şunça awtomatik welin, beýniňiz reňkden ozal sözi işlemek isleýär. Söz 'ÝAŞYL' diýende, ýöne syýa gyzyl bolanda, siz awtomatik okamak jogabyny saklamaly we diňe reňke üns bermeli, şonuň üçin onlaýn Stroop synagy haýran galdyryjy derejede talap ediji bolup galýar."
+          "answer": "Okamak şeýle bir awtomatiki bolup geçýär welin, beýniňiz reňkden öňürti sözi kabul edýär. «ÝAŞYL» sözi gyzyl reňkde ýazylanda, awtomatik okamak islegiňizi saklap, diňe reňke üns bermeli bolýarsyňyz. Şonuň üçin Strup synagy garaşylýanyndan has kyn bolup biler."
         },
         "howToImprove": {
-          "question": "Öndürijiligimi nähili gowulandyryp bilerin?",
-          "answer": "Yzygiderli tejribe ediň we sözi akyl taýdan okamazdan ozal syýa reňkine dessine jogap bermäge çalyşyň. Gysga gaýtalanýan sessiýalar saýlawly ünsüňizi güýçlendirmäge, laýyk däl synaglarda ikirjiňlenmäni azaltmaga we ortaça reaksiýa wagtyňyzy gowulandyrmaga kömek edýär."
+          "question": "Netijämi nädip gowulandyryp bilerin?",
+          "answer": "Yzygiderli türgenleşiň we sözi içiňizden okamazdan öň, onuň reňkine dessine jogap bermäge çalşyň. Gysga, gaýtalanýan türgenleşikler saýlama ünsüňizi güýçlendirýär, reňk bilen söz gabat gelmedik tapgyrlarda ikirjiňlenmegi azaldýar we ortaça reaksiýa wagtyňyzy gowulandyrýar."
         },
         "realWorldApps": {
-          "question": "Bu hakyky durmuşa nähili degişli?",
-          "answer": "Stroop effekti synagynda ölçelýän endikler, päsgelçiligi ysgap we wezipäňizde galmak isleýän islendik ýerde möhümdir, mysal üçin päsgelçilikler arkaly sürüjilik, goňşy gurşawda okamak ýa-da işde bäsleşýän talaplar arasynda geçmek."
+          "question": "Bu gündelik durmuşda nähili peýdaly?",
+          "answer": "Strup täsiri synagynda ölçelýän başarnyklar, päsgel berýän zatlary äsgermezlik edip, ýerine ýetirýän işiňize ünsüňizi saklamaly ýagdaýlarda möhümdir. Mysal üçin, ulag süreniňizde ünsüňizi sowýan zatlardan goramakda, sesli ýerde okamakda ýa-da işde dürli wezipeleriň arasynda geçmekde peýdalydyr."
         }
       },
       "science": {
-        "title": "Näme üçin Stroop effekti synagy reňk söz synagy hökmünde işleýär",
-        "description": "Stroop effekti synagy klassik reňk söz synagydyr: sözüň özüni ysgap, syýa reňkini habar bermeli. Şol çaknyşyk onlaýn Stroop synagyny saýlawly ünsi, saklaýyş gözegçiligini we kognitiw çeýeligi tejribe etmek üçin peýdaly edýär. Wezipäni gaýtalaýarkaňyz, ortaça reaksiýa wagtyny, jemi synag wagtyny we laýyk we laýyk däl synaglar arasyndaky tapawudy deňleşdirip bilersiňiz.",
-        "blogArticleTitle": "Stroop Effekti Synagy Düşündiriş: Stroop Eksperimenti, Reňk Söz Synagy we Kognitiw Gözegçilik",
+        "title": "Strup täsiri synagy näme üçin reňk-söz synagy hökmünde işleýär?",
+        "description": "Strup täsiri synagy nusgawy reňk-söz synagydyr: sözüň özüni äsgermezlik edip, onuň ýazylan reňkini aýtmaly. Bu çaknyşyk saýlama ünsi, reaksiýany saklamak ukybyny we aň-bilim çeýeligini türgenleşdirmäge kömek edýär. Ýumşy gaýtalap, ortaça reaksiýa wagtyňyzy, umumy synag wagtyňyzy hem-de söz bilen reňk gabat gelýän we gelmeýän tapgyrlaryň arasyndaky tapawudy deňeşdirip bilersiňiz.",
+        "blogArticleTitle": "Strup täsiri synagy: Strup tejribesi, reňk-söz synagy we aň-bilim gözegçiligi",
         "authorityLinks": {
-          "neuropsychology": "Kliniki neýropsihologik bahalandyrmada we kognitiw öwretmede Stroop synagy",
-          "executiveFunction": "Newroşynasdaky ýerine ýetiriji funksiýa we kognitiw gözegçilik barlagy",
-          "cognitiveTraining": "Kognitiw öwretme geçirişi we hakyky durmuş ulanylyşy üçin subutnamalar"
+          "neuropsychology": "Kliniki neýropsihologik bahalandyrmada we aň-bilim türgenleşiginde Strup synagy",
+          "executiveFunction": "Neýroylymda ýerine ýetiriji funksiýa we aň-bilim gözegçiligi boýunça barlaglar",
+          "cognitiveTraining": "Aň-bilim türgenleşiginiň gündelik durmuşa geçirilişi baradaky ylmy subutnamalar"
         }
       },
       "gameUI": {
-        "title": "Stroop Effekti Synagy",
-        "instructions": "Sözüň näme diýýändigini däl-de, sözüň syýa REŇKINI kesgitläň. Deň gelýän reňk düwmesine basyň ýa-da 1-6 san düwmelerini ulanyň.",
-        "startGame": "Synagy Başla",
+        "title": "Strup täsiri synagy",
+        "instructions": "Sözüň manysyny däl-de, onuň ýazylan REŇKINI kesgitläň. Degişli reňk düwmesine ýa-da klawiaturadaky 1–9 we 0 san düwmeleriniň birine basyň.",
+        "startGame": "Synaga başla",
         "getReady": "Taýýar boluň",
-        "identifyColor": "Bu söz haýsy reňk?",
-        "round": "Töpretgi",
+        "identifyColor": "Bu söz haýsy reňkde ýazylan?",
+        "round": "Tapgyr",
         "correct": "Dogry!",
         "incorrect": "Nädogry",
-        "reactionTime": "Reaksiýa Wagty",
-        "gameComplete": "Synag Gutardy!",
-        "yourResults": "Siziň Netijeleriňiz",
+        "reactionTime": "Reaksiýa wagty",
+        "gameComplete": "Synag tamamlandy!",
+        "yourResults": "Netijeleriňiz",
         "accuracy": "Takyklyk",
-        "avgReactionTime": "Ortaça Reaksiýa Wagty",
-        "totalTime": "Jemi Wagt",
-        "stroopEffect": "Stroop Effekti",
+        "avgReactionTime": "Ortaça reaksiýa wagty",
+        "totalTime": "Umumy wagt",
+        "stroopEffect": "Strup täsiri",
         "stroopEffectDescription": "Söz we reňk gapma-garşy bolanda näçe ýawaşlandyňyz",
-        "leaderboardDescription": "Lider tahtasy düzgünleşdirilen ortaça wagtyňyzy tertipleýär: ortaça dogry reaksiýa wagtyňyz plus her nädogry jogap üçin 0.250 s jerime.",
-        "leaderboardTime": "Lider Tahtasy Wagty",
+        "leaderboardDescription": "Liderler sanawy düzedilen ortaça wagtyňyz boýunça düzülýär: dogry jogaplaryň ortaça reaksiýa wagtyna her nädogry jogap üçin 0,250 sekunt jerime goşulýar.",
+        "leaderboardTime": "Liderler sanawyndaky wagt",
         "leaderboardTimeDescription": "Her nädogry jogap üçin {penalty} jerime goşulýar.",
-        "congruent": "Laýyk",
-        "incongruent": "Laýyk däl",
-        "playAgain": "Synagy Täzeden Geçiriň",
+        "congruent": "Gabat gelýän",
+        "incongruent": "Gabat gelmeýän",
+        "playAgain": "Synagy gaýtala",
         "share": "Netijeleri paýlaş",
-        "newBestTime": "Täze Iň Gowy Wagt",
+        "newBestTime": "Täze iň gowy wagt",
         "bestTime": "Iň gowy wagt",
-        "shareTitle": "Menimiň Stroop Effekti Synag Netijelerim",
-        "shareText": "Stroop Effekti Synagyny {accuracy}% dürslik, {avgReactionTime} ortaça reaksiýa wagty we {stroopEffect} Stroop effekti bilen tamamladym.",
-        "keyboardShortcut": "Klaviatura gysgaltmalaryny ulanyň: reňkler üçin 1-6",
+        "shareTitle": "Strup täsiri synagyndaky netijelerim",
+        "shareText": "Strup täsiri synagyny {accuracy}% takyklyk, {avgReactionTime} ortaça reaksiýa wagty we {stroopEffect} Strup täsiri bilen tamamladym.",
+        "keyboardShortcut": "Reňkleri saýlamak üçin 1–9 we 0 klawişlerini ulanyň",
         "colors": {
           "red": "GYZYL",
           "blue": "GÖK",
           "green": "ÝAŞYL",
           "yellow": "SARY",
-          "purple": "GÖWÜS",
-          "pink": "GÜL"
+          "purple": "MELEWŞE",
+          "pink": "GÜLGÜNE",
+          "orange": "MÄMİŞI",
+          "cyan": "MAWY",
+          "brown": "GOŇUR",
+          "black": "GARA"
         }
       }
     },
@@ -2438,11 +2442,6 @@
         }
       }
     },
-    "sbtiTest": {
-      "title": "SBTI häsiýet synagy",
-      "description": "Wirusly SBTI häsiýet synagyny onlaýn geçiň we birnäçe minutda paýlaşyp bolýan netije posteriňizi alyň. SBTI synagy, SBTI MBTI we şahsyýet synagy ugurlaryny gözleýänler üçin çalt mem görnüşindäki test.",
-      "featuredDescription": "Wirusly SBTI synagyny geçiň we netijäňizi birnäçe minutda alyň. Dostlaryňyz bilen çalt paýlaşmak üçin döredilen gysga şahsyýet testi."
-    },
     "spacebarClicker": {
       "title": "Spacebar basyjy synagy",
       "subtitle": "Gysga klawiatura basyş raundlary, çalt bal barlaglary we az sürtülmeli gaýtadan oýnamak üçin gurlan arassa onlaýn spacebar tizlik synagy",
@@ -2656,15 +2655,15 @@
       "gameRecommendationsSubtitle": "Baha bermek netijeleriňize esaslanýar, bu oýunlar ünsi we jemlemegi güýçlendirmäge kömek edip biler:",
       "gameNames": {
         "dual-n-back": "Iki esse N-yza tälimi",
-        "stroop-effect-test": "Stroop täsiriniň synagy",
-        "schulte-table": "Schulte stol",
+        "stroop-effect-test": "Strup täsiri synagy",
+        "schulte-table": "Yzygiderlik tablisasy",
         "larger-number": "Sanlary deňeşdirmek",
         "reaction-time": "Reaksiýa wagty synagy"
       },
       "gameDescriptions": {
         "dual-n-back": "Işjeň ýady we ýerine ýetiriji ünsi dolandyrmagy güýçlendirmek",
-        "stroop-effect-test": "Aňly täsiriniň we päsgelçilik kontrolyny gowulandyrmak",
-        "schulte-table": "Görkezme ünsi we jemlemegi güýçlendirmek",
+        "stroop-effect-test": "Aň-bilim çeýeligini we päsgel berýän reaksiýany saklamak ukybyny ösdürýär",
+        "schulte-table": "Görüş ünsüni we ünsi jemlemek ukybyny ösdürýär",
         "larger-number": "Ýerine ýetiriş tizligini we jikme-jiklere ünsi ýitileşdirmek",
         "reaction-time": "Jogap bermek we ünsi jemlemek üçin päsgelçilikleri ösdürmek"
       },
@@ -2769,15 +2768,15 @@
       "gameRecommendationsSubtitle": "Seljeriş netijeleriňize esaslanyp, bu oýunlar ulylar üçin ünsi we fokusy güýçlendirmäge kömek edip biler:",
       "gameNames": {
         "dual-n-back": "Iki esse N-yza tälimi",
-        "stroop-effect-test": "Stroop täsiri synagy",
-        "schulte-table": "Schulte tablisasy",
+        "stroop-effect-test": "Strup täsiri synagy",
+        "schulte-table": "Yzygiderlik tablisasy",
         "larger-number": "Sanlary deňeşdirmek",
         "reaction-time": "Reaksiýa wagty synagy"
       },
       "gameDescriptions": {
         "dual-n-back": "Işjeň ýady we ýerine ýetiriji ünsiň gözegçiligini güýçlendirýär",
-        "stroop-effect-test": "Kognitiwlylygyň we päsgelçilik kontrolynyň täsirini ýokarlandyrýar",
-        "schulte-table": "Görkezme ünsi we konsentrasiýany güýçlendirýär",
+        "stroop-effect-test": "Aň-bilim çeýeligini we päsgel berýän reaksiýany saklamak ukybyny ösdürýär",
+        "schulte-table": "Görüş ünsüni we ünsi jemlemek ukybyny ösdürýär",
         "larger-number": "Prosesleşdirme tizligini we jikme-jiklere ünsi berkidýär",
         "reaction-time": "Jogap bermekden saklanmagy we fokusy ösdürýär"
       },
@@ -2837,8 +2836,7 @@
       "spatial-memory": "Giňişleýin ýat",
       "adhd-games": "Uly adamlar üçin ADHD oýunlary",
       "brain-games-for-kids": "Çagalar üçin üns oýunlary",
-      "relaxation": "Rahatlama",
-      "personality-tests": "Wirusly şahsyýet synaglary"
+      "relaxation": "Rahatlama"
     },
     "categoryDescriptions": {
       "working-memory": "Maglumaty wagtlaýyn saklamak we ony dolandyrmak ukybyny pugtlandyrýan oýunlar. Güýçli işjeň ýat talyblara görkezmelere ýat tutmagyna, hünärmenlere köp wezipäni bir wagtyň özünde ýerine ýetirmegine we hemmelere söhbetdeşligi gowy aýlamagyna kömek edýär.",
@@ -2851,8 +2849,7 @@
       "spatial-memory": "Giňişleýin maglumaty ýatda saklamak we dolandyrmak ukybyny pugtlandyrýan oýunlar. Güýçli giňişleýin ýat nawigasiýa, zatlaryň ýerini ýatda saklamak, kartalary düşünmek we 3D gurluşlary göz öňüne getirmek bilen kömek edýär. Bu endik awtoulag sürmek, zatlary tapmak, görkezmelere eýerýäris ýaly işler we STEM ugurlarynda üstünlik gazanmak üçin zerurdyr.",
       "adhd-games": "ADHD alamatlaryny dolandyrmaga ylmy taýdan subut edilen oýunlaryň saýlanan toplumy. Bu maşklar işjeň ýady, togtadyş gözegçiligini we dowamly üns — ADHD-de köplenç ejizelenýän esasy ýerine ýetiriji funksiýalary gönükdirýär.",
       "brain-games-for-kids": "Çagalaryň kognitiw ösüşi üçin niýetlenen gyzykly we barlanyp bilinýän üns oýunlary. Bu oýunlar üns aralygyny gowulandyrmaga, görkezmeleri ýerine ýetirmäge we hereket gözegçiligini gyzykly, oýun görnüşinde gowulandyrmaga kömek edýär.",
-      "relaxation": "Gollanma demgysma we üns merkezleşdirme maşklary arkaly rahatladyrma we stresi azaltmak üçin oýunlar. Bu tejribeler vagus nerwini oýarýar, ýürek urşy üýtgeýjiligini (HRV) gowulandyrýar we bedene asuda, dikeldiji ýagdaýa geçmäge kömek edýär.",
-      "personality-tests": "Paýlaşylýan, ilkinji nobatda gyzykly onlaýn şahsyýet synaglary we wizual synag tejribeleri. Bu kategoriýa adamlar sbti synag, şahsyýet synagy ýa-da mbti stili wirusly wizual synaglary ýaly çalt, gyzykly netijeleri gözleýänlerinde peýdalydyr."
+      "relaxation": "Gollanma demgysma we üns merkezleşdirme maşklary arkaly rahatladyrma we stresi azaltmak üçin oýunlar. Bu tejribeler vagus nerwini oýarýar, ýürek urşy üýtgeýjiligini (HRV) gowulandyrýar we bedene asuda, dikeldiji ýagdaýa geçmäge kömek edýär."
     },
     "keywords": {
       "working-memory": {
@@ -2986,18 +2983,6 @@
         "calm down techniques": "Asudalyk usullary",
         "anxiety relief exercises": "Aladany azaltmak maşklary",
         "mindfulness games": "Üns merkezleşdirme oýunlary"
-      },
-      "personality-tests": {
-        "sbti personality test": "SBTI häsiýet synagy",
-        "sbti test": "SBTI synag",
-        "sbti mbti": "SBTI MBTI",
-        "personality test": "Şahsyýet synagy",
-        "viral personality quiz": "Wirusly şahsyýet wizual synagy",
-        "mbti style test": "MBTI stili synag",
-        "online personality quiz": "Onlaýn şahsyýet wizual synagy",
-        "fun personality test": "Güýmenje şahsyýet synagy",
-        "shareable personality result": "Paýlaşylýan şahsyýet netijesi",
-        "internet personality test": "Internet şahsyýet synagy"
       }
     },
     "categoryNotFound": "Kategoriýa tapylmady",
@@ -3300,7 +3285,7 @@
       ]
     },
     "stroopTest": {
-      "title": "Kognitiw çeýelik synagy",
+      "title": "Aň-bilim çeýeligi synagy",
       "subtitle": "Üns gözegçiligiňizi synaň",
       "instructions": "Reňkli teksti görende, sözüniň manysyny däl-de, tekstiň reňkini basyň",
       "example": "Mysal: Gök reňkli 'gök' sözüni görende, 'gök' düwmesini basyň",
@@ -3327,19 +3312,19 @@
       "analysisIntro": "Häzirki synaglar arkaly,",
       "gameNames": {
         "dualNBack": "Dual N-Back öwretme",
-        "stroopEffect": "Stroop effekti synagy",
+        "stroopEffect": "Strup täsiri synagy",
         "largerNumber": "San deňeşdirmesi",
         "frogMemoryLeap": "Gurbağa ýat böküşi",
         "reactionTime": "Reaksiýa wagty öwretme",
-        "schulteTable": "Schulte gözenegi"
+        "schulteTable": "Yzygiderlik gözenegi"
       },
       "recommendations": {
         "dualNBack": "Işjeň ýadyň çäklerini barlamak üçin ideal",
-        "stroopEffect": "Kognitiw tizligi we çaknyşyk çözgüdini gowulandyrmak üçin gowy",
+        "stroopEffect": "Aň-bilim çeýeligini we maglumat çaknyşygyny çözmek ukybyny ösdürmek üçin amatly",
         "largerNumber": "Esasy gaýtadan işleme tizligi öwretme üçin ideal",
         "frogMemoryLeap": "Başlamak üçin gyzykly ýat öwretme oýuny",
         "reactionTime": "Esasy reaksiýa öwretme binýady",
-        "schulteTable": "Wizual üns öwretme üçin ajaýyp"
+        "schulteTable": "Görüş ünsüni türgenleşdirmek üçin amatly"
       }
     },
     "testAnalysis": {
@@ -3412,7 +3397,7 @@
     "latestPosts": "Soňky Ýazgylar",
     "featuredResources": {
       "title": "Peýdaly Gollanmalar we Makalalar",
-      "subtitle": "Işjeň ýat, Schulte tablisa öwretmesi we uly adamlaryň ADHD öz-bahalandyrmasy barada iň peýdaly gollanmalarymyz bilen başlaň.",
+      "subtitle": "Işjeň ýat, Yzygiderlik tablisa öwretmesi we uly adamlaryň ADHD öz-bahalandyrmasy barada iň peýdaly gollanmalarymyz bilen başlaň.",
       "viewAll": "Ähli makalalary gözden geçir",
       "items": {
         "workingMemoryGuide": {
@@ -3451,7 +3436,7 @@
       },
       "tools": {
         "dualNBack": "Dual N-Back Öwretmesi",
-        "schulteTable": "Schulte Tablisasy Onlaýn",
+        "schulteTable": "Onlaýn Yzygiderlik tablisasy",
         "pomodoroTimer": "Pomodoro Wagty Onlaýn",
         "visualTracking": "Wizual Yzarlama Oýunlary",
         "allGames": "Ähli Oýunlary Gözden Geçir"
@@ -3482,7 +3467,7 @@
       "emma": {
         "name": "Okyjylar",
         "username": "Wizual üns",
-        "body": "Wizual gözleg we Schulte görnüşindäki tejribe okamak akymyny we üns aralygyny gowulandyrmagyň ýönekeý usulydyr."
+        "body": "Wizual gözleg we Yzygiderlik görnüşindäki tejribe okamak akymyny we üns aralygyny gowulandyrmagyň ýönekeý usulydyr."
       },
       "sophia": {
         "name": "Ene-atalar",
@@ -3677,163 +3662,6 @@
     "description": "Ähli ýaşlar üçin mugt ylma esaslanýan beyin oýunlary bilen ýaty, jemlenmäni we kognitiw endikleri gowulandyryň.",
     "keywords": "mugt üns oýunlary, ýat oýunlary, üns oýunlary, jemlenme oýunlary, üns gowulandyrma oýunlary, kognitiw oýunlar onlaýn"
   },
-  "sbtiTest": {
-    "title": "SBTI häsiýet synagy",
-    "subtitle": "Wirusly SBTI häsiýet synagyny geçiň we minutlarda keç-kyç meme stili netijäni alyň.",
-    "metadata": {
-      "title": "SBTI synagy onlaýn – Mugt wirusly şahsyýet synagy",
-      "description": "Wirusly SBTI synagyny mugt onlaýn geçiň, minutlarda paýlaşylýan şahsyýet netijesini alyň we ony MBTI stili wizual synaglary bilen deňeşdiriň.",
-      "keywords": "sbti şahsyýet synagy, sbti synag, sbti mbti, sbti şahsyýet, wirusly şahsyýet synagy, mugt onlaýn şahsyýet synagy, mbti synag, meme şahsyýet wizual synagy, sbti.unun.dev"
-    },
-    "structuredData": {
-      "featureList": [
-        "Wirusly SBTI häsiýet synagy",
-        "Mobil-amatly onlaýn wizual synag akymy",
-        "Paýlaşylýan şahsyýet netijesi plakatlary",
-        "31-soragly meme stili şahsyýet wizual synagy",
-        "Çalt güýmenje stili SBTI / MBTI netijesi"
-      ]
-    },
-    "hero": {
-      "badge": "Häzir meşhur",
-      "primaryCta": "SBTI synagyny oýnaň",
-      "secondaryCta": "Has köp oýun gözden geçiriň",
-      "disclaimer": "Diňe güýmenje üçin. SBTI wirusly meme stili şahsyýet wizual synagydyr, ylmy şahsyýet diagnozy däl.",
-      "trendsLabel": "Meşhur gözleg söz düzümleri",
-      "stats": {
-        "questionsValue": "31",
-        "questionsLabel": "gizlin bölümi öz içine alýan soraglar",
-        "typesValue": "27",
-        "typesLabel": "mümkin netije görnüşleri",
-        "resultValue": "3 min",
-        "resultLabel": "tamamlamak we paýlaşmak"
-      }
-    },
-    "embed": {
-      "sectionTitle": "Asyl SBTI tejribesini oýnaň",
-      "description": "Aşakdaky interaktiw wizual synag asyl sorag akymyny, gizlin bölümi we netije plakatlaryny saklaýar, ýöne daş-töwerekdäki sahypany tapmagy, okamagy we paýlaşmagy aňsatlaşdyrýar.",
-      "iframeTitle": "Gurlan SBTI häsiýet synagy",
-      "loading": "Asyl SBTI synagy ýüklenýär...",
-      "loaded": "Asyl wirusly wizual synag gurlan",
-      "openStandalone": "Ýekeje wersiýany aç"
-    },
-    "reasons": {
-      "shareable": {
-        "title": "Ekran suratlary üçin gurlan",
-        "description": "Netije atlary we plakatlary dessarlyklarda we jemgyýetçilik ýazgylarynda derrew ýazylmagy üçin niýetlenendir, bu SBTI häsiýet synagynyň şeýle çalt ýaýramagynyň uly sebäbidir."
-      },
-      "mbti": {
-        "title": "Adamlar ony MBTI ýaly gözleýär",
-        "description": "Köp traffik hakykatdan MBTI stili gysga ýoly gözleýär: çalt soraglar, batlygaç tip belligi we dostlar bilen deňeşdirmek üçin güýmenje zat."
-      },
-      "mobile": {
-        "title": "Telefonlarda gowy işleýär",
-        "description": "SBTI synagy gysga, wizual we aňsat basylýan bolany üçin, wirusly şahsyýet wizual synaglarynyň mobil-önçi platformalarda hereket edişine gabat gelýär."
-      }
-    },
-    "guide": {
-      "title": "Başlamazdan öň",
-      "description": "Birnäçe çalt garaşyklar bu trendli wizual synagyň dogry çarçuwasyny goýmaga kömek edýär.",
-      "step1": "Asyl wizual synag Hytaý internet slengi bilen ýazylandyr, şonuň üçin bir bölek özüne çekijiligi bal ulgamy bilen deň derejede ton bilen baglanyşyklydyr.",
-      "step2": "Netijäňiz güýmenje we paýlaşylýan bolmaly, kliniki, bilim beriş ýa-da işe almak bahalandyrmalarynyň ornuny tutmaly däldir.",
-      "step3": "Akymda gizlin bölüm bar, bu dürli adamlaryň käte geň aşa netijeleri almagynyň bir sebäbidir.",
-      "step4": "Bu wersiýa häzir asyl sorag bankyndan we netije logikasyndan gurlan ýerli on-site React oýun komponentini ulanýar, şonuň üçin akym iframe-e bil baglamazdan ynamly bolýar."
-    },
-    "comparison": {
-      "kicker": "SBTI vs MBTI",
-      "title": "SBTI-ni resmi çarçuwa däl-de, wirusly internet şahsyýet wizual synagy hasap ediň",
-      "paragraph1": "MBTI web-de has meşhur şahsyýet belligi bolmagyna galýar, şonuň üçin köp adamlar hakykatdan bu täze wirusly formaty gözleýänlerinde sbti mbti, mbti synag ýa-da mbti şahsyýet synagyny gözleýärler. SBTI tanalyp bilinýän tip alma pikirini alýar, ýöne ton has gülkünç, keç-kyç we meme hereketlendirijidir.",
-      "paragraph2": "Bu tapawut SEO we ulanyjy garaşyklary üçin möhümdir. Bu sahypa SBTI-ni güýçli medeni pursady bilen güýmenje mazmuny hasap edýär, şonuň üçin asyl wizual synagy, trend açar sözleri we netijäniň diagnoz hasap edilmezligi barada aýdyň ýady ýüzüne çykarýarys."
-    },
-    "faq": {
-      "title": "SBTI FAQ",
-      "what": {
-        "question": "SBTI häsiýet synagy näme?",
-        "answer": "SBTI gysga wideolar, ekran suratlary we paýlaşylýan netije plakatlary arkaly ýaýran wirusly, güýmenje-önçi şahsyýet wizual synagydyr. Çalt onlaýn şahsyýet synagy ýaly hereket edýär, ýöne ýazuw stili adaty resmi wizual synagdan has meme agyrdyr."
-      },
-      "entry": {
-        "question": "SBTI häsiýet synagyny nireden başlaryn?",
-        "answer": "SBTI häsiýet synagyny göni bu sahypada başlap bilersiňiz. Vizual synagy açyň, soraglara yzygiderli jogap beriň we tamamlanyňyzda saýt siziň üçin netije plakatyny döreder."
-      },
-      "vsMbti": {
-        "question": "SBTI MBTI bilen birmeňzeşmi?",
-        "answer": "Ýok. MBTI köp adamlar eýýäm bilýän tanalyp bilinýän şahsyýet tip formaty, SBTI bolsa has täze, has gülkünç internet wizual synagydyr. Eger sbti mbti ýa-da mbti şahsyýet synagyny gözlediňiz, esasy örtüşme tip netijesi formatydyr, psihologik takyklyk derejesi däl."
-      },
-      "whyTrending": {
-        "question": "SBTI synagy nähili birden meşhur boldy?",
-        "answer": "Tamamlamak çalt, paýlaşmak aňsat we netije belligi söhbet döretmäge ýeterlik drama. Bu garyndylyk ony jemgyýetçilik gaýtadan ýazmak üçin ideal edýär, şonuň üçin sbti synag we şahsyýet synagy soraglarynyň gözleg talaby çalt ýokary galyp biler."
-      },
-      "reliable": {
-        "question": "Netijäni ygtybarly şahsyýet seljerişi hökmünde görmelimimi?",
-        "answer": "Ýok. Ony güýmenje hökmünde ulanyň. SBTI synagy deňeşdirmek we jemgyýetçilik paýlaşmak üçin güýmenje, ýöne ony diagnoz, saglyk kararlary, işe almak, mektep ýerleşdirmesi ýa-da gatnaşyk hökümi üçin ulanmaly däl."
-      },
-      "mobile": {
-        "question": "SBTI synagyny mobilde oýnyp bilerinmi?",
-        "answer": "Hawa. Vizual synaz häzir ýerli on-site oýun komponenti hökmünde işleýär, şonuň üçin aýratyn gurlan sahypany ýüklemezden, göni telefon we planşetlerde işleýär."
-      }
-    },
-    "credits": {
-      "originalAuthor": "Asyl konsepsiýa kredit: Bilibili döredijisi @蛆肉儿串儿",
-      "sourceCode": "GitHub-daky çeşme aýna"
-    },
-    "leaderboard": {
-      "description": "Häzirki SBTI şahsyýet dereelenmesini we haýsy netijäniň iň köp ýüze çykýandygyny görüň.",
-      "loading": "Adamlaryň haýsy şahsyýetleri alýandygy hasaplanýar...",
-      "empty": "Heniz ýeterlik netije ýok. Ilkinji bolup goşuň.",
-      "rank": "Dereje",
-      "type": "Görnüş",
-      "count": "Sany",
-      "topLabel": "Häzirki lider",
-      "topDescription": "Bu tip häzir ýazylan {total} jemi netijäniň {count} tabşyrygy bilen birinji ýerde durýar.",
-      "totalSubmissions": "Jemi tabşyryklar"
-    },
-    "gameUI": {
-      "introEyebrow": "Meşhur şahsyýet wizual synagy",
-      "introTitle": "MBTI köne habar. SBTI geldi.",
-      "introDescription": "31 sorag, bir gizlin bölüm we 27 mümkin netije görnüşi. Basyň we internetiň size haýsy SBTI belligini berýändigini görüň.",
-      "stats": {
-        "questions": "gizlin bölümi öz içine alýan soraglar",
-        "types": "mümkin netije görnüşleri",
-        "duration": "tamamlamak we netije almak"
-      },
-      "start": "Synagy başlat",
-      "restart": "Synagy gaýtala",
-      "backToStart": "Başyna dolan",
-      "previousQuestion": "Öňki sorag",
-      "autoAdvanceHint": "Indiki soraga göni geçmek üçin jogap saýlaň.",
-      "submitReadyEyebrow": "Hemmesi tamam",
-      "submitReadyTitle": "Netijäňiz işlenmäge taýýar",
-      "submitReadyDescription": "Her soraga jogap berildi. Doly drama şahsyýet görkezmesini etjek bolanyňyzda tabşyryň.",
-      "loadingTitle": "Netijäňiz gurulýar",
-      "loadingDescription": "Ölçegleri hasaplaýarys, iň ýakyn tipi gabat getirýäris we soňky netije ekranyny taýýarlaýarys.",
-      "submit": "Tabşyr we netijäni gör",
-      "progress": "{answered} / {total}",
-      "questionNumber": "Sorag {index}",
-      "hiddenDimension": "Ölçeg gizlin",
-      "bonusQuestion": "Goşmaça sorag",
-      "submitHintIncomplete": "Netije sahypasy sizi geçirmazden öň her soraga jogap bermeli.",
-      "submitHintComplete": "Hemmesine jogap berildi. Netije sahypasy siziň sanal janyňyzy höküm etmäge taýýar.",
-      "result": {
-        "normalKicker": "Siziň esasy tipiňiz",
-        "drunkKicker": "Gizlin tip işjeň",
-        "fallbackKicker": "Ulgam ätiýaçlyk režimi",
-        "normalBadge": "Gabat gelme {similarity}% · Takyk gabat gelme {exact}/15 ölçeg",
-        "drunkBadge": "Gabat gelme 100% · Alkogol anomalýa faktory üstünlik gazandy",
-        "fallbackBadge": "Iň gowy standart tip diňe {similarity}% ýetdi",
-        "normalSub": "Ölçeg gabat gelmesi güýçli bolany üçin bu siziň esasy şahsyýet keşbiňiz hökmünde kabul edilip bilner.",
-        "drunkSub": "Alkogol bölümi adaty şahsyýet höküm ýoluny üýtgetdi.",
-        "fallbackSub": "Standart şahsyýet kitaphanasy siziň beýni simleriňizden el çekdi, şonuň üçin ulgam mejbury HHHH bellik etdi.",
-        "secondaryType": "Gizlin bölümsiz, iň ýakyn standart gabat gelme {code} ({name}) bolardy.",
-        "analysisTitle": "Bu tipiň çalt düşündirişi",
-        "dimensionsTitle": "On bäş ölçegli bölüniş",
-        "funNoteTitle": "Dostlukly ýady",
-        "funNoteDefault": "Bu synag diňe güýmenje üçindir. Ony diagnoz, işe almak, tanyşmak kararlary, aýrylyşma, palçykçylyk ýa-da islendik agdyklyk ýagdaýda ulanmaly däl.",
-        "funNoteSpecial": "Bu synag diňe güýmenje üçindir. Gizlin bölüm we HHHH ätiýaçlyk mehanizmleri bilgeşleýin güýmenjedir we psihologiki, lukmançylyk, mistiki ýa-da diagnostiki subut hasap edilmeli däl."
-      }
-    },
-    "relatedGamesTitle": "Has köp çalt oýun synaglary we oýunlary",
-    "categoriesTitle": "Degişli kategoriýalary gözden geçiriň"
-  },
   "tests": {
     "metaTitle": "Mugt Kognitiw Bahalandyrma Synaglary | ADHD Synagy | Işjeň Ýat Bahalandyrmasy | Üns Oýunlary",
     "metaDescription": "Mugt çalt kognitiw bahalandyrma synaglaryny geçiň: çagalar we uly adamlar üçin ADHD bahalandyrmalary, işjeň ýat synaglary, üns bahalandyrmalary. Ylmy netijelere esaslanýan şahsyýetleşdirilen üns maslahatlaryny alyň.",
@@ -3868,12 +3696,12 @@
       "description": "Işjeň ýat öwretmesiniň altyn standarty. Oýandyrma nusgalaryny ýat tutmagyňyzy çäklendirýär."
     },
     "schulte": {
-      "title": "Schulte Tablisalary",
+      "title": "Yzygiderlik Tablisalary",
       "description": "Gözenek esasyly wizual gözleg wezipesi. Periferiki görme, okamak tizligini we saýlawly ünsi güýçlendirýär."
     },
     "stroop": {
-      "title": "Stroop Synaglary",
-      "description": "Kognitiw çeýeligi we togtadyş gözegçiligini ölçeýän klassik psihologik synag."
+      "title": "Strup synaglary",
+      "description": "Aň-bilim çeýeligini we awtomatik reaksiýany saklamak ukybyny ölçeýän nusgawy psihologik synag."
     },
     "memory": {
       "title": "Gysga Möhletli Ýat",
@@ -3883,13 +3711,13 @@
   "workingMemoryGuide": {
     "metaTitle": "Işjeň ýat boýunça iň soňky gollanma: Ylmy öwretme we kognitiw gowulandyrma",
     "metaDescription": "Işjeň ýadyň newroşynasyna çuňňur aralaşyň, Dual N-Back ýaly ylmy taýdan barlanan öwretme usullaryny öwreniň we ýadyňyzy, ünsüňizi we suwuk zehiniňizi gowulandyrmak üçin giňişleýin meýilnamany alyň.",
-    "metaKeywords": "işjeň ýat, kognitiw öwretme, dual n-back, schulte tablisa, ýady gowulandyrmak, üns öwretme, newroplastiklik, suwuk zehin, kognitiw gowulandyrma, üns",
+    "metaKeywords": "işjeň ýat, aň-bilim türgenleşigi, dual n-back, Yzygiderlik tablisasy, ýady gowulandyrmak, üns türgenleşigi, neýroplastiklik, suwuk zehin, aň-bilim ukyplaryny ösdürmek, üns",
     "ogTitle": "Işjeň ýat boýunça iň soňky gollanma: Ylmdan amala çenli doly kognitiw gowulandyrma meýilnamasy",
     "ogDescription": "Işjeň ýadyň syrlaryny öwreniň, Jaeggi we beýlekileriň döwrebap barlaglary bilen goldanylýan öwretme usullaryny öwreniň we ylma esaslanýan oýunlar we durmuş stili optimallaşdyrmalary arkaly kognitiw ukyplaryňyzy ulgamlaýyn güýçlendiriň.",
     "title": "Işjeň ýat boýunça iň soňky gollanma: Kognitiw ukyplaryňyzy ylmy taýdan gowulandyryň",
     "subtitle": "Iň soňky newroşynas barlaglaryna esaslanýar, bu gollanma işjeň ýadyňyzy gowulandyrmak üçin nazary esaslardan amaly maşklara çenli doly meýilnamany berýär, okaýyşda, işde we durmuşda öndürijiligiňizi artdyrmaga kömek edýär.",
     "ctaStart": "Dual N-Back öwretmesini başla",
-    "ctaTry": "Schulte tablisasyny syna",
+    "ctaTry": "Yzygiderlik tablisasyny syna",
     "breadcrumbHome": "Baş sahypa",
     "breadcrumbCurrent": "Işjeň ýat gollanmasy",
     "baddeleyDiagram": {
@@ -4222,7 +4050,7 @@
         "benefit4": "Köptasks optimallaşdyryldy"
       },
       "schulte": {
-        "description": "Walter Schulte-iň newropsihologik usulyna esaslanýan wizual üns öwretmesi. Periferiki görme ösdürip, okamak tizligini 28% we üns aralygyny 47% artdyrýar.",
+        "description": "Walter Yzygiderlik-iň newropsihologik usulyna esaslanýan wizual üns öwretmesi. Periferiki görme ösdürip, okamak tizligini 28% we üns aralygyny 47% artdyrýar.",
         "benefit1": "+28% okamak tizligi",
         "benefit2": "+47% üns aralygy",
         "benefit3": "Uzalýan üns wagty",
@@ -4279,8 +4107,8 @@
         "difficulty": "Orta"
       },
       "article2": {
-        "title": "Schulte tablisalarynyň ylmy: Wizual üns öwretmesiniň newral esaslary",
-        "description": "Posner-iň üns torlary teoriýasyna we 50 ýyllyk newropsihologik barlaglara esaslanýar, bu makala Schulte tablisalarynyň periferiki görme öwretmesi arkaly okamak tizligini 28% we üns aralygyny 47% nädip artdyrýandygyny düşündirýär.",
+        "title": "Yzygiderlik tablisalarynyň ylmy: Wizual üns öwretmesiniň newral esaslary",
+        "description": "Posner-iň üns torlary teoriýasyna we 50 ýyllyk newropsihologik barlaglara esaslanýar, bu makala Yzygiderlik tablisalarynyň periferiki görme öwretmesi arkaly okamak tizligini 28% we üns aralygyny 47% nädip artdyrýandygyny düşündirýär.",
         "highlights": "Posner-iň tor teoriýasy,+28% okamak tizligi,Periferiki görme ösüşi,Kliniki goşundy",
         "tag": "Wizual üns",
         "readTime": "12 minut okamak",
@@ -4296,10 +4124,10 @@
       }
     },
     "schulte": {
-      "title": "👁️ Schulte tablisa öwretmesi: Wizual ünsüň ylmy pugtalandyrylmagy",
+      "title": "👁️ Yzygiderlik tablisa öwretmesi: Wizual ünsüň ylmy pugtalandyrylmagy",
       "posnerTheory": {
         "title": "Wizual ünsüň ylmy: Posner-iň üns torlarynyň üçligi",
-        "p1": "Kognitiw newrolog Michael Posner adamyň üns ulgamynyň üç sany garaşsyz, ýöne hyzmatdaşlyk edýän torlardan ybaratdygyny açdy. Schulte tablisa öwretmesi üç toruny hem bir wagtyň özünde pugtlandyryp, wizual ünsde toplumlaýyn gowulandyrma gazanyp biler.",
+        "p1": "Kognitiw newrolog Michael Posner adamyň üns ulgamynyň üç sany garaşsyz, ýöne hyzmatdaşlyk edýän torlardan ybaratdygyny açdy. Yzygiderlik tablisa öwretmesi üç toruny hem bir wagtyň özünde pugtlandyryp, wizual ünsde toplumlaýyn gowulandyrma gazanyp biler.",
         "card1": {
           "title": "Duýduryş toru",
           "p": "Duýduryş ýagdaýyny saklaýar, oýandyrmalara jogap bermäge taýýar.",
@@ -4318,7 +4146,7 @@
       },
       "readingSpeed": {
         "title": "Okamak tizligini gowulandyrmak: Amaly barlag maglumatlary",
-        "p1": "Köp barlaglar Schulte tablisa öwretmesiniň okamak tizligini düýpgöter gowulandyryandygyny tassyklady. Esasy mehanizm netijeli wizual meýdanyň giňelmegi we göz hereket nusgalarynyň optimallaşdyrylmagydyr.",
+        "p1": "Köp barlaglar Yzygiderlik tablisa öwretmesiniň okamak tizligini düýpgöter gowulandyryandygyny tassyklady. Esasy mehanizm netijeli wizual meýdanyň giňelmegi we göz hereket nusgalarynyň optimallaşdyrylmagydyr.",
         "russiaStudy": {
           "title": "📈 Rus barlagyndan maglumatlar (8 hepdelik öwretme)",
           "visual": {
@@ -4332,7 +4160,7 @@
         },
         "psychologyStudy": {
           "title": "🎓 Bilim psihologiýasy barlagy (200 orta mekdep talyby)",
-          "p1": "Schulte tablisa öwretmesini gündelik okuw meýilnamasyna birleşdirýän tejribäniň netijeleri:",
+          "p1": "Yzygiderlik tablisa öwretmesini gündelik okuw meýilnamasyna birleşdirýän tejribäniň netijeleri:",
           "list": "<li>• Okamak suwuklygynda düýpgöter gowulandyrma, ortaça 1,5 synp derejesinde artma.</li><li>• Ähli derslerde ortaça 15-20 bal artyly bilen akademik öndürijiligiň toplumlaýyn gowulandyrylmagy.</li><li>• Sapakda üns 60% gowulandy.</li>"
         }
       }
@@ -4374,13 +4202,13 @@
         "beginner": {
           "title": "🌱 Başlangyç meýilnama",
           "audience": "Ilkinji gezek kognitiw öwredijiler, üns kynçylyklary bolan adamlar ýa-da aýdyň ýat peselmesi bolan adamlar.",
-          "focus": "<li>• Schulte tablisa (5×5): günde 10 minut</li><li>• Dual 1-Back: günde 15 minut</li><li>• Gysga möhletli ýat synagy: hepde 2 gezek</li>",
+          "focus": "<li>• Yzygiderlik tablisa (5×5): günde 10 minut</li><li>• Dual 1-Back: günde 15 minut</li><li>• Gysga möhletli ýat synagy: hepde 2 gezek</li>",
           "effect": "4-6 hepdeden soň üns aralygynyň 50% artmagy."
         },
         "advanced": {
           "title": "⚡ Ösen meýilnama",
           "audience": "Öwretme tejribesi bolan, ýokary netijelilik gowulandyrmasyny gözleýän ýa-da hünär talaplary bolan adamlar.",
-          "focus": "<li>• Dual 2-4 Back: günde 20 minut</li><li>• Köptasks Schulte: günde 15 minut</li><li>• Çylşyrymly ýat wezipeleri: günde 10 minut</li>",
+          "focus": "<li>• Dual 2-4 Back: günde 20 minut</li><li>• Köptasks Yzygiderlik: günde 15 minut</li><li>• Çylşyrymly ýat wezipeleri: günde 10 minut</li>",
           "effect": "6-8 hepdeden soň işjeň ýat kuwwatynyň 30% artmagy."
         },
         "expert": {

@@ -1505,14 +1505,18 @@
         "bestTime": "最佳时间",
         "shareTitle": "我的斯特鲁普效应测试结果",
         "shareText": "我完成了斯特鲁普效应测试，准确率 {accuracy}%，平均反应时间 {avgReactionTime}，斯特鲁普效应 {stroopEffect}。",
-        "keyboardShortcut": "使用键盘快捷键：1-6代表颜色",
+        "keyboardShortcut": "使用键盘按键 1–9 和 0 选择颜色",
         "colors": {
           "red": "红色",
           "blue": "蓝色",
           "green": "绿色",
           "yellow": "黄色",
           "purple": "紫色",
-          "pink": "粉色"
+          "pink": "粉色",
+          "orange": "橙色",
+          "cyan": "青色",
+          "brown": "棕色",
+          "black": "黑色"
         }
       }
     },
@@ -1918,11 +1922,6 @@
         "finalThreshold": "最终呈现：{milliseconds} 毫秒 · 视野等级 {level}",
         "vehicles": { "sedan": "轿车", "taxi": "出租车", "bus": "巴士", "truck": "卡车" }
       }
-    },
-    "sbtiTest": {
-      "title": "SBTI 人格测试",
-      "description": "免费在线玩最近很火的 SBTI 人格测试，几分钟就能拿到结果图，看看你会被分到哪种人格。",
-      "featuredDescription": "最近很火的 SBTI 人格测试，几分钟就能测出结果，看看你会被分到哪种人格。"
     }
   }
 }

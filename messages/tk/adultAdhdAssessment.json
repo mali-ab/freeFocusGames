@@ -91,15 +91,15 @@
       "gameRecommendationsSubtitle": "Seljeriş netijeleriňize esaslanyp, bu oýunlar ulylar üçin ünsi we fokusy güýçlendirmäge kömek edip biler:",
       "gameNames": {
         "dual-n-back": "Iki esse N-yza tälimi",
-        "stroop-effect-test": "Stroop täsiri synagy",
-        "schulte-table": "Schulte tablisasy",
+        "stroop-effect-test": "Strup täsiri synagy",
+        "schulte-table": "Yzygiderlik tablisasy",
         "larger-number": "Sanlary deňeşdirmek",
         "reaction-time": "Reaksiýa wagty synagy"
       },
       "gameDescriptions": {
         "dual-n-back": "Işjeň ýady we ýerine ýetiriji ünsiň gözegçiligini güýçlendirýär",
-        "stroop-effect-test": "Kognitiwlylygyň we päsgelçilik kontrolynyň täsirini ýokarlandyrýar",
-        "schulte-table": "Görkezme ünsi we konsentrasiýany güýçlendirýär",
+        "stroop-effect-test": "Aň-bilim çeýeligini we päsgel berýän reaksiýany saklamak ukybyny ösdürýär",
+        "schulte-table": "Görüş ünsüni we ünsi jemlemek ukybyny ösdürýär",
         "larger-number": "Prosesleşdirme tizligini we jikme-jiklere ünsi berkidýär",
         "reaction-time": "Jogap bermekden saklanmagy we fokusy ösdürýär"
       },
